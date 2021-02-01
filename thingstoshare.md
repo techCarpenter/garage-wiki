@@ -4,7 +4,7 @@
 - [x] [3 years of building - Alex West](https://www.alexwest.co/three_years/)
 - [x] [List of articles elaborating on _1000 true fans_](https://ungated.media/article/tools/)
 - [x] People share their successes to inspire you. Don't compare yourself to them, figure out your story.
-- [x] Make yourself like an auto mechanic ([expanded thoughts](#be-as-necessary-as-an-auto-mechanic))
+- [x] Make yourself as necessary as an auto mechanic ([expanded thoughts](#be-as-necessary-as-an-auto-mechanic))
 - [x] All software is some kind of abstraction.
 - [x] No matter what your business is, it all comes down to the people you're SERVING
 - [x] [Don't solve problems, do this instead](https://www.indiehackers.com/post/dont-solve-problems-7c871bf65b)
