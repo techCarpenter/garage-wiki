@@ -1,2 +1,2 @@
-# ThingsToShare
+# Things to share
 
