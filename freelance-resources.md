@@ -15,3 +15,4 @@ Embed on website if possible
 ## Invoicing
 
 - [How to Invoice clients](https://filthyrichwriter.com/copywriting-qa-the-right-way-to-invoice-your-clients/)
+  - Paypal offers invoicing...
