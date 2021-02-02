@@ -46,6 +46,8 @@
 - [ ] [Honest Marketer Guides](https://honestmarketer.com/guides)
 - [ ] [Freelance income tracking](https://filthyrichwriter.com/best-way-track-freelance-income/)
 - [ ] [Make a successful community](https://community.fandom.com/wiki/Help:Making_a_successful_community)
+- [ ] [How to Invoice clients](https://filthyrichwriter.com/copywriting-qa-the-right-way-to-invoice-your-clients/)
+- [ ] Strike a balance between learning everything before you start and learning as you go
 
 ---
 
