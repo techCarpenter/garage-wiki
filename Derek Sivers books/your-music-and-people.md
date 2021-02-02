@@ -1,4 +1,6 @@
-# "Your Music and People" by Derek Sivers
+# Your Music and People
+
+> by Derek Sivers
 
 ## Intro
 
