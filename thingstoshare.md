@@ -40,7 +40,7 @@
 - [ ] [Derek Sivers' website](https://sive.rs/)
   - The first time I saw his site, I despised the lack of design. Now I've warmed up to the idea of a minimal website that focuses on presenting information instead of fancy designs. He's able to focus on the words he writes and not the site itself.
 - [ ] Badges with [shields.io](https://shields.io)
-- [ ] [Licensing a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
+- [ ] Importance of [Licensing a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
 - [ ] [Ryan Kulp](https://www.ryanckulp.com/) - creator of FOMO (aqcuired by Stripe)
 - [ ] What I learned from my first 2 client website projects
 - [ ] [Honest Marketer Guides](https://honestmarketer.com/guides)
