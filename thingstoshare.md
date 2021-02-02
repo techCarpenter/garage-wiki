@@ -42,6 +42,7 @@
 - [ ] Badges with [shields.io](https://shields.io)
 - [ ] [Licensing a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
 - [ ] [Ryan Kulp](https://www.ryanckulp.com/) - creator of FOMO (aqcuired by Stripe)
+- [ ] What I learned from my first 2 client website projects
 
 ---
 
