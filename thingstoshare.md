@@ -44,6 +44,7 @@
 - [ ] [Ryan Kulp](https://www.ryanckulp.com/) - creator of FOMO (aqcuired by Stripe)
 - [ ] What I learned from my first 2 client website projects
 - [ ] [Honest Marketer Guides](https://honestmarketer.com/guides)
+- [ ] [Freelance income tracking](https://filthyrichwriter.com/best-way-track-freelance-income/)
 
 ---
 
