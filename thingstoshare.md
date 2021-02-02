@@ -39,7 +39,7 @@
 - [ ] [Build in public](https://www.mentalnodes.com/the-only-way-to-learn-in-public-is-to-build-in-public)
 - [ ] [Derek Sivers' website](https://sive.rs/)
   - The first time I saw his site, I despised the lack of design. Now I've warmed up to the idea of a minimal website that focuses on presenting information instead of fancy designs. He's able to focus on the words he writes and not the site itself.
-- [ ] https://www.founderhacker.com/
+- [ ] [shields.io](https://shields.io)
 
 ---
 
