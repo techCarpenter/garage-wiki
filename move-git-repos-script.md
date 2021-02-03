@@ -1,35 +1,5 @@
 # Move Git Repos Script
 
-## Repo mapping
-
-| Github                   | Gitlab                 |
-| :----------------------- | :--------------------- |
-| topple                   | Debt Paydown App       |
-| techcarpenter.org-hugo   | techcarpenter          |
-| `techcarpenter.org`      | techcarpenter-gridsome |
-| stack-edit-pro-files     | Stack Edit Pro files   |
-| `manpoweredtools.com`    | man-powered-tools      |
-| leechblock-site-list     | Leechblock Site List   |
-| devries-woodworking-site | devrieswoodworking     |
-| debt-payment-planner     | Debt Payment Planner   |
-| fcc-tribute-page         | tributepage            |
-| fcc-technical-document   | technicaldocument      |
-| fcc-survey-form          | surveyform             |
-| fcc-random-quote-machine | randomquotemachine     |
-| fcc-pomodoro-clock       | pomodoroclock          |
-| fcc-personal-portfolio   | personalportfolio      |
-| fcc-markdown-previewer   | markdownpreviewer      |
-| fcc-landing-page         | landingpage            |
-| fcc-js-calculator        | jscalculator           |
-| fcc-drum-machine         | drummachine            |
-| `same`                   | custom_bookmarks       |
-| `same`                   | `brianjdevries.com`    |
-
-```shell
-git clone git@gitlab.com:techCarpenter/drummachine.git
-git clone git@gitlab.com:techCarpenter/markdownpreviewer.git
-```
-
 ```shell
 #!/usr/bin/bash
 
