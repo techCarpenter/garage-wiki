@@ -49,6 +49,7 @@
 - [ ] [How to Invoice clients](https://filthyrichwriter.com/copywriting-qa-the-right-way-to-invoice-your-clients/)
 - [ ] Strike a balance between learning everything before you start and learning as you go
 - [ ] Script to move git repos [[Move Git Repos Script]]
+- [ ] How to automatically add ssh keys when git bash opens
 
 ---
 
