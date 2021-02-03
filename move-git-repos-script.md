@@ -1,86 +1,68 @@
 # Move Git Repos Script
 
-# Repo mapping
+## Repo mapping
 
-| Transferred | Github                   | Gitlab                 |
-| :---------: | :----------------------- | :--------------------- |
-|     Yes     | topple                   | Debt Paydown App       |
-|     Yes     | techcarpenter.org-hugo   | techcarpenter          |
-|     Yes     | techcarpenter.org        | techcarpenter-gridsome |
-|     Yes     | stack-edit-pro-files     | Stack Edit Pro files   |
-|     Yes     | manpoweredtools.com      | man-powered-tools      |
-|     Yes     | leechblock-site-list     | Leechblock Site List   |
-|     Yes     | devries-woodworking-site | devrieswoodworking     |
-|     Yes     | debt-payment-planner     | Debt Payment Planner   |
-|     Yes     | `same`                   | tributepage            |
-|     Yes     | `same`                   | technicaldocument      |
-|     Yes     | `same`                   | surveyform             |
-|     Yes     | `same`                   | randomquotemachine     |
-|     Yes     | `same`                   | pomodoroclock          |
-|     Yes     | `same`                   | personalportfolio      |
-|     Yes     | `same`                   | markdownpreviewer      |
-|     Yes     | `same`                   | landingpage            |
-|     Yes     | `same`                   | jscalculator           |
-|     Yes     | `same`                   | drummachine            |
-|     Yes     | `same`                   | custom_bookmarks       |
-|     Yes     | `same`                   | brianjdevries.com      |
+| Github                   | Gitlab                 |
+| :----------------------- | :--------------------- |
+| topple                   | Debt Paydown App       |
+| techcarpenter.org-hugo   | techcarpenter          |
+| `techcarpenter.org`      | techcarpenter-gridsome |
+| stack-edit-pro-files     | Stack Edit Pro files   |
+| `manpoweredtools.com`    | man-powered-tools      |
+| leechblock-site-list     | Leechblock Site List   |
+| devries-woodworking-site | devrieswoodworking     |
+| debt-payment-planner     | Debt Payment Planner   |
+| fcc-tribute-page         | tributepage            |
+| fcc-technical-document   | technicaldocument      |
+| fcc-survey-form          | surveyform             |
+| fcc-random-quote-machine | randomquotemachine     |
+| fcc-pomodoro-clock       | pomodoroclock          |
+| fcc-personal-portfolio   | personalportfolio      |
+| fcc-markdown-previewer   | markdownpreviewer      |
+| fcc-landing-page         | landingpage            |
+| fcc-js-calculator        | jscalculator           |
+| fcc-drum-machine         | drummachine            |
+| `same`                   | custom_bookmarks       |
+| `same`                   | `brianjdevries.com`    |
 
 ```shell
-git remote set-url origin git@github.com:techCarpenter/fcc-d3-treemap.git
-git remote set-url origin git@github.com:techCarpenter/fcc-d3-scatterplot.git
-git remote set-url origin git@github.com:techCarpenter/fcc-d3-heatmap.git
-git remote set-url origin git@github.com:techCarpenter/fcc-d3-choropleth.git
-git remote set-url origin git@github.com:techCarpenter/fcc-d3-bar-chart.git
+git clone git@gitlab.com:techCarpenter/drummachine.git
+git clone git@gitlab.com:techCarpenter/markdownpreviewer.git
+```
 
-curRepo=landingpage && \
-newRepo=fcc-landing-page && \
-echo && \
-echo "--- Clone repo ---" && \
-echo && \
-git clone git@gitlab.com:techCarpenter/$curRepo.git $newRepo && \
-echo && \
-echo "--- cd into new folder ---" && \
-echo && \
-cd $newRepo && \
-echo "--- Set 'origin' ---" && \
-echo && \
-git remote set-url origin git@github.com:techCarpenter/$newRepo.git && \
-echo "--- show remotes ---" && \
-echo && \
-git remote -v && \
-echo && \
-echo "--- Push to new origin ---" && \
-echo && \
-git push --mirror origin && \
-echo && \
-echo "--- cd .. ---" && \
+```shell
+#!/usr/bin/bash
+
+curRepo=$1
+newRepo=$2
+
+# clone original repo
+git clone git@gitlab.com:techCarpenter/$curRepo.git $newRepo
+
+# cd into repo folder
+cd $newRepo
+
+# set new origin (gitlab -> github)
+git remote set-url origin git@github.com:techCarpenter/$newRepo.git
+
+# show remote repo values
+# git remote -v
+
+# push to new remote, (--mirror will keep commit history)
+git push --mirror origin
+
+# move up to parent directory
 cd ..
+```
 
+```shell
+# .bash_profile
 
-tranferrepo landingpage fcc-landing-page
+alias transferrepo="$HOME/bin/transfer-repo.sh"
+```
 
-echo "--- Remove 'github' remote ---" && \
-echo && \
-git remote remove github && \
-echo && \
+```shell
+# example usage
 
-git clone git@gitlab.com:techCarpenter/drummachine.git && \
-git clone git@gitlab.com:techCarpenter/markdownpreviewer.git && \
-
-
-/bin
-/c/Program: No such file or directory
-/c/Users/bdevr/bin
-/c/Users/bdevr/bin
-/c/Users/bdevr/bin
-/c/WINDOWS
-/c/WINDOWS/system32
-/c/WINDOWS/System32/OpenSSH
-/c/WINDOWS/System32/Wbem
-/c/WINDOWS/System32/WindowsPowerShell/v1.0
-/mingw64/bin
-/mingw64/bin
-/usr/bin
-/usr/bin
-/usr/local/bin
+transferrepo landingpage fcc-landing-page
 ```
