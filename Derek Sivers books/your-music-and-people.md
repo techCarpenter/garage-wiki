@@ -14,18 +14,18 @@
 - [x] [This is only a test. See what happens](https://sivers.org/tvtest)
 - [x] [Restrictions will set you free](https://sivers.org/restr)
 - [x] [Make mystery: make people wonder](https://sivers.org/mystery)
-- [ ] [Creative communication](https://sivers.org/reach)
-- [ ] [Captain T](https://sivers.org/capt)
+- [x] [Creative communication](https://sivers.org/reach)
+- [x] [Captain T](https://sivers.org/capt)
 
 ## Considerate
 
-- [ ] [“Marketing” just means being considerate](https://sivers.org/cons)
-- [ ] [It’s hard to get off stage](https://sivers.org/stage)
-- [ ] [Constantly ask what they really want](https://sivers.org/wdtrw)
-- [ ] [Don’t try to sound big](https://sivers.org/ncorp)
-- [ ] [Considerate communication](https://sivers.org/ccom)
-- [ ] [Touch as many of their senses as you can](https://sivers.org/senses)
-- [ ] [Life is like high school](https://sivers.org/hs)
+- [x] [“Marketing” just means being considerate](https://sivers.org/cons)
+- [x] [It’s hard to get off stage](https://sivers.org/stage)
+- [x] [Constantly ask what they really want](https://sivers.org/wdtrw)
+- [x] [Don’t try to sound big](https://sivers.org/ncorp)
+- [x] [Considerate communication](https://sivers.org/ccom)
+- [x] [Touch as many of their senses as you can](https://sivers.org/senses)
+- [x] [Life is like high school](https://sivers.org/hs)
 - [ ] [Barking](https://sivers.org/barking)
 
 ## People
