@@ -32,8 +32,8 @@ git remote set-url origin git@github.com:techCarpenter/fcc-d3-heatmap.git
 git remote set-url origin git@github.com:techCarpenter/fcc-d3-choropleth.git
 git remote set-url origin git@github.com:techCarpenter/fcc-d3-bar-chart.git
 
-curRepo=surveyform && \
-newRepo=fcc-survey-form && \
+curRepo=landingpage && \
+newRepo=fcc-landing-page && \
 echo && \
 echo "--- Clone repo ---" && \
 echo && \
@@ -57,15 +57,30 @@ echo "--- cd .. ---" && \
 cd ..
 
 
-
+tranferrepo landingpage fcc-landing-page
 
 echo "--- Remove 'github' remote ---" && \
 echo && \
 git remote remove github && \
 echo && \
 
-git clone git@gitlab.com:techCarpenter/landingpage.git && \
-git clone git@gitlab.com:techCarpenter/tributepage.git && \
 git clone git@gitlab.com:techCarpenter/drummachine.git && \
 git clone git@gitlab.com:techCarpenter/markdownpreviewer.git && \
+
+
+/bin
+/c/Program: No such file or directory
+/c/Users/bdevr/bin
+/c/Users/bdevr/bin
+/c/Users/bdevr/bin
+/c/WINDOWS
+/c/WINDOWS/system32
+/c/WINDOWS/System32/OpenSSH
+/c/WINDOWS/System32/Wbem
+/c/WINDOWS/System32/WindowsPowerShell/v1.0
+/mingw64/bin
+/mingw64/bin
+/usr/bin
+/usr/bin
+/usr/local/bin
 ```
