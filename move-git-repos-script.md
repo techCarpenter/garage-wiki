@@ -1,6 +1,6 @@
 # Move Git Repos Script
 
-```shell
+```sh
 #!/usr/bin/bash
 
 curRepo=$1
