@@ -52,6 +52,7 @@
 - [ ] How to automatically add ssh keys when git bash opens
 - [ ] Ask about communcation preference for new subscribers/clients
 - [ ] [Upgrade your user's/audience's world with your product](https://joelhooks.com/badass-making-users-awesome-by-kathy-sierra)
+- [ ] [Building a second brain](https://maggieappleton.com/basb)
 
 ---
 
