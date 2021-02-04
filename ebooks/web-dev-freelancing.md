@@ -1,4 +1,4 @@
-# Web dev freelancing with JAMstac
+# Web dev freelancing with JAMstack
 
 - Learn to build a site
   - Get good enough, then look for clients!
