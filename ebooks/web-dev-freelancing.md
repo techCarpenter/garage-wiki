@@ -1,7 +1,39 @@
 # Web dev freelancing with JAMstack
 
-- Tech stack
+- Learn to build a site
+  - Get good enough, then look for clients!
+- My development/setup process
+  - Get answers to client questionaire
+  - Create accounts for the client
+    - Github
+    - Netlify
+    - SendinBlue
+- Tools/tech I use
+  - VScode
+    - extensions
+  - Gridsome (Static Site Generators)
+  - Forestry.io (Headless CMS)
+  - Netlify (CI/CD and hosting)
+  - Git (bash for windows) - version control
+    - SSH keys
+  - Github
+  - Sendin Blue (custom email for client)
+  - Google Domains (domain purchase)
+  - TailwindCSS
+  - Feather Icons or Material Icons
+  - 
 - How to find first clients
-- What do they want from their website?
+  - Who do you know?
+  - You can be broad, but narrow target customers quickly.
+  - Approach small businesses near you.
+  - Offer a trade. Barter.
+- Working with clients
+  - Client questionaire
+  - Don't be afraid to get on the phone/video call
+  - Make sure they're serious (will they pay $$$?)
 - Where do you have experience?
-- Get familiar enough and then start looking for clients
+- Getting paid
+  - Check/cash (local)
+  - Paypal invoicing
+  - Stripe
+- Business side (not covered yet, just get started!)
