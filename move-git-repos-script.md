@@ -25,13 +25,13 @@ git push --mirror origin
 cd ..
 ```
 
-```shell
+```sh
 # .bash_profile
 
 alias transferrepo="$HOME/bin/transfer-repo.sh"
 ```
 
-```shell
+```sh
 # example usage
 
 transferrepo landingpage fcc-landing-page
