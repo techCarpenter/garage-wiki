@@ -1,4 +1,4 @@
-# ebooks homepage
+# Ebooks homepage
 
 ## Approach to products
 
