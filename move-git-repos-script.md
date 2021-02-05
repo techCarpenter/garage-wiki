@@ -7,6 +7,8 @@ git remote set-url origin git://new.url.here
 git remote remove origin
 git push --mirror origin
 git remote -v
+
+# make script executable
 chmod +x script_one.sh
 ```
 
