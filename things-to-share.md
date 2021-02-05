@@ -62,6 +62,7 @@
 - [ ] [JS project guidelines](https://github.com/elsewhencode/project-guidelines)
 - [ ] ["If you are no longer interested in a project you started, maybe you already got what you came for."](https://news.ycombinator.com/item?id=22792829#22793146)
 - [ ] [\*\*Knowledge wiki workflow](https://github.com/nikitavoloboev/knowledge/blob/master/other/wiki-workflow.md)
+- [ ] [Digital garden template (jekyll)](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 
 ---
 
