@@ -61,6 +61,7 @@
 - [ ] [JavaScript in one pic](https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png)
 - [ ] [JS project guidelines](https://github.com/elsewhencode/project-guidelines)
 - [ ] ["If you are no longer interested in a project you started, maybe you already got what you came for."](https://news.ycombinator.com/item?id=22792829#22793146)
+- [ ] [\*\*Knowledge wiki workflow](https://github.com/nikitavoloboev/knowledge/blob/master/other/wiki-workflow.md)
 
 ---
 
