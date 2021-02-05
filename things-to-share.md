@@ -58,6 +58,9 @@
 - [ ] [Derek Sivers - Daily Journaling](https://sive.rs/dj)
 - [ ] [Working with variables in bash](https://www.howtogeek.com/442332/how-to-work-with-variables-in-bash/)
 - [ ] [VSCode second brain](https://hodgkins.io/vscode-second-brain)
+- [ ] [JavaScript in one pic](https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png)
+- [ ] [JS project guidelines](https://github.com/elsewhencode/project-guidelines)
+- [ ] ["If you are no longer interested in a project you started, maybe you already got what you came for."](https://news.ycombinator.com/item?id=22792829#22793146)
 
 ---
 
