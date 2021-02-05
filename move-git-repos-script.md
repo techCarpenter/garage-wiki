@@ -1,5 +1,17 @@
 # Move Git Repos Script
 
+## Commands
+
+```sh
+git remote set-url origin git://new.url.here
+git remote remove origin
+git push --mirror origin
+git remote -v
+chmod +x script_one.sh
+```
+
+## Script
+
 ```sh
 #!/usr/bin/bash
 
