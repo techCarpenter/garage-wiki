@@ -56,6 +56,7 @@
 - [ ] [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
 - [ ] [Write more](https://joelhooks.com/on-writing-more)
 - [ ] [Derek Sivers - Daily Journaling](https://sive.rs/dj)
+- [ ] [Working with variables in bash](https://www.howtogeek.com/442332/how-to-work-with-variables-in-bash/)
 
 ---
 
