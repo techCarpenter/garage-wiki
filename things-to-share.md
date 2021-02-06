@@ -63,6 +63,7 @@
 - [ ] ["If you are no longer interested in a project you started, maybe you already got what you came for."](https://news.ycombinator.com/item?id=22792829#22793146)
 - [ ] [\*\*Knowledge wiki workflow](https://github.com/nikitavoloboev/knowledge/blob/master/other/wiki-workflow.md)
 - [ ] [Digital garden template (jekyll)](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+- [ ] [Learning Eleventy (Netlify)](https://www.netlify.com/blog/2020/04/09/lets-learn-eleventy-boost-your-jamstack-skills-with-11ty/)
 
 ---
 
