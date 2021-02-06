@@ -64,7 +64,7 @@
 - [ ] [\*\*Knowledge wiki workflow](https://github.com/nikitavoloboev/knowledge/blob/master/other/wiki-workflow.md)
 - [ ] [Digital garden template (jekyll)](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 - [ ] [Learning Eleventy (Netlify)](https://www.netlify.com/blog/2020/04/09/lets-learn-eleventy-boost-your-jamstack-skills-with-11ty/)
-- [ ] [\*\*11ty Tailwind starter repo](https://github.com/tomreinert/minimal-11ty-tailwind-starter)
+- [ ] [\*\*11ty Tailwind starter repo](https://github.com/app-generator/eleventy-tailwind-starter)
 
 ---
 
