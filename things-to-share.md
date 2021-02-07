@@ -66,6 +66,7 @@
 - [ ] [Learning Eleventy (Netlify)](https://www.netlify.com/blog/2020/04/09/lets-learn-eleventy-boost-your-jamstack-skills-with-11ty/)
 - [ ] [\*\*11ty Tailwind starter repo](https://github.com/app-generator/eleventy-tailwind-starter)
 - [ ] [The Indie Web](https://indieweb.org)
+  - [ ] [IndieAuth](https://indieauth.net/)
 
 ---
 
