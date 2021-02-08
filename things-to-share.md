@@ -67,6 +67,7 @@
 - [ ] [\*\*11ty Tailwind starter repo](https://github.com/app-generator/eleventy-tailwind-starter)
 - [ ] [The Indie Web](https://indieweb.org)
   - [ ] [IndieAuth](https://indieauth.net/)
+- [ ] [Add Tailwind to 11ty site](https://hiltonmeyer.com/articles/add-tailwind-11ty.html)
 
 ---
 
