@@ -69,6 +69,7 @@
   - [ ] [IndieAuth](https://indieauth.net/)
 - [ ] [Add Tailwind to 11ty site](https://hiltonmeyer.com/articles/add-tailwind-11ty.html)
 - [ ] [GoMakeThings vanillaJS resources](https://gomakethings.com/start-here/)
+- [ ] [\*Atomic Design](https://atomicdesign.bradfrost.com/chapter-1/)
 
 ---
 
