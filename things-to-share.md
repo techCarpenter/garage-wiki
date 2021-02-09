@@ -71,6 +71,7 @@
 - [ ] [GoMakeThings vanillaJS resources](https://gomakethings.com/start-here/)
 - [ ] [\*Atomic Design](https://atomicdesign.bradfrost.com/chapter-1/)
 - [ ] [This is Responsive](https://bradfrost.github.io/this-is-responsive/)
+- [ ] [The shape of design book](https://shapeofdesignbook.com/)
 
 ---
 
