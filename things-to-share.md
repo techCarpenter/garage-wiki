@@ -37,7 +37,7 @@
 - [ ] [ReadMe Generator](https://github.com/kefranabg/readme-md-generator)
 - [ ] [Andy Matuschak's notes](https://notes.andymatuschak.org)
 - [ ] [Build in public](https://www.mentalnodes.com/the-only-way-to-learn-in-public-is-to-build-in-public)
-- [ ] [Derek Sivers' website](https://sive.rs/)
+- [x] [Derek Sivers' website](https://sive.rs/)
   - The first time I saw his site, I despised the lack of design. Now I've warmed up to the idea of a minimal website that focuses on presenting information instead of fancy designs. He's able to focus on the words he writes and not the site itself.
 - [ ] Badges with [shields.io](https://shields.io)
 - [ ] Importance of [Licensing a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
@@ -71,7 +71,7 @@
 - [ ] [GoMakeThings vanillaJS resources](https://gomakethings.com/start-here/)
 - [ ] [\*Atomic Design](https://atomicdesign.bradfrost.com/chapter-1/)
 - [ ] [This is Responsive](https://bradfrost.github.io/this-is-responsive/)
-- [ ] [The shape of design book](https://shapeofdesignbook.com/)
+- [ ] [_The Shape of Design_ book](https://shapeofdesignbook.com/)
 
 ---
 
