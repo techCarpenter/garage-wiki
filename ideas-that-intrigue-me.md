@@ -10,7 +10,7 @@
 - Personal branding
 - Solo founder/entrepreneur
 - Atomic design
-- Personal crm
+- Personal CRM
 - Open source software
 - Accessibility by default
 - Embrace the cascade (CSS)
