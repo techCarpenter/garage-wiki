@@ -77,6 +77,7 @@
   2. Interest - How can you keep them interested
   3. Desire - How do you help cultivate that desire to use your service
   4. Action - What’s the next actionable step, pay, email?
+- [ ] [Pure Javascript web app](https://codingthesmartway.com/pure-javascript-building-a-real-world-application-from-scratch/)
 
 ---
 
