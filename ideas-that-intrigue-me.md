@@ -21,4 +21,4 @@
   - etc.
 - Non-sleazy self promotion
 - Ethical marketing
-- 
+- **Authenticity**
