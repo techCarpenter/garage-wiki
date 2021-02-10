@@ -3,16 +3,22 @@
 - The Indie Web
 - 1000 True Fans
 - Selling digital products
+  - Experience
+  - Expertise
+  - Knowledge
+  - Time
 - Personal branding
 - Solo founder/entrepreneur
-- atomic design
-- personal crm
-- open source software
-- accessibility by default
-- embrace the cascade (CSS)
-- reducing software dependencies
+- Atomic design
+- Personal crm
+- Open source software
+- Accessibility by default
+- Embrace the cascade (CSS)
+- Reducing software dependencies
 - Lead by example
   - Career
   - Parenting
   - etc.
+- Non-sleazy self promotion
+- Ethical marketing
 - 
