@@ -11,4 +11,8 @@
 - accessibility by default
 - embrace the cascade (CSS)
 - reducing software dependencies
+- Lead by example
+  - Career
+  - Parenting
+  - etc.
 - 
