@@ -72,6 +72,11 @@
 - [ ] [\*Atomic Design](https://atomicdesign.bradfrost.com/chapter-1/)
 - [ ] [This is Responsive](https://bradfrost.github.io/this-is-responsive/)
 - [ ] [_The Shape of Design_ book](https://shapeofdesignbook.com/)
+- [ ] AIDA copywriting acronym
+  1. Attention - What hooks the user
+  2. Interest - How can you keep them interested
+  3. Desire - How do you help cultivate that desire to use your service
+  4. Action - What’s the next actionable step, pay, email?
 
 ---
 
