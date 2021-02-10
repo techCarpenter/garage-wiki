@@ -22,4 +22,4 @@
 - Non-sleazy self promotion
 - Ethical marketing
 - **Authenticity**
-- RSS subscriptions
+- RSS feeds
