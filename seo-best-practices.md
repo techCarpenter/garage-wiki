@@ -15,7 +15,8 @@
 - add structured data to your site
   - [JSON-LD format (recommended)](https://json-ld.org/)
   - <schema.org>
-  - [Rich results test](https://search.google.com/test/rich-results)
+  - [Rich results test][rich-results-test]
+  - [Structured data gallery][structured-data-gallery]
 - Usefule custom 404 page
 - know what your readers want (and give it to them!)
 - **Be careful who you link to!**
@@ -32,8 +33,12 @@
 
 ## [Google advanced SEO docs][seo-advanced]
 
+- understand what [canonical pages][canonical-pages] are
 
 <!-- Links -->
 
 [seo-beginner]: https://developers.google.com/search/docs/beginner/seo-starter-guide "SEO starter guide"
 [advanced-beginner]: https://developers.google.com/search/docs/advanced/guidelines/get-started "Advanced SEO"
+[canonical-pages]: https://developers.google.com/search/docs/advanced/crawling/consolidate-duplicate-urls#definition "Canonocal pages"
+[structured-data-gallery]: https://developers.google.com/search/docs/guides/search-gallery "Structured data gallery"
+[rich-results-test]: https://search.google.com/test/rich-results "Test site for rich results"
