@@ -1,6 +1,6 @@
 # SEO Best Practices
 
-## [Google beginner SEO docs](https://developers.google.com/search/docs/beginner/seo-starter-guide)
+## [Google beginner SEO docs][seo-beginner]
 
 - robots.txt
   - block crawling of 404 page
@@ -19,7 +19,21 @@
 - Usefule custom 404 page
 - know what your readers want (and give it to them!)
 - **Be careful who you link to!**
-  - use `nofollow` to keep from endorsing a link
+  - use `nofollow` or `ugc` to keep from endorsing a link
   - to nofollow all links on the page: `<meta name="robots" content="nofollow">`
 - Optimize images
-- 
+  - provide `alt` text
+  - use `loading="lazy"` for faster page loads
+  - use `img` or `picture` tag
+- Make your site mobile-friendly
+  - Responsive web design
+  - `<meta name="viewport" />` to tell browser how to adjust content
+- Promote your website
+
+## [Google advanced SEO docs][seo-advanced]
+
+
+<!-- Links -->
+
+[seo-beginner]: https://developers.google.com/search/docs/beginner/seo-starter-guide "SEO starter guide"
+[advanced-beginner]: https://developers.google.com/search/docs/advanced/guidelines/get-started "Advanced SEO"
