@@ -34,6 +34,7 @@
 ## [Google advanced SEO docs][seo-advanced]
 
 - understand what [canonical pages][canonical-pages] are
+- understand how to [remove or handle duplicate content][duplicate-content] (avoid creating duplacate content...)
 
 <!-- Links -->
 
@@ -42,3 +43,4 @@
 [canonical-pages]: https://developers.google.com/search/docs/advanced/crawling/consolidate-duplicate-urls#definition "Canonocal pages"
 [structured-data-gallery]: https://developers.google.com/search/docs/guides/search-gallery "Structured data gallery"
 [rich-results-test]: https://search.google.com/test/rich-results "Test site for rich results"
+[duplicate-content]: https://developers.google.com/search/docs/advanced/guidelines/duplicate-content "Handle duplicate content"
