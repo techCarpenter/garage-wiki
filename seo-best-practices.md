@@ -19,4 +19,7 @@
 - Usefule custom 404 page
 - know what your readers want (and give it to them!)
 - **Be careful who you link to!**
-  - 
+  - use `nofollow` to keep from endorsing a link
+  - to nofollow all links on the page: `<meta name="robots" content="nofollow">`
+- Optimize images
+- 
