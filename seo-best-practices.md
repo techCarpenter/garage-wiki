@@ -1,0 +1,2 @@
+# SEO Best Practices
+
