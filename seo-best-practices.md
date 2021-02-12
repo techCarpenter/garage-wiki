@@ -39,7 +39,7 @@
 <!-- Links -->
 
 [seo-beginner]: https://developers.google.com/search/docs/beginner/seo-starter-guide "SEO starter guide"
-[advanced-beginner]: https://developers.google.com/search/docs/advanced/guidelines/get-started "Advanced SEO"
+[seo-advanced]: https://developers.google.com/search/docs/advanced/guidelines/get-started "Advanced SEO"
 [canonical-pages]: https://developers.google.com/search/docs/advanced/crawling/consolidate-duplicate-urls#definition "Canonocal pages"
 [structured-data-gallery]: https://developers.google.com/search/docs/guides/search-gallery "Structured data gallery"
 [rich-results-test]: https://search.google.com/test/rich-results "Test site for rich results"
