@@ -90,7 +90,7 @@
      - Great work takes care of you so you can take care of it
   5. Great work is **never done**
      - Nothing can be perfect. Every time you add to your work or try again, it'll become greater
-
+- [ ] [Don't drink paint stripper](https://levels.io/swiss-water/)
 
 ---
 
