@@ -79,6 +79,18 @@
   3. Desire - How do you help cultivate that desire to use your service
   4. Action - What’s the next actionable step, pay, email?
 - [ ] [Pure Javascript web app](https://codingthesmartway.com/pure-javascript-building-a-real-world-application-from-scratch/)
+- [ ] Amy Hoy’s five rules for doing great work
+  1. Great work is work that **helps people.**
+     - It's not made great by accolades or praise from your peers... but by the experience of the people who use it.
+  2. Great work can be done **by anyone**
+     - You don't have to be an expert, just find what people truly need
+  3. Great work is **shipped work**
+     - For your work to help people, you need to get it into their hot little hands
+  4. Great work is work you can **keep doing**
+     - Great work takes care of you so you can take care of it
+  5. Great work is **never done**
+     - Nothing can be perfect. Every time you add to your work or try again, it'll become greater
+
 
 ---
 
