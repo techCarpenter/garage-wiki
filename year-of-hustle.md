@@ -2,7 +2,7 @@
 
 ## 1. Your mission
 
-> Earn \$10,000 in one year
+> Earn \$10,000 in one year from an info product
 
 |                         |          |                    |
 | :---------------------- | -------: | -----------------: |
