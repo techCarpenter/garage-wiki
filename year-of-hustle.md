@@ -19,8 +19,6 @@
 
 > Set your bar low... win big
 
-|  |  |
-| :-- | :-- |
 ### Product
 
 A small, sharp thing to kill _one pain_ <br> Save 10-15 hours of time and/or \$
