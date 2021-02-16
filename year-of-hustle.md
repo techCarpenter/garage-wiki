@@ -6,7 +6,7 @@
 
 |                         |          |                    |
 | :---------------------- | -------: | -----------------: |
-| Price                   |     \$49 |               \$79 |
+| Price                   |      $49 |                $79 |
 | # of Sales              |      205 |                127 |
 | Subscribers             |    2,050 |              1,270 |
 | ---                     |      --- |                --- |
@@ -46,7 +46,7 @@ An approach (process, knowledge, tool, etc.) to transform their _one pain_ into 
 
 ### Insight
 
- A view into your customer's world: what hurts or helps _one (juicy) pain_ that wastes their time/money/stress?
+A view into your customer's world: what hurts or helps _one (juicy) pain_ that wastes their time/money/stress?
 
 ### Data
 
@@ -78,4 +78,4 @@ What's one thing that makes them...
 - lose money?
 - more money?
 
-### 2. 
+### 2.
