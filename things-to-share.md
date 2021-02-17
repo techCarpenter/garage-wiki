@@ -20,6 +20,8 @@
   - Others?
 - [ ] I read to pair unlikely skills together somewhere... (programming & storytelling, programming & business, etc.) Have you heard this before?
 - [ ] [[IndexedDB Tutorial]]
+  - [Mozilla IndexDB](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage#storing_complex_data_%E2%80%94_indexeddb)
+  - [JS IndexDB Tutorial](https://javascript.info/indexeddb)
 - [ ] What do you use to plan capacity for your SAFe Agile sprints?
 - [ ] How are you pushing out of your comfort zone today?
 - [ ] [Tiny Little Business archive](https://tinylittlebusinesses.com/email-archive/)
