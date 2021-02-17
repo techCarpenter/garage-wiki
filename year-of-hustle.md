@@ -2,7 +2,7 @@
 
 ## 1. Your mission
 
-> Earn \$10,000 in one year from an info product
+> Earn $10,000 in one year from an info product
 
 |                         |          |                    |
 | :---------------------- | -------: | -----------------: |
@@ -21,11 +21,11 @@
 
 ### Product
 
-A small, sharp thing to kill _one pain_ <br> Save 10-15 hours of time and/or \$
+A small, sharp thing to kill _one pain_ <br> Save 10-15 hours of time and/or $$$
 
 ### Launch
 
-- 4 email that share 4 quick wins
+- 4 emails that share 4 quick wins
 - 1 email that asks for the sale
 - repeatable, evergreen
 
@@ -58,24 +58,22 @@ Questions and Answers that lead you straight to the customer's pain (and value)
 
 ### 1. Answer these questions to gather your raw data
 
-What do your future customers need?
+**(Write answers with pen and paper!)**
 
-What is **one thing** people in your industry...
-
-- need to know?
-- fail to do?
-- waste time on?
-- always eff up?
-- bitch about?
-- don't understand?
-- don't have time for?
-- love achieving?
-- feel great about?
-- consider "successful"?
-
-What's one thing that makes them...
-
-- lose money?
-- more money?
+- What do your future customers need?
+- What is **one thing** people in your industry...
+  - need to know?
+  - fail to do?
+  - waste time on?
+  - always eff up?
+  - bitch about?
+  - don't understand?
+  - don't have time for?
+  - love achieving?
+  - feel great about?
+  - consider "successful"?
+- What's one thing that makes them...
+  - lose money?
+  - more money?
 
 ### 2.
