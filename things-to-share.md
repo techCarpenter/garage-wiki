@@ -19,7 +19,7 @@
   - UGenius
   - Others?
 - [ ] I read to pair unlikely skills together somewhere... (programming & storytelling, programming & business, etc.) Have you heard this before?
-- [ ] IndexedDB thread
+- [ ] [[IndexedDB Tutorial]]
 - [ ] What do you use to plan capacity for your SAFe Agile sprints?
 - [ ] How are you pushing out of your comfort zone today?
 - [ ] [Tiny Little Business archive](https://tinylittlebusinesses.com/email-archive/)
