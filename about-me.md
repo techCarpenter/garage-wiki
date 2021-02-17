@@ -163,6 +163,8 @@
   - Bottle openers
   - Pencil boxes
   - Father's day box
+  - felling axe refurbish
+  - hand plane refurbish
 - graphic Design (inkscape)
   - logos
   - freecodecamp badges (concept)
