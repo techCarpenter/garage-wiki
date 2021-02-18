@@ -103,8 +103,8 @@
 - Craftsman
 - Electrical Engineer
 - Online `Farmer|Gardener|Homesteader|Laborer`
-- `Puttering|Meandering|Drifting|Roaming|Dabbling` dev
-- Polymath/Jack-of-all-trades
+- `Puttering|Meandering|Drifting|Roaming` dev
+- Polymath/Jack-of-all-trades/**Dabbler**
 
 ## What I enjoy doing
 
