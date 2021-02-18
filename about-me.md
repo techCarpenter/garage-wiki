@@ -31,35 +31,29 @@
 
 ## Who I am
 
-- Christian (OPC)
-- Gun owner
-- Husband
-- Father of 2 boys
-- Coffee drinker
-- Handtool junkie
-- JAMstack
+- Christian (OPC) ✝️
+- Gun owner 🔫
+- Husband 👨
+- Father of 2 boys 👨‍👩‍👦‍👦
+- Coffee ☕
+- Handtool junkie ⚒️
+- JAMstack & JavaScript 👨‍💻
+  - **craftsman**
   - sensei
-  - dude
   - warlock
   - journeyman
   - wizard
   - whisperer
-  - captain
   - sage
-  - consultant
   - visionary
   - buff
   - czar
   - bro
-- JavaScript buff
 - Creative tinkerer
-- Wannabe content creator
-- Wannabe indie hacker
-- Wannabe freelancer
-- Wannabe solo founder
-- git remote remove origin
-- Married since I was 20
-- Beards and mustaches
+- Budding content creator
+- Solo founder in the making
+- Married since I was 20 🤵👰
+- Beards and mustaches 🧔
 
 ## Personal Interests
 
@@ -68,7 +62,8 @@
 - Bullet journaling (Productivity)
 - Biking
 - Hiking
-- Having facial hair (beard/mustache)
+- Camping/Backpacking
+- Facial hair (beard/mustache)
 - Wearing flannels
 - Strenuous Life
 
@@ -82,17 +77,17 @@
 
 ## Adjectives
 
+- craftsman
 - creative
 - determined
-- undaunted
 - ambitious
 - cheerful
 - inspiring
 - encouraging
 - energizing
+- undaunted
 - dauntless
 - maker
-- craftsman
 
 ## Titles
 
@@ -118,17 +113,19 @@
 - Sports
   - Basketball
   - Soccer (undefeated season 12-0, 8th grade)
-  - Cross Country (Team came in 2nd at the state meet, Team captain senior year)
-    - 5k (PR 17:32)
+  - Cross Country ([online bio](https://www.athletic.net/TrackAndField/Athlete.aspx?AID=1966266))
+    - Team came in 2nd at the state meet
+    - Team captain senior year
+    - 5k (**PR 17:32**)
   - Football
   - Volleyball
   - Swimming
   - Ultimate frisbee
   - Frisbee golf
   - Track & Field ([online bio](https://www.athletic.net/TrackAndField/Athlete.aspx?AID=1966266))
-    - 1 mile run (PR 4:56)
-    - 2 mile run (PR 11:35)
-    - 800m run (PR 2:12)
+    - 1 mile run (**PR 4:56**)
+    - 2 mile run (**PR 11:35**)
+    - 800m run (**PR 2:12**)
     - 4x400m relay
     - 4x800m relay
     - high jump
@@ -171,7 +168,15 @@
 ## Ideas
 
 - Wander on purpose
-- Stray developer
 - Deviate from the focused course (when appropriate)
 - > "Actively cultivate inefficiency" - _Range_ by David Epstein
 - Just because you _can_ doesn't mean you _should_
+
+## Look in to...
+
+- Indie Web
+  - web mentions
+  - indie auth
+- node.js
+  - Raspberry pi node.js server
+  -
