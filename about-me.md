@@ -103,7 +103,7 @@
 - Craftsman
 - Electrical Engineer
 - Online `Farmer|Gardener|Homesteader|Laborer`
-- `Puttering|Meandering|Drifting|Roaming` dev
+- `Puttering|Meandering|Drifting|Roaming|Dabbling` dev
 - Polymath/Jack-of-all-trades
 
 ## What I enjoy doing
@@ -123,7 +123,6 @@
   - Football
   - Volleyball
   - Swimming
-  - Lacrosse
   - Ultimate frisbee
   - Frisbee golf
   - Track & Field ([online bio](https://www.athletic.net/TrackAndField/Athlete.aspx?AID=1966266))
