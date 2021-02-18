@@ -104,7 +104,7 @@
 - Electrical Engineer
 - Online `Farmer|Gardener|Homesteader|Laborer`
 - `Puttering|Meandering|Drifting|Roaming` dev
-- Polymath/Jack-of-all-trades/**Dabbler**
+- **Dabbler** / Polymath / Jack-of-all-trades
 
 ## What I enjoy doing
 
