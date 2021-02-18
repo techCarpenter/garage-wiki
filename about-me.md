@@ -134,7 +134,7 @@
     - high jump
 - Bullet Journaling
 - electrical engineering
-  - Multiplexed alarm clock (arduino)
+  - Multiplexing display alarm clock (arduino)
   - Built a quadcopter
 - software engineering
   - [freecodecamp](https://www.freecodecamp.org/techcarpenter)
@@ -154,7 +154,7 @@
   - raw file download script
   - page formatting script
 - woodworking
-  - Table (no metal fasteners)
+  - Side table (no metal fasteners, teak & maple)
   - Mallet
   - Workbench
   - Ring box
