@@ -32,10 +32,10 @@
 ## Who I am
 
 - Christian (OPC) ✝️
-- Gun owner 🔫
 - Husband 👨
 - Father of 2 boys 👨‍👩‍👦‍👦
-- Coffee ☕
+- Gun owner 🔫
+- Coffee drinker ☕
 - Handtool junkie ⚒️
 - JAMstack & JavaScript 👨‍💻
   - **craftsman**
@@ -172,6 +172,8 @@
 - > "Actively cultivate inefficiency" - _Range_ by David Epstein
 - Just because you _can_ doesn't mean you _should_
 - Software is just connecting invisible pipelines together and mapping information to the correct locations
+- Communicating Career goals with current coworkers
+  - Tension of loving the people you work with currently, but wanting to move career in a different direction
 
 ## Look in to...
 
