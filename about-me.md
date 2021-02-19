@@ -180,4 +180,8 @@
   - indie auth
 - node.js
   - Raspberry pi node.js server
-  -
+- Personal website
+  - CSS options
+  - Pages
+  - Layout
+  - New site planning
