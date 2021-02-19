@@ -171,6 +171,7 @@
 - Deviate from the focused course (when appropriate)
 - > "Actively cultivate inefficiency" - _Range_ by David Epstein
 - Just because you _can_ doesn't mean you _should_
+- Software is just connecting invisible pipelines together and mapping information to the correct locations
 
 ## Look in to...
 
