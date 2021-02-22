@@ -20,6 +20,6 @@
   - Parenting
   - etc.
 - Non-sleazy self promotion
-- Ethical marketing
+- Ethical/considerate marketing
 - **Authenticity**
 - RSS feeds
