@@ -64,8 +64,9 @@
 - Hiking
 - Camping/Backpacking
 - Facial hair (beard/mustache)
-- Wearing flannels
+- Flannels
 - Strenuous Life
+- Web development/Software
 
 ## Now
 
@@ -73,9 +74,58 @@
 - Learning about considerate marketing and self-promotion to complement programming knowledge
 - Struggling between freelancing, building an app, and creating online products (ebooks, etc.)
 
-# Personal insights
+## Personal insights
 
-## Adjectives
+### Books I've read
+
+- Unbroken - Laura Hillenbrand
+- Money: Master the Game - Tony Robbins
+- Your Music and People - Derek Sivers
+- The Boys in the boat - Daniel James Brown
+- Under a Flaming Sky - Daniel James Brown
+- The Vanishing American Adult - Ben Sasse
+- Lincoln
+- The Richest Man in Babylon
+- The Shepherd Leader at Home
+- Family Shepherds
+- Core Christianity - Michael Horton
+- The Masculine Mandate
+- Living in God's Two Kingdoms
+- Dotcom Secrets
+- One Thousand Beards
+- 7 Day Startup
+- Profit First
+- Dave Ramsey's Complete Guide to Money
+- Set For Life - Scott Trench
+- Published - Chandler Bolt
+- The Millionaire Nextdoor
+- The Meaning of Marriage
+- Go Pro - Eric Worre
+- Think And Grow Rich - Napolean Hill
+- Composing Software - Eric Elliot
+- Javascript Allonge Six
+- Strengths Finder 2.0
+- The Book Thief
+- Modern Web Development on the JAMstack
+
+### Books I want to Read
+
+- Beyond Band of Brothers
+- Jesus Politics
+- Practical Wisdom
+- In Praise of Wasting Time
+- The Paradox of Choice
+- Range - David Epstein
+- Company of One
+- Atomic Habits
+- Books about Scanner personality
+  - Wishcraft - _Barbara Sher_ with _Annie Gottlieb_
+  - Refuse to Choose - Barbara Sher
+  - How to be everything - Emilie Wapnick
+  - Renaissance Soul - Margarte Lobenstine
+  - Big Magic - Elizabeth Gilbert
+
+### Adjectives
 
 - **ambitious**
 - **creative**
@@ -92,7 +142,7 @@
 - dauntless
 - maker
 
-## Titles
+### Titles
 
 - Software engineer
 - Software developer
@@ -104,14 +154,14 @@
 - `Puttering|Meandering|Drifting|Roaming` dev
 - **Dabbler** / Polymath / Jack-of-all-trades / Generalist
 
-## What I enjoy doing
+### What I enjoy doing
 
 - trying new tech/tools/activities
 - sharing my findings
 - helping others
 - thinking of different approaches to the same problem/topic
 
-## Projects and activities I've tried/done
+### Projects and activities I've tried/done
 
 - Sports
   - Basketball
@@ -168,7 +218,7 @@
   - logos
   - freecodecamp badges (concept)
 
-## Ideas/Thoughts
+### Ideas/Thoughts
 
 - Wander on purpose
 - Deviate from the focused course (when appropriate)
@@ -180,7 +230,7 @@
 - Communicating career goals with current coworkers
   - Tension of loving the people you work with currently, but wanting to move your career in a different direction
 
-## Look in to...
+### Look in to...
 
 - Indie Web
   - web mentions
