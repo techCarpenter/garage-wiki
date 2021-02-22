@@ -188,3 +188,182 @@
   - Pages
   - Layout
   - New site planning
+- other personal websites
+  - [x] <https://www.aaron-gustafson.com/>
+  - [x] <https://ada.is>
+  - [x] <https://adamwathan.me/>
+  - [x] <http://addyosmani.com>
+  - [x] <http://www.holovaty.com/>
+  - [x] <https://adrianroselli.com>
+  - [x] <http://ishadeed.com/>
+  - [x] <http://www.aimeemarieknight.com/>
+  - [x] <https://alastaircampbell.org>
+  - [x] <https://www.alexkras.com>
+  - [x] <https://alexsexton.com/>
+  - [x] <http://www.wirfs-brock.com/allen>
+  - [x] <https://amberwilson.co.uk>
+  - [x] <https://stackingthebricks.com//>
+  - [x] <https://anaulin.org/>
+  - [x] <https://andreasgal.com>
+  - [x] <https://trib.tv>
+  - [x] <https://nystudio107.com/>
+  - [x] <https://staltz.com/>
+  - [x] <https://waxy.org>
+  - [x] <https://andy-bell.design/>
+  - [ ] <http://www.andybudd.com/>
+  - [ ] <https://andycroll.com/>
+  - [ ] <https://andydavies.me/>
+  - [ ] <http://blog.andyhume.net/>
+  - [ ] <https://web-crunch.com>
+  - [ ] <https://anildash.com/>
+  - [ ] <https://annevankesteren.nl/>
+  - [ ] <https://helloanselm.com/writings>
+  - [ ] <https://bastianallgeier.com>
+  - [ ] <https://benbrignell.com/>
+  - [ ] <https://benfrain.com>
+  - [ ] <https://www.bennadel.com/>
+  - [ ] <https://known.stierand.org/content/all>
+  - [ ] <https://smus.com>
+  - [ ] <https://bradfrost.com>
+  - [ ] <https://www.bramstein.com/>
+  - [ ] <https://www.bram.us>
+  - [ ] <http://brendandawes.com/blog>
+  - [ ] <https://www.brucelawson.co.uk>
+  - [ ] <https://bryanlrobinson.com>
+  - [ ] <https://chriscoyier.net>
+  - [ ] <https://gomakethings.com>
+  - [ ] <https://christianheilmann.com>
+  - [ ] <https://schepp.dev/>
+  - [ ] <https://craphound.com>
+  - [ ] <http://cargowire.net>
+  - [ ] <https://overreacted.io>
+  - [ ] <http://simplebits.com/>
+  - [ ] <http://danmall.me/>
+  - [ ] <https://danielcwilson.com/>
+  - [ ] <http://daverupert.com>
+  - [ ] <http://daveshea.com/>
+  - [ ] <https://davidwalsh.name>
+  - [ ] <http://www.webaxe.org>
+  - [ ] <https://sivers.org/>
+  - [ ] <http://shortdiv.com/>
+  - [ ] <http://hop.ie>
+  - [ ] <https://allinthehead.com/>
+  - [ ] <https://dcurt.is>
+  - [ ] <https://elliotjaystocks.com/>
+  - [ ] <https://thatemil.com/blog/>
+  - [ ] <https://emilyfreeman.io/blog/>
+  - [ ] <https://ericwbailey.design/>
+  - [ ] <https://meyerweb.com/eric/thoughts>
+  - [ ] <https://erikrunyon.com/>
+  - [ ] <http://incisive.nu>
+  - [ ] <https://ethanmarcotte.com>
+  - [ ] <https://flaviocopes.com/>
+  - [ ] <https://francescoschwarz.com>
+  - [ ] <https://www.frankchimero.com/>
+  - [ ] <https://drublic.de/>
+  - [ ] <https://www.90percentofeverything.com>
+  - [ ] <https://csswizardry.com/>
+  - [ ] <https://www.hayley.work/>
+  - [ ] <https://webdevlaw.uk>
+  - [ ] <http://www.heydonworks.com>
+  - [ ] <https://hiddedevries.nl/en/blog/>
+  - [ ] <https://foobartel.com>
+  - [ ] <https://hugogiraudel.com/>
+  - [ ] <http://webdesignernotebook.com>
+  - [ ] <https://bitsofco.de/>
+  - [ ] <http://jakearchibald.com/>
+  - [ ] <https://rezzz.com>
+  - [ ] <http://jasonsantamaria.com/>
+  - [ ] <https://jeffgothelf.com>
+  - [ ] <https://meiert.com/en/>
+  - [ ] <https://adactio.com/journal/>
+  - [ ] <https://snook.ca/>
+  - [ ] <https://jkphl.is/articles/atom.xml>
+  - [ ] <https://bigmedium.com/>
+  - [ ] <https://www.kahlillechelt.com/>
+  - [ ] <https://keithjgrant.com/posts/index.xml>
+  - [ ] <https://laurakalbag.com/>
+  - [ ] <http://lea.verou.me>
+  - [ ] <https://tink.uk>
+  - [ ] <https://www.impressivewebs.com>
+  - [ ] <http://www.lukew.com>
+  - [ ] <http://aworkinglibrary.com/feed/index.xml>
+  - [ ] <https://matuzo.at>
+  - [ ] <http://marcthiele.com>
+  - [ ] <https://marcozehe.de>
+  - [ ] <https://marcus.io/blog>
+  - [ ] <https://marcysutton.com>
+  - [ ] <http://www.markboulton.co.uk>
+  - [ ] <http://markdotto.com/>
+  - [ ] <https://mathiasbynens.be/notes>
+  - [ ] <http://mattgemmell.com/>
+  - [ ] <https://matthiasott.com/rss>
+  - [ ] <https://molily.de/>
+  - [ ] <https://mxb.dev>
+  - [ ] <https://mxstbr.com/thoughts>
+  - [ ] <https://owltastic.com>
+  - [ ] <https://justmarkup.com/log>
+  - [ ] <https://css-irl.info>
+  - [ ] <https://www.mikestreety.co.uk/>
+  - [ ] <https://www.miriamsuzanne.com/>
+  - [ ] <https://meowni.ca/>
+  - [ ] <http://fitzgeraldnick.com/>
+  - [ ] <http://nicolasgallagher.com>
+  - [ ] <https://nolanlawson.com>
+  - [ ] <https://www.zeichenschatz.net>
+  - [ ] <http://blog.pamelafox.org/>
+  - [ ] <https://paulbakaus.com>
+  - [ ] <https://boagworld.com>
+  - [ ] <https://paulirish.com/>
+  - [ ] <https://paulrobertlloyd.com>
+  - [ ] <http://feeds2.feedburner.com/kroener>
+  - [ ] <http://www.quirksmode.org/blog/>
+  - [ ] <http://rachelandrew.co.uk/archives>
+  - [ ] <http://rachelnabors.com/>
+  - [ ] <http://rachsmith.com>
+  - [ ] <http://rmurphey.com/>
+  - [ ] <https://remysharp.com>
+  - [ ] <https://blog.reybango.com>
+  - [ ] <http://clagnut.com/>
+  - [ ] <https://robertnyman.com>
+  - [ ] <http://robinrendle.com/>
+  - [ ] <http://www.456bereastreet.com/>
+  - [ ] <https://www.thecssninja.com>
+  - [ ] <https://sarasoueidan.com/blog/>
+  - [ ] <https://frontstuff.io>
+  - [ ] <https://scottberkun.com>
+  - [ ] <https://seblee.me>
+  - [ ] <https://sebastiangreger.net>
+  - [ ] <https://seths.blog>
+  - [ ] <https://colly.com>
+  - [ ] <http://simurai.com>
+  - [ ] <http://sophiebits.com/>
+  - [ ] <https://spyrestudios.com>
+  - [ ] <https://fettblog.eu/>
+  - [ ] <https://www.stefanjudis.com>
+  - [ ] <http://www.the-haystack.com>
+  - [ ] <http://stevemarshall.com/>
+  - [ ] <https://stephaniewalter.design>
+  - [ ] <http://www.alwaystwisted.com/>
+  - [ ] <http://www.xanthir.com/blog/>
+  - [ ] <https://tantek.com/>
+  - [ ] <https://www.tatianamac.com/>
+  - [ ] <https://tbrown.org/>
+  - [ ] <https://timkadlec.com/>
+  - [ ] <https://tobiasahlin.com>
+  - [ ] <https://tobiastom.name/index>
+  - [ ] <https://vanschneider.com>
+  - [ ] <https://toddmotto.com/>
+  - [ ] <http://trentwalton.com>
+  - [ ] <https://tylersticka.com/>
+  - [ ] <http://una.github.io>
+  - [ ] <https://valhead.com>
+  - [ ] <http://vasilis.nl>
+  - [ ] <https://veerle.duoh.com>
+  - [ ] <https://viljamis.com/>
+  - [ ] <http://iamvdo.me/en>
+  - [ ] <http://www.vcarrer.com/>
+  - [ ] <https://wesbos.com>
+  - [ ] <https://blog.yoav.ws/>
+  - [ ] <https://www.zachleat.com/web/notes/>
+  - [ ] <http://www.zeldman.com>
