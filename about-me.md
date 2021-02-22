@@ -99,7 +99,7 @@
 - Electrical Engineer
 - Online `Farmer|Gardener|Homesteader|Laborer`
 - `Puttering|Meandering|Drifting|Roaming` dev
-- **Dabbler** / Polymath / Jack-of-all-trades
+- **Dabbler** / Polymath / Jack-of-all-trades / Generalist
 
 ## What I enjoy doing
 
@@ -165,16 +165,17 @@
   - logos
   - freecodecamp badges (concept)
 
-## Ideas
+## Ideas/Thoughts
 
 - Wander on purpose
 - Deviate from the focused course (when appropriate)
 - > "Actively cultivate inefficiency" - _Range_ by David Epstein
 - Just because you _can_ doesn't mean you _should_
   - Tech related things...
+  - Scaling a business to make oodles of money
 - Software is just connecting invisible pipelines together and mapping information to the correct locations
 - Communicating career goals with current coworkers
-  - Tension of loving the people you work with currently, but wanting to move career in a different direction
+  - Tension of loving the people you work with currently, but wanting to move your career in a different direction
 
 ## Look in to...
 
