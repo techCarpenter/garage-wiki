@@ -77,10 +77,13 @@
 
 ## Adjectives
 
+- **ambitious**
+- **creative**
+- **curious**
+- **mindful**
+- **humble**
 - craftsman
-- creative
 - determined
-- ambitious
 - cheerful
 - inspiring
 - encouraging
