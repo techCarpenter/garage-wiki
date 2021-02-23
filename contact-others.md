@@ -19,6 +19,7 @@
 | Tanya Mimi       | _Contact_             | slashercareer.com  |            |
 | Christian Tietze | me@christiantietze.de | christiantietze.de | _Location_ |
 | Tyler Kress      | _Contact_             | _Website_          | _Location_ |
+| Paul Brady       | _Contact_             | paulbrady.dev      | _Location_ |
 | _Name_           | _Contact_             | _Website_          | _Location_ |
 
 ## Already Contacted
@@ -52,4 +53,4 @@
 | Tania Rascia | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Rob Hardy | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Sebastian Martin | sebastianmartin2044@gmail.com | advantarium.com, sebastianmartin.dev | Munich, Germany | 02-23-2021 |
-| Matt Byma | 616.890.0723 | myproturfsolutions.com | Walker, Michigan | 02-23-2021 |
+| Matt Byma | 616.890.0723, myproturfsolutions@gmail.com | myproturfsolutions.com | Walker, Michigan | 02-23-2021 |
