@@ -94,6 +94,7 @@
      - Nothing can be perfect. Every time you add to your work or try again, it'll become greater
 - [ ] [Don't drink paint stripper](https://levels.io/swiss-water/)
 - [ ] [Nikolas Luhmann on note taking](https://luhmann.surge.sh/)
+- [ ] [Hemingway App](http://www.hemingwayapp.com/)
 
 ---
 
