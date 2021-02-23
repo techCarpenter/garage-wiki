@@ -2,22 +2,22 @@
 
 ## To Contact
 
-| Name             | Contact Info          | Site             | Location |
-| :--------------- | :-------------------- | :--------------- | :------- |
-| Ethan Waldman    | info@thetinyhouse.net | thetinyhouse.net |          |
-| Kevon Cheung     | Contact               | Website          | Location |
-| Chris Ferdinandi | Contact               | Website          | Location |
-| Monica Lent      | Contact               | Website          | Location |
-| Tony Fahkry      | Contact               | Website          | Location |
-| Flavio Copes     | Contact               | Website          | Location |
-| Florin Pop       | Contact               | Website          | Location |
-| Jason Cohen      | Contact               | Website          | Location |
-| Jason Lengstorf  | Contact               | Website          | Location |
-| Justin Welsh     | Contact               | Website          | Location |
-| Jack Butcher     | Contact               | Website          | Location |
-| Bret Comnes      | bcomnes@gmail.com     | Website          | Location |
-| Name             | Contact               | Website          | Location |
-| Name             | Contact               | Website          | Location |
+| Name             | Contact Info          | Site              | Location |
+| :--------------- | :-------------------- | :---------------- | :------- |
+| Ethan Waldman    | info@thetinyhouse.net | thetinyhouse.net  |          |
+| Kevon Cheung     | Contact               | Website           | Location |
+| Chris Ferdinandi | Contact               | Website           | Location |
+| Monica Lent      | Contact               | Website           | Location |
+| Tony Fahkry      | Contact               | Website           | Location |
+| Flavio Copes     | Contact               | Website           | Location |
+| Florin Pop       | Contact               | Website           | Location |
+| Jason Cohen      | Contact               | Website           | Location |
+| Jason Lengstorf  | Contact               | Website           | Location |
+| Justin Welsh     | Contact               | Website           | Location |
+| Jack Butcher     | Contact               | Website           | Location |
+| Bret Comnes      | bcomnes@gmail.com     | Website           | Location |
+| Tanya Mimi       | Contact               | slashercareer.com | Location |
+| Name             | Contact               | Website           | Location |
 
 ## Already Contacted
 
@@ -26,7 +26,11 @@
 | Name | Contact | Website | Location | Date |
 | Name | Contact | Website | Location | Date |
 | Name | Contact | Website | Location | Date |
-| Name | Contact | Website | Location | Date |
+| Brad Hilton | brad@skyvive.com | Website | Location | Salt Lake City, Utah |
+| Jared Hughes | jaredhughesee@gmail.com | Website | Location | Date |
+| David Hearn | Contact | Website | Location | Date |
+| Bill Miller | Contact | Website | Location | Date |
+| Susan Ratsch | Contact | Website | Location | Date |
 | Matt \_ | matt@autogrow.co | Website | Location | Date |
 | Russell Fyfe | rbfyfe@gmail.com | Website | Location | Date |
 | Matt Ayers | mattayers.nz@gmail.com | Website | Location | Date |
