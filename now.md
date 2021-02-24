@@ -1,7 +1,7 @@
 # Now
 
 - Creating new habits
-  - Building and maintaining relationships [[Contact Others]]
+  - Building and maintaining relationships ([[Contact Others]])
     - Target: 3 new people/week
   - Writting daily & tracking it
   - Praying with Hannah every night
