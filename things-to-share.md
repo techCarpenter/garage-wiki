@@ -95,6 +95,7 @@
 - [ ] [Don't drink paint stripper](https://levels.io/swiss-water/)
 - [ ] [Nikolas Luhmann on note taking](https://luhmann.surge.sh/)
 - [ ] [Hemingway App](http://www.hemingwayapp.com/)
+- [ ] You don't need to be an expert to [share your knowledge](#sharing-knowledge-is-like-teaching-someone-to-ride-a-bike)
 
 ---
 
@@ -115,3 +116,11 @@ These are the skills that are necessary to some extent for building a custom web
 - Email setup
 - Custom design
 - Contact forms
+
+## Sharing knowledge is like teaching someone to ride a bike
+
+It's silly to think that only an expert bicyclist can teach children how to ride a bike.
+
+In fact, I taught all my siblings how to ride a 2-wheeler. I wasn't that far ahead of them, but I could do something they couldn't so I showed them how.
+
+The same is true for anything else. If you are even 1 step ahead of someone else, you can bring them up to your level. Chances are you're more than 1 step ahead of someone out there.
