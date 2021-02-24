@@ -2,25 +2,25 @@
 
 ## To Contact
 
-| Name             | Contact Info          | Website            | Location   |
-| :--------------- | :-------------------- | :----------------- | :--------- |
-| Ethan Waldman    | info@thetinyhouse.net | thetinyhouse.net   |            |
-| Kevon Cheung     | _Contact_             | _Website_          | _Location_ |
-| Chris Ferdinandi | _Contact_             | _Website_          | _Location_ |
-| Monica Lent      | _Contact_             | _Website_          | _Location_ |
-| Tony Fahkry      | _Contact_             | _Website_          | _Location_ |
-| Flavio Copes     | _Contact_             | _Website_          | _Location_ |
-| Florin Pop       | _Contact_             | _Website_          | _Location_ |
-| Jason Cohen      | _Contact_             | _Website_          | _Location_ |
-| Jason Lengstorf  | _Contact_             | _Website_          | _Location_ |
-| Justin Welsh     | _Contact_             | _Website_          | _Location_ |
-| Jack Butcher     | _Contact_             | _Website_          | _Location_ |
-| Bret Comnes      | bcomnes@gmail.com     | _Website_          | _Location_ |
-| Tanya Mimi       | _Contact_             | slashercareer.com  |            |
-| Christian Tietze | me@christiantietze.de | christiantietze.de | _Location_ |
-| Tyler Kress      | _Contact_             | _Website_          | _Location_ |
-| Paul Brady       | _Contact_             | paulbrady.dev      | _Location_ |
-| _Name_           | _Contact_             | _Website_          | _Location_ |
+| Name | Contact Info | Website | Location |
+| :-- | :-- | :-- | :-- |
+| Ethan Waldman | info@thetinyhouse.net | thetinyhouse.net |  |
+| Kevon Cheung | _Contact_ | _Website_ | _Location_ |
+| Chris Ferdinandi | _Contact_ | _Website_ | _Location_ |
+| Monica Lent | _Contact_ | _Website_ | _Location_ |
+| Tony Fahkry | _Contact_ | _Website_ | _Location_ |
+| Flavio Copes | _Contact_ | _Website_ | _Location_ |
+| Florin Pop | _Contact_ | _Website_ | _Location_ |
+| Jason Cohen | _Contact_ | _Website_ | _Location_ |
+| Jason Lengstorf | _Contact_ | _Website_ | _Location_ |
+| Justin Welsh | _Contact_ | _Website_ | _Location_ |
+| Jack Butcher | _Contact_ | _Website_ | _Location_ |
+| Bret Comnes | bcomnes@gmail.com | _Website_ | _Location_ |
+| Tanya Mimi | _Contact_ | slashercareer.com |  |
+| Christian Tietze | me@christiantietze.de | christiantietze.de, zettelkasten.de | _Location_ |
+| Tyler Kress | _Contact_ | _Website_ | _Location_ |
+| Paul Brady | _Contact_ | paulbrady.dev | _Location_ |
+| _Name_ | _Contact_ | _Website_ | _Location_ |
 
 ## Already Contacted
 
