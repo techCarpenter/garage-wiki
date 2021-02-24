@@ -124,5 +124,3 @@ It's silly to think that only an expert bicyclist can teach children how to ride
 In fact, I taught all my siblings how to ride a 2-wheeler. I wasn't that far ahead of them, but I could do something they couldn't so I showed them how.
 
 The same is true for anything else. If you are even 1 step ahead of someone else, you can bring them up to your level. Chances are you're more than 1 step ahead of someone out there.
-
-[[kasten/202102241338.md]]
