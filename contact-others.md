@@ -2,7 +2,7 @@
 
 ## To Contact
 
-| Name             | Contact Info          | Site               | Location   |
+| Name             | Contact Info          | Website            | Location   |
 | :--------------- | :-------------------- | :----------------- | :--------- |
 | Ethan Waldman    | info@thetinyhouse.net | thetinyhouse.net   |            |
 | Kevon Cheung     | _Contact_             | _Website_          | _Location_ |
@@ -24,7 +24,7 @@
 
 ## Already Contacted
 
-| Name | Contact Info | Site | Location | Last Contacted |
+| Name | Contact Info | Website | Location | Last Contacted |
 | :-- | :-- | :-- | :-- | --: |
 | _Name_ | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Name | _Contact_ | _Website_ | _Location_ | _Date_ |
