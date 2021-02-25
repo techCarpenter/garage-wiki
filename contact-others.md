@@ -26,7 +26,7 @@
 | Drew Davis | _Contact_ | _Website_ | _Location_ |
 | Jonathan Engle | _Contact_ | _Website_ | _Location_ |
 | Jon Bosma | _Contact_ | _Website_ | _Location_ |
-| Jared | _Contact_ | _Website_ | _Location_ |
+| Jared Haan | _Contact_ | _Website_ | _Location_ |
 | Cole Voeller | _Contact_ | _Website_ | _Location_ |
 | Ryan Baldwin | _Contact_ | _Website_ | _Location_ |
 | Zach Leatherman | _Contact_ | _Website_ | _Location_ |
