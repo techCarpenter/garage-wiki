@@ -32,7 +32,7 @@
 | Zach Leatherman | _Contact_ | _Website_ | _Location_ |
 | Kyle Keough | _Contact_ | _Website_ | _Location_ |
 | Stan Church | _Contact_ | _Website_ | _Location_ |
-| _Name_ | _Contact_ | _Website_ | _Location_ |
+| Tom Hirst | hello@tomhirst.com | tomhirst.com | Washington DC |
 | _Name_ | _Contact_ | _Website_ | _Location_ |
 | _Name_ | _Contact_ | _Website_ | _Location_ |
 | _Name_ | _Contact_ | _Website_ | _Location_ |
