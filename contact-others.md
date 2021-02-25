@@ -21,6 +21,7 @@
 | Tyler Kress | _Contact_ | _Website_ | _Location_ |
 | Paul Brady | _Contact_ | paulbrady.dev | _Location_ |
 | Julian Whitters | _Contact_ | _Website_ | Wyoming, Michigan |
+| Derek Sivers | _Contact_ | _Website_ | _Location_ |
 | _Name_ | _Contact_ | _Website_ | _Location_ |
 
 ## Already Contacted
