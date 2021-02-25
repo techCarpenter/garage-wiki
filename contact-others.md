@@ -1,69 +1,76 @@
 # Contact Others
 
+Use your database to label everyone in a category like this:
+
+- A list: Very important people. Contact every three weeks.
+- B list: Important people. Contact every two months.
+- C list: Most people. Contact every six months.
+- D list: Demoted people. Contact once a year, to make sure you still have their correct info.
+
 ## To Contact
 
-| Name | Contact Info | Website | Location |
-| :-- | :-- | :-- | :-- |
-| Ethan Waldman | info@thetinyhouse.net | thetinyhouse.net |  |
-| Kevon Cheung | _Contact_ | _Website_ | _Location_ |
-| Chris Ferdinandi | _Contact_ | _Website_ | _Location_ |
-| Monica Lent | _Contact_ | _Website_ | _Location_ |
-| Tony Fahkry | _Contact_ | _Website_ | _Location_ |
-| Flavio Copes | _Contact_ | _Website_ | _Location_ |
-| Florin Pop | _Contact_ | _Website_ | _Location_ |
-| Jason Cohen | _Contact_ | _Website_ | _Location_ |
-| Jason Lengstorf | _Contact_ | _Website_ | _Location_ |
-| Justin Welsh | _Contact_ | _Website_ | _Location_ |
-| Jack Butcher | _Contact_ | _Website_ | _Location_ |
-| Bret Comnes | bcomnes@gmail.com | _Website_ | _Location_ |
-| Tanya Mimi | _Contact_ | slashercareer.com |  |
-| Christian Tietze | me@christiantietze.de | christiantietze.de, zettelkasten.de | _Location_ |
-| Tyler Kress | _Contact_ | _Website_ | _Location_ |
-| Paul Brady | _Contact_ | paulbrady.dev | _Location_ |
-| Julian Whitters | _Contact_ | _Website_ | Wyoming, Michigan |
-| Derek Sivers | _Contact_ | _Website_ | _Location_ |
-| Josh Leiter | _Contact_ | _Website_ | _Location_ |
-| Drew Davis | _Contact_ | _Website_ | _Location_ |
-| Jonathan Engle | _Contact_ | _Website_ | _Location_ |
-| Jon Bosma | _Contact_ | _Website_ | _Location_ |
-| Jared Haan | _Contact_ | _Website_ | _Location_ |
-| Cole Voeller | _Contact_ | _Website_ | _Location_ |
-| Ryan Baldwin | _Contact_ | _Website_ | _Location_ |
-| Zach Leatherman | _Contact_ | _Website_ | _Location_ |
-| Kyle Keough | _Contact_ | _Website_ | _Location_ |
-| Stan Church | _Contact_ | _Website_ | _Location_ |
-| Tom Hirst | hello@tomhirst.com | tomhirst.com | Wakefield, UK |
-| Gabriel Youngquist | _Contact_ | _Website_ | _Location_ |
-| Joey Casteneda | _Contact_ | _Website_ | _Location_ |
-| Mark Rynders | _Contact_ | _Website_ | _Location_ |
-| Claryssa Rynders | _Contact_ | _Website_ | _Location_ |
-| Mitchell Rynders | _Contact_ | _Website_ | _Location_ |
-| Justin Wiersema | _Contact_ | _Website_ | _Location_ |
-| Madison McCreery | _Contact_ | _Website_ | _Location_ |
-| Brian Scaturro | _Contact_ | _Website_ | _Location_ |
-| Andy VanDyk | _Contact_ | _Website_ | _Location_ |
-| Klynt Marcusse | _Contact_ | _Website_ | _Location_ |
-| Aude Faucheux | _Contact_ | _Website_ | _Location_ |
-| Ben Vandyk | _Contact_ | _Website_ | _Location_ |
-| Trenton Wells | _Contact_ | _Website_ | _Location_ |
-| Bill Miller | _Contact_ | _Website_ | _Location_ |
-| Cabdul Ciise | _Contact_ | _Website_ | _Location_ |
-| Josh Holovka | _Contact_ | _Website_ | _Location_ |
-| Matt Nyboer | _Contact_ | _Website_ | _Location_ |
-| Laurence Bradfor | _Contact_ | _Website_ | _Location_ |
-| Logan VanProyen | _Contact_ | _Website_ | _Location_ |
-| Bonnie VanProyen | _Contact_ | _Website_ | _Location_ |
-| Daniel Dick | _Contact_ | _Website_ | _Location_ |
-| Ethan Postmus | _Contact_ | _Website_ | _Location_ |
-| Steven Exoo | _Contact_ | _Website_ | _Location_ |
-| Geoff Van Berkel | _Contact_ | _Website_ | _Location_ |
-| Ryan Betts | _Contact_ | _Website_ | _Location_ |
-| Eric Ball | _Contact_ | _Website_ | _Location_ |
-| Chuck Tedrick | _Contact_ | _Website_ | _Location_ |
-| Rich Floro | _Contact_ | _Website_ | _Location_ |
-| Reed VanderBroeke | _Contact_ | _Website_ | _Location_ |
-| Arvid Kahl | arvid@thebootstrappedfounder.com | thebootstrappedfounder.com | Düsseldorf, Germany |
-| _Name_ | _Contact_ | _Website_ | _Location_ |
+| Name | Contact Info | Website | Location | List |
+| :-- | :-- | :-- | :-- | :-- |
+| Ethan Waldman | info@thetinyhouse.net | thetinyhouse.net |  | _List_ |
+| Kevon Cheung | _Contact_ | _Website_ | _Location_ | _List_ |
+| Chris Ferdinandi | _Contact_ | _Website_ | _Location_ | _List_ |
+| Monica Lent | _Contact_ | _Website_ | _Location_ | _List_ |
+| Tony Fahkry | _Contact_ | _Website_ | _Location_ | _List_ |
+| Flavio Copes | _Contact_ | _Website_ | _Location_ | _List_ |
+| Florin Pop | _Contact_ | _Website_ | _Location_ | _List_ |
+| Jason Cohen | _Contact_ | _Website_ | _Location_ | _List_ |
+| Jason Lengstorf | _Contact_ | _Website_ | _Location_ | _List_ |
+| Justin Welsh | _Contact_ | _Website_ | _Location_ | _List_ |
+| Jack Butcher | _Contact_ | _Website_ | _Location_ | _List_ |
+| Bret Comnes | bcomnes@gmail.com | _Website_ | _Location_ | _List_ |
+| Tanya Mimi | _Contact_ | slashercareer.com |  | _List_ |
+| Christian Tietze | me@christiantietze.de | christiantietze.de, zettelkasten.de | _Location_ | _List_ |
+| Tyler Kress | _Contact_ | _Website_ | _Location_ | _List_ |
+| Paul Brady | _Contact_ | paulbrady.dev | _Location_ | _List_ |
+| Julian Whitters | _Contact_ | _Website_ | Wyoming, Michigan | _List_ |
+| Derek Sivers | derek@sivers.org | sive.rs | _Location_ | _List_ |
+| Josh Leiter | _Contact_ | _Website_ | _Location_ | _List_ |
+| Drew Davis | _Contact_ | _Website_ | _Location_ | _List_ |
+| Jonathan Engle | _Contact_ | _Website_ | _Location_ | _List_ |
+| Jon Bosma | _Contact_ | _Website_ | _Location_ | _List_ |
+| Jared Haan | _Contact_ | _Website_ | _Location_ | _List_ |
+| Cole Voeller | _Contact_ | _Website_ | _Location_ | _List_ |
+| Ryan Baldwin | _Contact_ | _Website_ | _Location_ | _List_ |
+| Zach Leatherman | _Contact_ | _Website_ | _Location_ | _List_ |
+| Kyle Keough | _Contact_ | _Website_ | _Location_ | _List_ |
+| Stan Church | _Contact_ | _Website_ | _Location_ | _List_ |
+| Tom Hirst | hello@tomhirst.com | tomhirst.com | Wakefield, UK | _List_ |
+| Gabriel Youngquist | _Contact_ | _Website_ | _Location_ | _List_ |
+| Joey Casteneda | _Contact_ | _Website_ | _Location_ | _List_ |
+| Mark Rynders | _Contact_ | _Website_ | _Location_ | _List_ |
+| Claryssa Rynders | _Contact_ | _Website_ | _Location_ | _List_ |
+| Mitchell Rynders | _Contact_ | _Website_ | _Location_ | _List_ |
+| Justin Wiersema | _Contact_ | _Website_ | _Location_ | _List_ |
+| Madison McCreery | _Contact_ | _Website_ | _Location_ | _List_ |
+| Brian Scaturro | _Contact_ | _Website_ | _Location_ | _List_ |
+| Andy VanDyk | _Contact_ | _Website_ | _Location_ | _List_ |
+| Klynt Marcusse | _Contact_ | _Website_ | _Location_ | _List_ |
+| Aude Faucheux | _Contact_ | _Website_ | _Location_ | _List_ |
+| Ben Vandyk | _Contact_ | _Website_ | _Location_ | _List_ |
+| Trenton Wells | _Contact_ | _Website_ | _Location_ | _List_ |
+| Bill Miller | _Contact_ | _Website_ | _Location_ | _List_ |
+| Cabdul Ciise | _Contact_ | _Website_ | _Location_ | _List_ |
+| Josh Holovka | _Contact_ | _Website_ | _Location_ | _List_ |
+| Matt Nyboer | _Contact_ | _Website_ | _Location_ | _List_ |
+| Laurence Bradfor | _Contact_ | _Website_ | _Location_ | _List_ |
+| Logan VanProyen | _Contact_ | _Website_ | _Location_ | _List_ |
+| Bonnie VanProyen | _Contact_ | _Website_ | _Location_ | _List_ |
+| Daniel Dick | _Contact_ | _Website_ | _Location_ | _List_ |
+| Ethan Postmus | _Contact_ | _Website_ | _Location_ | _List_ |
+| Steven Exoo | _Contact_ | _Website_ | _Location_ | _List_ |
+| Geoff Van Berkel | _Contact_ | _Website_ | _Location_ | _List_ |
+| Ryan Betts | _Contact_ | _Website_ | _Location_ | _List_ |
+| Eric Ball | _Contact_ | _Website_ | _Location_ | _List_ |
+| Chuck Tedrick | _Contact_ | _Website_ | _Location_ | _List_ |
+| Rich Floro | _Contact_ | _Website_ | _Location_ | _List_ |
+| Reed VanderBroeke | _Contact_ | _Website_ | _Location_ | _List_ |
+| Arvid Kahl | arvid@thebootstrappedfounder.com | thebootstrappedfounder.com | Düsseldorf, Germany | _List_ |
+| _Name_ | _Contact_ | _Website_ | _Location_ | _List_ |
 
 ## Already Contacted
 
