@@ -4,7 +4,7 @@ Use your database to label everyone in a category like this:
 
 - A list: Very important people. Contact every three weeks.
 - B list: Important people. Contact every two months.
-- C list: Most people. Contact every six months.
+- C list: Most people. Contact every six months. [[Now]]
 - D list: Demoted people. Contact once a year, to make sure you still have their correct info.
 
 ## To Contact
