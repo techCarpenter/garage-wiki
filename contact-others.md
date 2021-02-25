@@ -24,6 +24,8 @@
 | Derek Sivers | _Contact_ | _Website_ | _Location_ |
 | _Name_ | _Contact_ | _Website_ | _Location_ |
 
+[[202102241338 Note 1]]
+
 ## Already Contacted
 
 | Name | Contact Info | Website | Location | Last Contacted |
