@@ -96,6 +96,7 @@
 - [ ] [Nikolas Luhmann on note taking](https://luhmann.surge.sh/)
 - [ ] [Hemingway App](http://www.hemingwayapp.com/)
 - [ ] You don't need to be an expert to [share your knowledge](#sharing-knowledge-is-like-teaching-someone-to-ride-a-bike)
+- [ ] [Grab url query string with javascript](#treat-url-like-database-query-with-javascript)
 
 ---
 
@@ -124,3 +125,22 @@ It's silly to think that only an expert bicyclist can teach children how to ride
 In fact, I taught all my siblings how to ride a 2-wheeler. I wasn't that far ahead of them, but I could do something they couldn't so I showed them how.
 
 The same is true for anything else. If you are even 1 step ahead of someone else, you can bring them up to your level. Chances are you're more than 1 step ahead of someone out there.
+
+## Treat url like database query with Javascript
+
+Found on [Derek Sivers' site](https://sive.rs/thanks?for=list)
+
+```javascript
+var msg = {
+  list:
+    'I updated your email list settings.</p><p>Your info is private and will never be sold to anyone else, ever.</p><p>Of course you can email me anytime at <a href="mailto:derek@sivers.org">derek@sivers.org</a>',
+  reset:
+    "Wait a minute, then check your inbox for an email from derek@sivers.org with the subject “your password reset link”.</p><p>If you don’t get it in a minute or two, please email me to let me know.",
+  bq: "I’ll let you know as soon as the books are ready.",
+  done: "All done."
+};
+var m = /\?for=([a-z0-9]+)/.exec(location.search);
+if (m && msg[m[1]]) {
+  document.getElementById("msg").innerHTML = msg[m[1]];
+}
+```
