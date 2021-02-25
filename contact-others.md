@@ -33,8 +33,35 @@
 | Kyle Keough | _Contact_ | _Website_ | _Location_ |
 | Stan Church | _Contact_ | _Website_ | _Location_ |
 | Tom Hirst | hello@tomhirst.com | tomhirst.com | Wakefield, UK |
-| _Name_ | _Contact_ | _Website_ | _Location_ |
-| _Name_ | _Contact_ | _Website_ | _Location_ |
+| Gabriel Youngquist | _Contact_ | _Website_ | _Location_ |
+| Joey Casteneda | _Contact_ | _Website_ | _Location_ |
+| Mark Rynders | _Contact_ | _Website_ | _Location_ |
+| Claryssa Rynders | _Contact_ | _Website_ | _Location_ |
+| Mitchell Rynders | _Contact_ | _Website_ | _Location_ |
+| Justin Wiersema | _Contact_ | _Website_ | _Location_ |
+| Madison McCreery | _Contact_ | _Website_ | _Location_ |
+| Brian Scaturro | _Contact_ | _Website_ | _Location_ |
+| Andy VanDyk | _Contact_ | _Website_ | _Location_ |
+| Klynt Marcusse | _Contact_ | _Website_ | _Location_ |
+| Aude Faucheux | _Contact_ | _Website_ | _Location_ |
+| Ben Vandyk | _Contact_ | _Website_ | _Location_ |
+| Trenton Wells | _Contact_ | _Website_ | _Location_ |
+| Bill Miller | _Contact_ | _Website_ | _Location_ |
+| Cabdul Ciise | _Contact_ | _Website_ | _Location_ |
+| Josh Holovka | _Contact_ | _Website_ | _Location_ |
+| Matt Nyboer | _Contact_ | _Website_ | _Location_ |
+| Laurence Bradfor | _Contact_ | _Website_ | _Location_ |
+| Logan VanProyen | _Contact_ | _Website_ | _Location_ |
+| Bonnie VanProyen | _Contact_ | _Website_ | _Location_ |
+| Daniel Dick | _Contact_ | _Website_ | _Location_ |
+| Ethan Postmus | _Contact_ | _Website_ | _Location_ |
+| Steven Exoo | _Contact_ | _Website_ | _Location_ |
+| Geoff Van Berkel | _Contact_ | _Website_ | _Location_ |
+| Ryan Betts | _Contact_ | _Website_ | _Location_ |
+| Eric Ball | _Contact_ | _Website_ | _Location_ |
+| Chuck Tedrick | _Contact_ | _Website_ | _Location_ |
+| Rich Floro | _Contact_ | _Website_ | _Location_ |
+| Reed VanderBroeke | _Contact_ | _Website_ | _Location_ |
 | _Name_ | _Contact_ | _Website_ | _Location_ |
 
 ## Already Contacted
