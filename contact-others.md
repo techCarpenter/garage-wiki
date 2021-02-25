@@ -62,6 +62,7 @@
 | Chuck Tedrick | _Contact_ | _Website_ | _Location_ |
 | Rich Floro | _Contact_ | _Website_ | _Location_ |
 | Reed VanderBroeke | _Contact_ | _Website_ | _Location_ |
+| Arvid Kahl | arvid@thebootstrappedfounder.com | thebootstrappedfounder.com | Düsseldorf, Germany |
 | _Name_ | _Contact_ | _Website_ | _Location_ |
 
 ## Already Contacted
