@@ -22,6 +22,19 @@
 | Paul Brady | _Contact_ | paulbrady.dev | _Location_ |
 | Julian Whitters | _Contact_ | _Website_ | Wyoming, Michigan |
 | Derek Sivers | _Contact_ | _Website_ | _Location_ |
+| Josh Leiter | _Contact_ | _Website_ | _Location_ |
+| Drew Davis | _Contact_ | _Website_ | _Location_ |
+| Jonathan Engle | _Contact_ | _Website_ | _Location_ |
+| Jon Bosma | _Contact_ | _Website_ | _Location_ |
+| Jared | _Contact_ | _Website_ | _Location_ |
+| Cole Voeller | _Contact_ | _Website_ | _Location_ |
+| Ryan Baldwin | _Contact_ | _Website_ | _Location_ |
+| Zach Leatherman | _Contact_ | _Website_ | _Location_ |
+| Kyle Keough | _Contact_ | _Website_ | _Location_ |
+| Stan Church | _Contact_ | _Website_ | _Location_ |
+| _Name_ | _Contact_ | _Website_ | _Location_ |
+| _Name_ | _Contact_ | _Website_ | _Location_ |
+| _Name_ | _Contact_ | _Website_ | _Location_ |
 | _Name_ | _Contact_ | _Website_ | _Location_ |
 
 ## Already Contacted
