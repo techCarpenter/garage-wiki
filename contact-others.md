@@ -104,4 +104,4 @@ Use your database to label everyone in a category like this:
 | Rob Hardy | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Sebastian Martin | sebastianmartin2044@gmail.com | advantarium.com, sebastianmartin.dev | Munich, Germany | 2021-02-23 |
 | Matt Byma | 616.890.0723, myproturfsolutions@gmail.com | myproturfsolutions.com | Walker, Michigan | 2021-02-23 |
-| Mike Schout | _Contact_ | _Website_ | _Location_ | 2021-02-26 |
+| Mike Schout | _Contact_ | _Website_ | Zeeland, MI | 2021-02-26 |
