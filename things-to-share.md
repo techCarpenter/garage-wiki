@@ -102,6 +102,15 @@
 - [ ] Zettelkasten Method
   - https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1
   - https://leananki.com/zettelkasten-method-smart-notes/#Tools_for_the_Zettelkasten_Method
+- [ ] Free Software Movement
+  - https://www.gnu.org/philosophy/philosophy.html
+  - [Why open source misses the point of free software](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
+  - [What is free software?](https://www.gnu.org/philosophy/free-sw.html)
+  - [How to free your Javascript](https://www.gnu.org/software/librejs/free-your-javascript.html)
+- [ ] uncopyright
+- [ ] [Boost SEO by using Schema Markup](https://neilpatel.com/blog/get-started-using-schema/)
+  - [Schema.org](https://schema.org/)
+- [ ] [DB Schema guide](https://www.educative.io/blog/what-are-database-schemas-examples)
 
 ---
 
