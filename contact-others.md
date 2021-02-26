@@ -10,7 +10,7 @@ Use your database to label everyone in a category like this:
 ## To Contact
 
 | Name | Contact Info | Website | Location | List |
-| :-- | :-- | :-- | :-- | :-- |
+| :-- | :-- | :-- | :-- | :-: |
 | Ethan Waldman | info@thetinyhouse.net | thetinyhouse.net |  | _List_ |
 | Kevon Cheung | _Contact_ | _Website_ | _Location_ | _List_ |
 | Chris Ferdinandi | _Contact_ | _Website_ | _Location_ | _List_ |
@@ -69,7 +69,7 @@ Use your database to label everyone in a category like this:
 | Chuck Tedrick | _Contact_ | _Website_ | _Location_ | _List_ |
 | Rich Floro | _Contact_ | _Website_ | _Location_ | _List_ |
 | Reed VanderBroeke | _Contact_ | _Website_ | _Location_ | _List_ |
-| Arvid Kahl | arvid@thebootstrappedfounder.com | thebootstrappedfounder.com | Düsseldorf, Germany | _List_ |
+| Arvid Kahl | arvid@thebootstrappedfounder.com | thebootstrappedfounder.com | Düsseldorf, Germany | D |
 | Catalin Pit | _Contact_ | _Website_ | _Location_ | _List_ |
 | _Name_ | _Contact_ | _Website_ | _Location_ | _List_ |
 
