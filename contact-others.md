@@ -91,17 +91,17 @@ Use your database to label everyone in a category like this:
 | Beau Baragar | bbaragar@teksystems.com | _Website_ | _Location_ | _Date_ |
 | Anant Jhingran | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Janis Ozolins | ozolins@hey.com | _Website_ | _Location_ | _Date_ |
-| Chris Collins | hello@chriscollins.me | chriscollins.me | _Location_ | 02-08-2021 |
+| Chris Collins | hello@chriscollins.me | chriscollins.me | _Location_ | 2021-02-08 |
 | Chris Coyier | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Jordon O'Connor | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Quincy Larson | _Contact_ | _Website_ | _Location_ | _Date_ |
 | David Perell | _Contact_ | _Website_ | _Location_ | _Date_ |
-| Mike Schout | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Matt Winkle | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Rob Sturgis | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Alex Chiocchi | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Bryce Wray | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Tania Rascia | _Contact_ | _Website_ | _Location_ | _Date_ |
 | Rob Hardy | _Contact_ | _Website_ | _Location_ | _Date_ |
-| Sebastian Martin | sebastianmartin2044@gmail.com | advantarium.com, sebastianmartin.dev | Munich, Germany | 02-23-2021 |
-| Matt Byma | 616.890.0723, myproturfsolutions@gmail.com | myproturfsolutions.com | Walker, Michigan | 02-23-2021 |
+| Sebastian Martin | sebastianmartin2044@gmail.com | advantarium.com, sebastianmartin.dev | Munich, Germany | 2021-02-23 |
+| Matt Byma | 616.890.0723, myproturfsolutions@gmail.com | myproturfsolutions.com | Walker, Michigan | 2021-02-23 |
+| Mike Schout | _Contact_ | _Website_ | _Location_ | 2021-02-26 |
