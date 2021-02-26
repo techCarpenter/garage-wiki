@@ -160,7 +160,7 @@ Use your database to label everyone in a category like this:
       ],
       "contactList": "A",
       "lastContacted": "2021-02-01",
-      "contactOccurrences": [
+      "interactionCollection": [
         {
           "date": "2021-02-01",
           "notes": "Called to ask if he could borrow my weedwacker."
@@ -170,7 +170,8 @@ Use your database to label everyone in a category like this:
           "notes": "Wished me a happy birthday"
         }
       ],
-      "contactNotes": "Flower collector.\nAvid outdoorsman.\nPlays badminton on the weekends."
+      "contactNotes": "Flower collector.\nAvid outdoorsman.\nPlays badminton on the weekends.",
+      "profilePhoto": ""
     }
   ],
   "contactInfoTypes": {
@@ -183,10 +184,10 @@ Use your database to label everyone in a category like this:
     "6": "Twitter"
   },
   "contactListOptions": {
-    "A": "Contact every 3 weeks",
-    "B": "Contact every 2 months",
-    "C": "Contact every 6 months",
-    "D": "Contact once a year"
+    "A": "Very important people. Contact every three weeks.",
+    "B": "Important people. Contact every two months.",
+    "C": "Most people. Contact every six months.",
+    "D": "Demoted people. Contact once a year, to make sure you still have their correct info."
   }
 }
 ```
