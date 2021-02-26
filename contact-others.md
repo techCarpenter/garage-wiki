@@ -134,7 +134,7 @@ Use your database to label everyone in a category like this:
 | Matt Byma        | 616.890.0723, myproturfsolutions@gmail.com | myproturfsolutions.com               | Walker, Michigan     |   B    |     2021-02-23 |
 | Mike Schout      | _Contact_                                  | _Website_                            | Zeeland, MI          |   B    |     2021-02-26 |
 
-```jsonc
+```json
 //CRM schema
 {
   "peopleCollection": [
