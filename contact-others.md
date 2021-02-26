@@ -70,6 +70,7 @@ Use your database to label everyone in a category like this:
 | Rich Floro | _Contact_ | _Website_ | _Location_ | _List_ |
 | Reed VanderBroeke | _Contact_ | _Website_ | _Location_ | _List_ |
 | Arvid Kahl | arvid@thebootstrappedfounder.com | thebootstrappedfounder.com | Düsseldorf, Germany | _List_ |
+| Catalin Pit | _Contact_ | _Website_ | _Location_ | _List_ |
 | _Name_ | _Contact_ | _Website_ | _Location_ | _List_ |
 
 ## Already Contacted
