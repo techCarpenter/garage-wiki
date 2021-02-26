@@ -97,6 +97,7 @@
 - [ ] [Hemingway App](http://www.hemingwayapp.com/)
 - [ ] You don't need to be an expert to [share your knowledge](#sharing-knowledge-is-like-teaching-someone-to-ride-a-bike)
 - [ ] [Grab url query string with javascript](#treat-url-like-database-query-with-javascript)
+- [ ] [Use npm as a build tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 
 ---
 
