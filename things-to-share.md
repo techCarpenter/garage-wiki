@@ -111,6 +111,8 @@
 - [ ] [Boost SEO by using Schema Markup](https://neilpatel.com/blog/get-started-using-schema/)
   - [Schema.org](https://schema.org/)
 - [ ] [DB Schema guide](https://www.educative.io/blog/what-are-database-schemas-examples)
+- [ ] How to overcome problem with `ease of use`
+  - People say they don't like (Facebook, Google, Instagram, GitHub, etc.) as a company, but they don't actually get off the platform! How can we overcome this? The same goes for any propretary software that abuses users. Users don't like it, but they would rather use it than give up the convenience.
 
 ---
 
