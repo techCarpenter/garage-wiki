@@ -11,8 +11,8 @@ Use your database to label everyone in a category like this:
 
 | Name                | Contact Info                               | Website                              | Location             |  List  |  Last Contacted | Relation          | Notes           |
 |:--------------------|:-------------------------------------------|:-------------------------------------|:---------------------|:------:|----------------:|:------------------|:----------------|
-| Melroy van den Berg | melroy@melroy.org                          | blog.melroy.org                      | _Location_           |   C    | _LastContacted_ | Acquaintance      |                 |
 | _Name_              | _Contact_                                  | _Website_                            | _Location_           | _List_ | _LastContacted_ | _Relation_        |                 |
+| Melroy van den Berg | melroy@melroy.org                          | blog.melroy.org                      | _Location_           |   C    | _LastContacted_ | Acquaintance      |                 |
 | Tom Ryder           | tom@sanctum.geek.nz                        | sanctum.geek.nz                      | _Location_           |   C    | _LastContacted_ | Contact           | self-hosted git |
 | Diogo Cordeiro      | mail@diogo.site                            | diogo.site                           | Porot, Portugal      |   D    | _LastContacted_ | Contact           |                 |
 | Kelsey Hoogland     | _Contact_                                  | _Website_                            | Nebraska             |   C    | _LastContacted_ | Family            |                 |
