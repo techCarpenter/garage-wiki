@@ -115,7 +115,7 @@
   - People say they don't like (Facebook, Google, Instagram, GitHub, etc.) as a company, but they don't actually get off the platform! How can we overcome this? The same goes for any propretary software that abuses users. Users don't like it, but they would rather use it than give up the convenience.
 - [ ] Free software vs. Open source
 - [ ] Intuit, quickbooks - free software version
-- [ ] Mobaxterm - All-in-one terminal app
+- [ ] [Mobaxterm](https://mobaxterm.mobatek.net/) - All-in-one terminal app
   - create profiles
   - etc.
 
