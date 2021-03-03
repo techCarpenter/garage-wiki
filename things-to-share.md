@@ -120,10 +120,11 @@
   - create profiles
   - etc.
 - [ ] Self hosted apps
-  - [Trigger Happy](https://trigger-happy.readthedocs.io/en/latest/)
+  - [Trigger Happy](https://trigger-happy.readthedocs.io/en/latest/) - self hosted IFTTT
   - [Self hosted Git (cgit)](https://git.zx2c4.com/cgit/about/)
     - [Switching to cgit](https://www.paritybit.ca/blog/switching-to-cgit)
   - [Firefly (finances)](https://www.firefly-iii.org/)
+  - [Emby media server](https://emby.media/)
 
 ---
 
