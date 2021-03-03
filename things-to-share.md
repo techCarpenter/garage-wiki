@@ -119,6 +119,11 @@
 - [ ] [Mobaxterm](https://mobaxterm.mobatek.net/) - All-in-one terminal app
   - create profiles
   - etc.
+- [ ] Self hosted apps
+  - [Trigger Happy](https://trigger-happy.readthedocs.io/en/latest/)
+  - [Self hosted Git (cgit)](https://git.zx2c4.com/cgit/about/)
+    - [Switching to cgit](https://www.paritybit.ca/blog/switching-to-cgit)
+  - [Firefly (finances)](https://www.firefly-iii.org/)
 
 ---
 
