@@ -125,6 +125,7 @@
     - [Switching to cgit](https://www.paritybit.ca/blog/switching-to-cgit)
   - [Firefly (finances)](https://www.firefly-iii.org/)
   - [Emby media server](https://emby.media/)
+  - gitea, gitolite
 
 ---
 
