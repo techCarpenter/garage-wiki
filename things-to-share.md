@@ -122,10 +122,18 @@
 - [ ] Self hosted apps
   - [Trigger Happy](https://trigger-happy.readthedocs.io/en/latest/) - self hosted IFTTT
   - [Self hosted Git (cgit)](https://git.zx2c4.com/cgit/about/)
+    - [RaspberryPi Git Server](https://pimylifeup.com/raspberry-pi-git-server/)
     - [Switching to cgit](https://www.paritybit.ca/blog/switching-to-cgit)
+    - gitea
+    - gitolite
   - [Firefly (finances)](https://www.firefly-iii.org/)
   - [Emby media server](https://emby.media/)
-  - gitea, gitolite
+  - Node REST api
+    - [Fastify (Express alternative)](https://fastify.io)
+      - [Example](https://github.com/Umoren/fastify-store)
+  - Raspberry Pi 4
+    - [Mount USB drive to pi](https://pimylifeup.com/raspberry-pi-mount-usb-drive/)
+    - [KKSB Aluminum Case](https://kksb-cases.com/products/kksb-raspberry-pi-4-case-aluminium)
 
 ---
 
