@@ -132,6 +132,7 @@
     - [Fastify (Express alternative)](https://fastify.io)
       - [Example](https://github.com/Umoren/fastify-store)
   - Raspberry Pi 4
+    - [Automated SD backups](https://pimylifeup.com/backup-raspberry-pi/)
     - [Mount USB drive to pi](https://pimylifeup.com/raspberry-pi-mount-usb-drive/)
     - [KKSB Aluminum Case](https://kksb-cases.com/products/kksb-raspberry-pi-4-case-aluminium)
 
