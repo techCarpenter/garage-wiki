@@ -133,6 +133,9 @@
     - [Fastify (Express alternative)](https://fastify.io)
       - [Example](https://github.com/Umoren/fastify-store)
     - [better-sqlite3 api docs](https://github.com/JoshuaWise/better-sqlite3/blob/HEAD/docs/api.md)
+    - REST naming conventions
+      - https://restfulapi.net/resource-naming/
+      - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful
   - Raspberry Pi 4
     - [Automated SD backups](https://pimylifeup.com/backup-raspberry-pi/)
     - [Mount USB drive to pi](https://pimylifeup.com/raspberry-pi-mount-usb-drive/)
