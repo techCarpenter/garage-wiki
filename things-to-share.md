@@ -129,6 +129,7 @@
   - [Firefly (finances)](https://www.firefly-iii.org/)
   - [Emby media server](https://emby.media/)
   - Node REST api
+    - [\*Headless Node Server](https://dev.to/bogdaaamn/run-your-nodejs-application-on-a-headless-raspberry-pi-4jnn)
     - [Fastify (Express alternative)](https://fastify.io)
       - [Example](https://github.com/Umoren/fastify-store)
     - [better-sqlite3 api docs](https://github.com/JoshuaWise/better-sqlite3/blob/HEAD/docs/api.md)
