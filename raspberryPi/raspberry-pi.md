@@ -7,4 +7,4 @@ sudo node server.js
 sudo systemctl [start|stop|status] topple.service
 ```
 
-topple.service can be found in the `etc/systemd/system` folder
+`topple.service` can be found in the `etc/systemd/system` folder
