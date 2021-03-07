@@ -187,14 +187,3 @@ if (m && msg[m[1]]) {
   document.getElementById("msg").innerHTML = msg[m[1]];
 }
 ```
-
-## Topple API routes
-
-| Method | Route         | Purpose |
-| :----- | :------------ | :------ |
-| GET    | /accounts     |         |
-| GET    | /accounts/:id |         |
-| POST   | /accounts     |         |
-| PUT    | /accounts/:id |         |
-| PATCH  | /accounts/:id |         |
-| DELETE | /accounts/:id |         |
