@@ -2,6 +2,8 @@
 
 - [Example api](https://developerhowto.com/2018/12/29/build-a-rest-api-with-node-js-and-express-js/)
   - [Git Repo](https://github.com/fraigo/node-express-rest-api-example)
+- [Squel.js](https://hiddentao.github.io/squel/index.html)
+  - SQL query string builder
 
 ## Account routes
 
