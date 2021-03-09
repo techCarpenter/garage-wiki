@@ -23,3 +23,28 @@ _Barbara Sher_
    7. Were you surrounded by winners who were pleased when you won?
       - I imagine my parents had bigger dreams and goals for themselves
 4. Pick a color (pg. 34)
+5. The Private-Eye Game
+6. Seeing yourself as others see you (pg. 42)
+   1. Have Hannah tell me what's good about me for 3 minutes.
+7. Twenty things you like to do
+|     |  | How long since last done | Costs money or free | Alone or with someone | Planned or spontaneous | Job related | Physical risk | Fast or slow-paced | Mind, body or spiritual |  |
+|:----|:-|--------------------------|---------------------|-----------------------|------------------------|-------------|---------------|--------------------|-------------------------|--|
+| 1.  |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 2.  |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 3.  |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 4.  |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 5.  |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 6.  |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 7.  |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 8.  |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 9.  |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 10. |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 12. |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 13. |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 14. |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 15. |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 16. |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 17. |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 18. |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 19. |  |                          |                     |                       |                        |             |               |                    |                         |  |
+| 20. |  |                          |                     |                       |                        |             |               |                    |                         |  |
