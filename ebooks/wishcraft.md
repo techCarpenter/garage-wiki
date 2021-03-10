@@ -171,7 +171,7 @@ What’s the first thing you do when you wake up? What do you have for breakfast
 
 ### 9b. Fantasy Analysis
 
-#### Indispensable
+#### What elements are indispensable?
 
 - What:
   - Enjoyable, challenging work
@@ -187,7 +187,7 @@ What’s the first thing you do when you wake up? What do you have for breakfast
   - Family
   - Close friends
 
-#### Optional but desirable
+#### What elements are optional but desirable?
 
 - What:
   - my own company/business
@@ -198,9 +198,35 @@ What’s the first thing you do when you wake up? What do you have for breakfast
   - separate workshop from the house
   - House on large plot of land with forest
 
-#### Frills
+#### What elements are frills?
 
 - What:
   - dual-head shower in master bathroom
 - Where:
   - Full wood and metal shop
+
+#### What happens when you walk through an adjusted fantasy day with only the _indespensable elements_?
+
+_Think about it..._
+
+#### What, if any, elements of that day _do you already have_?
+
+- What:
+  - Hiking/walking
+  - Exercise
+- Where:
+  - Easy outdoor access
+- Who:
+  - God
+  - My wife and kids
+  - Family
+  - Close friends
+
+#### What elements of the adjusted ideal day are conspicuously absent from your life right now?
+
+- What:
+  - Enjoyable, challenging work
+  - Debt free
+- Where:
+  - A private study (desk)
+  - Modest sized home that I own
