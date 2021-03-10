@@ -132,7 +132,7 @@ Don't change yourself in the fantasy exercise. Improve the world around you so y
 
 ---
 
-### 9. Your ideal day
+### 9a. Your ideal day
 
 With pen in hand and as much paper as you need (or a tape recorder if you prefer to dream out loud), take a leisurely walk through a day that would be perfect if it represented your usual days - not a vacation day, not a compromise day, but the very substance of your life as you’d love it to be. Live through that day in the present tense and in detail, from getting up in the morning to going to sleep at night.
 
@@ -166,3 +166,41 @@ What’s the first thing you do when you wake up? What do you have for breakfast
 - After eating, we play outside or work on homework with the kids.
 - After the kids go to bed, Hannah and I exercise and shower in our dual-head master bathroom shower!
 - Then we relax and continue sharing experiences from the day. Watch a show or two before turning in to bed. We read for 30 minutes to an hour, pray together, and turn off the light.
+
+---
+
+### 9b. Fantasy Analysis
+
+#### Indispensable
+
+- What:
+  - Enjoyable, challenging work
+  - Hiking/walking
+  - Exercise
+- Where:
+  - Easy outdoor access
+  - A private study (desk)
+  - Modest sized home that I own
+- Who:
+  - God
+  - My wife and kids
+  - Family
+  - Close friends
+
+#### Optional but desirable
+
+- What:
+  - my own company/business
+  - 4 hour workday
+  - ability to drop work to spend time with family
+- Where:
+  - Work at home
+  - separate workshop from the house
+  - House on large plot of land with forest
+
+#### Frills
+
+- What:
+  - dual-head shower in master bathroom
+- Where:
+  - Full wood and metal shop
