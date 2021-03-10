@@ -132,3 +132,6 @@ Don't change yourself in the fantasy exercise. Improve the world around you so y
 
 ---
 
+### 9. Your ideal day
+
+
