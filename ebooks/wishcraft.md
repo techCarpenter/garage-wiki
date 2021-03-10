@@ -143,3 +143,19 @@ What’s the first thing you do when you wake up? What do you have for breakfast
 - _Who_ do you work with, eat with, laugh and talk with, sleep with? You will undoubtedly want to write some of your favorite real people into your fantasy; you might also want to include some types of people you’d like to be surrounded by - writers, musicians, children, people your own age, people of all different ages, athletes, Frenchmen, financiers, simple country people, celebrities, etc.
 
 ---
+
+#### Morning
+
+- I wake up at 5:30-6. Drink some water, get dressed for the day.
+- I walk alone or with 1 close person in the morning through the woods. Hear the birds chirping and watch the sun rise.
+- Once I'm back from walking, I enjoy breakfast with my family. We eat eggs and toast with bacon, then hear everyone's plans for the day.
+- By 8, I make my way to my home office. In the quiet, empty room I sit down for a time to work on my software product or write or plan my next project.
+- I work until 12.
+
+#### Afternoon
+
+- At 12 I take lunch with my darling wife Hannah. If the kids aren't in school, I eat lunch and play with them for a while, enjoying the time together as a family.
+- When nap time approaches, I help Hannah get the younger ones down for nap. I then make my way to the workshop to work on my latest wood or metal project.
+-
+
+#### Evening
