@@ -126,6 +126,9 @@ Filled out 03.10.2021
 
 ### 8. In what imaginary environment would your best self emerge?
 
-Focus on your human environment.
+Focus on your human environment: the kinds of people you'd like to be surrounded with, how much privacy you need, how much interaction, what kinds of responses to my ideas.
 
+Don't change yourself in the fantasy exercise. Improve the world around you so your characteristics stop being problems. Don't think of things about yourself as weaknesses, think of them as design problems to challenge your ingenuity as a world-maker. Create an environment that fits and supports you AS YOU ARE.
+
+---
 
