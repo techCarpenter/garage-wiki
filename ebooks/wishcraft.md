@@ -146,7 +146,7 @@ What’s the first thing you do when you wake up? What do you have for breakfast
 
 #### Morning
 
-- I wake up at 5:30-6. Drink some water, get dressed for the day.
+- I wake up at 5:30-6 next to my wife in our modest sized home on a large plot of land, drink some water, get dressed for the day.
 - I walk alone or with 1 close person in the morning through the woods. Hear the birds chirping and watch the sun rise.
 - Once I'm back from walking, I enjoy breakfast with my family. We eat eggs and toast with bacon, then hear everyone's plans for the day.
 - By 8, I make my way to my home office. In the quiet, empty room I sit down for a time to work on my software product or write or plan my next project.
@@ -154,8 +154,15 @@ What’s the first thing you do when you wake up? What do you have for breakfast
 
 #### Afternoon
 
-- At 12 I take lunch with my darling wife Hannah. If the kids aren't in school, I eat lunch and play with them for a while, enjoying the time together as a family.
+- At 12 I take lunch with my darling wife Hannah and kids. If the kids aren't in school, I eat lunch and play with them for a while, enjoying the time together as a family.
 - When nap time approaches, I help Hannah get the younger ones down for nap. I then make my way to the workshop to work on my latest wood or metal project.
--
+- I'm free to leave my workshop when I please to see a friend or pick the kids up from school or spend a relaxing afternoon with Hannah.
+- By 4, I'm wrapping up in the workshop and heading in to the house. I help Hannah with dinner prep and we talk about our days. The kids are playing outside or in their bedrooms.
 
 #### Evening
+
+- We eat dinner shortly after 5pm at the table I built for the family. We all come together, thank the Lord for the day, and ask for his blessing.
+- Dinner is more family time, sharing each others struggles and victories. We close dinner by reading from God's word and discussing it.
+- After eating, we play outside or work on homework with the kids.
+- After the kids go to bed, Hannah and I exercise and shower in our dual-head master bathroom shower!
+- Then we relax and continue sharing experiences from the day. Watch a show or two before turning in to bed. We read for 30 minutes to an hour, pray together, and turn off the light.
