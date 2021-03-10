@@ -230,3 +230,9 @@ _Think about it..._
 - Where:
   - A private study (desk)
   - Modest sized home that I own
+
+#### What stands between you and having your adjusted ideal day tomorrow? That is, what would it take to get all the missing elements? What problems or obstacles are presently stopping you from getting them?
+
+- Money (home and debt)
+- Type of job (free software developer or working with my hands)
+- Not enough space for private study
