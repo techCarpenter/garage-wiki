@@ -10,7 +10,24 @@ _Barbara Sher_
 
 ### 2. Your original self
 
-1.  What especially attracted and fascinated you when you were a child? What did you love to do?
+What especially attracted and fascinated you when you were a child? What did you love to do?
+
+- sling shot
+- bb gun
+- rope/knots
+- knives
+- whistling
+- explore the farm
+- make designs
+- building/making
+- make reivers with hose water
+- befriend cats, try to pet cows
+- sports
+- catch frogs
+- climb tree
+- collect things
+- **understand how things work**
+- observe/study things around me  
 
 ### 3. In your family, when you were growing up:
 
@@ -28,13 +45,34 @@ _Barbara Sher_
 7.  Were you surrounded by winners who were pleased when you won?
     - I imagine my parents had bigger dreams and goals for themselves
 
+I think I would be an inventor/full-time creator.
+
 ### 4. Pick a color (pg. 34)
+
+I am dark forest green. I am earthy, natural, and calm. A strong, firm, but not overpowering color.
 
 ### 5. The Private-Eye Game
 
+Snoop around your house. Try to find out who lives here just from the style revealed.
+
+- Reads non-fiction
+- Notes scattered around
+- clothes scattered
+- practical
+- collector: hangs onto things
+- plain t-shirts, flannels, jeans, sweatshirts
+  - majority darker colors
+- electronics
+- various interests
+- lots of grains in pantry
+- rustic but modern furniture
+- functional furniture
+- tools for DIY
+- simple
+
 ### 6. Seeing yourself as others see you (pg. 42)
 
-1.  Have Hannah tell me what's good about me for 3 minutes.
+Have Hannah tell me what's good about me for 3 minutes.
 
 - You are someone who thinks for yourself
 - Always trying to improve and do better
@@ -61,7 +99,7 @@ _Barbara Sher_
 
 ### 7. Twenty things you like to do (pg. 46)
 
-Filled out 03.09.2021
+Filled out 03.10.2021
 
 | Num | Activity | How long since last done? | Costs money or free? | Alone or with someone? | Planned or spontaneous? | Job related? | Physical risk? | Fast or slow-paced? | Mind, body or spiritual? |
 | :-- | :-- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -88,4 +126,6 @@ Filled out 03.09.2021
 
 ### 8. In what imaginary environment would your best self emerge?
 
-1.  Focus on your human environment
+Focus on your human environment.
+
+
