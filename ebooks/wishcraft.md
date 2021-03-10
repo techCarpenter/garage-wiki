@@ -27,20 +27,20 @@ What especially attracted and fascinated you when you were a child? What did you
 - climb tree
 - collect things
 - **understand how things work**
-- observe/study things around me  
+- observe/study things around me
 
 ### 3. In your family, when you were growing up:
 
 1.  Were you treated as though you had a unique kind of genius that was loved and respected?
     - Generally
-2.  Were you told that you could do and be anything you wanted—and that you’d be loved and admired no matter what it was?
+2.  Were you told that you could do and be anything you wanted-and that you’d be loved and admired no matter what it was?
     - Yes, but I was heavily encouraged to go to college
-3.  Were you given real help and encouragement in finding out what you wanted to do—and how to do it?
+3.  Were you given real help and encouragement in finding out what you wanted to do-and how to do it?
     - Yes
 4.  Were you encouraged to explore all your own talents and interests even if they changed from day to day?
     - Yes
 5.  Were you allowed to complain when the going got rough, and given sympathy instead of being told to quit?
-6.  Were you bailed out when you got in over your head—without reproach?
+6.  Were you bailed out when you got in over your head-without reproach?
     - Not without reproach
 7.  Were you surrounded by winners who were pleased when you won?
     - I imagine my parents had bigger dreams and goals for themselves
@@ -134,4 +134,12 @@ Don't change yourself in the fantasy exercise. Improve the world around you so y
 
 ### 9. Your ideal day
 
+With pen in hand and as much paper as you need (or a tape recorder if you prefer to dream out loud), take a leisurely walk through a day that would be perfect if it represented your usual days - not a vacation day, not a compromise day, but the very substance of your life as you’d love it to be. Live through that day in the present tense and in detail, from getting up in the morning to going to sleep at night.
 
+What’s the first thing you do when you wake up? What do you have for breakfast? Do you make it yourself - or is it brought to you in bed, with a single rose and the morning paper? Do you take a long, hot bath? a bracing cold shower? What kinds of clothes do you put on? How do you spend the morning? the afternoon? At each time of day, are you indoors or outdoors, quiet or active, alone or with people? As you go through the hours of your fantasy day, there are three helpful categories to keep in mind: what, where, and who.
+
+- _What_ are you doing? - what kind of work, what kind of play? Imagine yourself at the full stretch of your capacities. If you’d like to sing or sail, and you don’t know how, in this fantasy you do know how.
+- _Where_? - in what kind of place, space, situation? A London flat, an Oregon farm, a fully quipped workshop, an elegant hotel room, a houseboat?
+- _Who_ do you work with, eat with, laugh and talk with, sleep with? You will undoubtedly want to write some of your favorite real people into your fantasy; you might also want to include some types of people you’d like to be surrounded by - writers, musicians, children, people your own age, people of all different ages, athletes, Frenchmen, financiers, simple country people, celebrities, etc.
+
+---
