@@ -1,7 +1,9 @@
 # Todo List
 
-- [x] Text Colin about Vanguard 401k (Gentex 401k)
+- [ ] Transfer 401k
+  - [x] Text Colin about Vanguard 401k (Gentex 401k)
 - [x] Text dad about potential Saturday plan
+- [ ] Text Kim back
 - [ ] Update Discover payment
 - [ ] Register bodyguardz
   - [ ] Hannah
