@@ -1,2 +1,27 @@
 # Todo List
 
+- [x] Text Colin about Vanguard 401k (Gentex 401k)
+- [x] Text dad about potential Saturday plan
+- [ ] Update Discover payment
+- [ ] Register bodyguardz
+  - [ ] Hannah
+  - [ ] Brian
+    - [ ] Screen protector
+    - [ ] Case
+- [ ] Respond to Nextdoor inquiry
+- [ ] Finish Matt's site
+  - [ ] Fading images
+  - [ ] Email setup
+  - [ ] Admin panel guide
+- [ ] Read books
+  - [ ] Wishcraft
+  - [ ] Beyond band of brothers
+  - [ ] Jesus politics
+  - [ ] Practical Wisdom
+- [ ] Raspberry Pi server
+  - [ ] nginx proxy
+  - [ ] Topple api
+  - [ ] Personal CRM
+  - [ ] Learn about backing up data
+  - [ ] Git server
+  - [ ] Web server
