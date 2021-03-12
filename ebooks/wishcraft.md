@@ -236,3 +236,20 @@ _Think about it..._
 - Money (home and debt)
 - Type of job (free software developer or working with my hands)
 - Not enough space for private study
+
+## Tools
+
+- "Hard Times" Session
+- Goal setting & touchstones
+- Brainstorming
+  1. "How can I get it without _X_?"
+  2. "How can I get _X_?"
+- "Actions & Feelings" Journal
+- Barn-raising party
+- Planning wall
+  - Flow chart - Work backwards from goal to get actionable steps
+  - Goal Calender
+  - Role Model
+- 5 year plan
+  - 1 main focus for each year (can be duplicated)
+- Tonight/tomorrow sheet
