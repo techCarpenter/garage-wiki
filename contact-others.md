@@ -7,7 +7,7 @@ Use your database to label everyone in a category like this:
 - C list: Most people. Contact every six months.
 - D list: Demoted people. Contact once a year, to make sure you still have their correct info.
 
-## To Contact
+## Contact list
 
 | Name                | Contact Info                               | Website                              | Location             |  List  |  Last Contacted | Relation          | Notes                                                                                                                      |
 |:--------------------|:-------------------------------------------|:-------------------------------------|:---------------------|:------:|----------------:|:------------------|:---------------------------------------------------------------------------------------------------------------------------|
@@ -210,7 +210,7 @@ Use your database to label everyone in a category like this:
     "Friend",
     "Client",
     "Colleague",
-    "Contact"
+    "Uncontacted"
   ]
 }
 ```
