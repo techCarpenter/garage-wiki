@@ -7,6 +7,9 @@
 - [ ] Contact Maureen and Cara (website work)
 - [ ] Clean garage
 - [ ] Call Josh Leiter
+- [ ] Switch ISP (Xfinity)
+- [ ] Update Discover payment
+- [ ] Contact Tim Johnson
 
 ## Brainstorm
 
@@ -14,7 +17,6 @@
   - [x] Text Colin about Vanguard 401k (Gentex 401k)
 - [x] Text dad about potential Saturday plan
 - [ ] Text Kim back
-- [ ] Update Discover payment
 - [ ] Register bodyguardz
   - [ ] Hannah
   - [ ] Brian
