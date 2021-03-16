@@ -21,7 +21,8 @@
 
 ### Product
 
-A small, sharp thing to kill _one pain_ <br> Save 10-15 hours of time and/or $$$
+- A small, sharp thing to kill _one pain_
+- Save 10-15 hours of time and/or $$$
 
 ### Launch
 
@@ -76,4 +77,20 @@ Questions and Answers that lead you straight to the customer's pain (and value)
   - lose money?
   - more money?
 
-### 2.
+> Pro Tip: You don't need to be a "visionary"... just identify problems and help people
+
+### 2. Figure out where your customer's world intersects yours
+
+Their pain + your sills = ✨💰
+
+- Pain: where do they suck?
+- You: where could you slide in?
+- Win: what could they win?
+
+#### The insight process
+
+1. Take all the raw data you gathered (above)
+2. Divide it into _pains_ (fails) and _wins_ (positive outcomes)
+3. Fill out this madlib for as many of the _pains_/_wins_ as you can:
+   - People in my industry suck at `_______`, but if only they’d `_______`, like me they’d have `_______`
+4. You’ll generate a LOT of these insights, but pick _JUST ONE PAIN_ to tackle!
