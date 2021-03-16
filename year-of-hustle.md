@@ -32,7 +32,7 @@
 
 ### Subs
 
-Draw subs in by content, motivateD with freebie
+Draw subs in by content, motivated with freebie
 
 ### Content
 
