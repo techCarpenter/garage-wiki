@@ -149,7 +149,7 @@ Use your database to label everyone in a category like this:
 | Zeno                | adrsrv@protonmail.com                      | adrsrv.duckdns.org                   | Germany              |   C    | _LastContacted_ | Uncontacted       | 17 y/o (2021), Self hosting, getting away from mega corps |
 
 ```json
-//CRM schema
+//Personal CRM schema
 {
   "peopleCollection": [
     {
