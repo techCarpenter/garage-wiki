@@ -145,7 +145,7 @@ Use your database to label everyone in a category like this:
 | Tyler Groenewold    | _Contact_                                  | _Website_                            | _Location_           | _List_ | _LastContacted_ | _Relation_        |                                                           |
 | Tyler Kress         | _Contact_                                  | _Website_                            | _Location_           |   D    |            !!!! | Acquaintance      |                                                           |
 | Zach Dwyer          | _Contact_                                  | _Website_                            | _Location_           |   D    |            !!!! | Friend            |                                                           |
-| Zach Leatherman     | _Contact_                                  | _Website_                            | _Location_           |   D    | _LastContacted_ | Uncontacted       |                                                           |
+| Zach Leatherman     | _Contact_                                  | zachleat.com                         | _Location_           |   D    | _LastContacted_ | Uncontacted       |                                                           |
 | Zeno                | adrsrv@protonmail.com                      | adrsrv.duckdns.org                   | Germany              |   C    | _LastContacted_ | Uncontacted       | 17 y/o (2021), Self hosting, getting away from mega corps |
 
 ```json
