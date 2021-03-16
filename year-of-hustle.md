@@ -94,3 +94,7 @@ Their pain + your sills = ✨💰
 3. Fill out this madlib for as many of the _pains_/_wins_ as you can:
    - People in my industry suck at `_______`, but if only they’d `_______`, like me they’d have `_______`
 4. You’ll generate a LOT of these insights, but pick _JUST ONE PAIN_ to tackle!
+
+> Pro Tip: Your goal is $10k... Not a revolution (And you don't have to be an expert to help someone, just better than they are!)
+
+### 3. Choose a single approach to reducing or eliminating one pain
