@@ -141,6 +141,7 @@
     - [Mount USB drive to pi](https://pimylifeup.com/raspberry-pi-mount-usb-drive/)
     - [KKSB Aluminum Case](https://kksb-cases.com/products/kksb-raspberry-pi-4-case-aluminium)
 - [ ] [Creating a product people want - Matt Ackerson](https://www.under30ceo.com/10-principles-for-creating-a-product-people-actually-want-to-buy/)
+- [ ] [Stairstep approach to Bootstrapping](https://robwalling.com/2015/03/26/the-stairstep-approach-to-bootstrapping/)
 
 ---
 
