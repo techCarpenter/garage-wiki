@@ -5,26 +5,29 @@
 - [ ] Roll over 401k
 - [ ] Apply to jobs
 - [ ] Contact Maureen and Cara (website work)
-- [ ] Clean garage
 - [ ] Call Josh Leiter
 - [ ] Switch ISP (Xfinity)
 - [ ] Update Discover payment
 - [ ] Contact Tim Johnson
+- [ ] Clean garage
 
 ## Brainstorm
 
 - [ ] Transfer 401k
   - [x] Text Colin about Vanguard 401k (Gentex 401k)
-- [x] Text dad about potential Saturday plan
+    - [Charles Schwab](https://schwab.com)
 - [ ] Text Kim back
 - [ ] Register bodyguardz
   - [ ] Hannah
+    - [ ] Screen protector
   - [ ] Brian
     - [ ] Screen protector
     - [ ] Case
-- [ ] Respond to Nextdoor inquiry
+- [ ] Respond to Nextdoor inquiries
+  - [ ] Cara
+  - [ ] Maureen
 - [ ] Finish Matt's site
-  - [ ] Fading images
+  - [x] Fading images
   - [ ] Email setup
   - [ ] Admin panel guide
 - [ ] Read books
