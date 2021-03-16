@@ -253,3 +253,65 @@ _Think about it..._
 - 5 year plan
   - 1 main focus for each year (can be duplicated)
 - Tonight/tomorrow sheet
+
+---
+## Proceeding
+
+You’ve got all your planning machinery in working order, and you’ve got a set of helpful hints for starting up again any time you’re stalled. Only one thing remains, and that is to show you how to turn the key and get it all rolling. What I’m going to give you now is the weekly and daily procedure that really puts your plans into action.
+
+Here’s what you have to work with:
+
+ON YOUR PLANNING WALL:
+
+1. Role Model
+2. Flow Chart
+3. Goal Calendar
+4. First Steps
+5. Weekly Calendar
+6. The next five years
+7. The next step: tonight/tomorrow
+
+PORTABLE:
+
+1. Pocket Calendar
+2. Actions & Feelings Journal
+3. Hard Times Notebook
+
+Here’s what you do every week:
+
+### SUNDAY NIGHT PLANNING MEETING
+
+This is the night on which you meet with yourself and prepare for the entire week ahead. It may take as much as an hour, or even more, but it’s vitally important. No sensible business would proceed without planning meetings, and you’ve got to learn to treat getting what you want as top priority business.
+
+I’ve picked Sunday night because it fits in with most people’s work week, but if your schedule is different, it could be Monday night or Thursday night just as well. If you are working in the buddy system, your weekly business meeting with your buddy will take care of some of the steps below. I’ve indicated which those are, so that you'll know which ones you will still have to come home and do for yourself to keep your plans up to date.
+
+1. **Looking Back.** Review what you got done the past week, referring to your _Weekly Calendar_ and _Actions & Feelings Journal_ to refresh your memory. Tear off the past week’s page to reveal a clean new one.
+2. **Flow Chart and Goal Calendar Update.** Check to see where you are now on your flow chart and goal calendar. Pay special attention to the closest approaching target date on your goal calendar. Does it look like you're going to make it? Many unforeseen problems and/or opportunities may have come up in the past week. If you’re falling behind schedule, what can you do about it? Can you step up the pace of your actions, or will you have to push back your target date? Or can you actually move it forward? This is the time to make any changes in your flow chart and goal calendar—either of target dates or of actual plans—based on what’s happened out there in the world.
+3. **List of First Steps.** Look at your list. You will have updated it in your _Daily Procedure_ (see below) as new ideas and leads came in, but now make any further additions you can think of and cross out any steps that have become unnecessary.
+4. **Problems.** Did you run into any snags last week? Are there any upcoming steps on your list that you feel puzzled or pessimistic about? This is the time for the _Problems List_. Dealing with it is a two-stage process.
+   1. **Hard Times.** If you're feeling discouraged, tired, or anxious, open your _Hard Times Notebook_ and start writing down all the reasons why it can’t be done. Look at the picture of your role model and say, "I hate you. Go sump in the lake with your bloody encouragement." Say, "Nobody else ever works this hard to get rich. Tomorrow I’m going to sell out to the highest bidder." Sooner or later, if you keep it bright and are very bad, you'll start to laugh. At that point, say, "Oh, what the hell," and turn your attention to the strategic problems.
+   2. **Brainstorming—and Barn-Raising.** Now, turn your ingenuity loose and play around with possible solutions to the problems. If you need input, reach for the telephone and call someone in your resource network. Enter the results on your _list of First Steps_.
+5. **Next Week’s Plan.** Two parts here too
+   1. **Weekly Calendar.** Assign the actions you’ve decided you can get done this coming week to specific days and times on your fresh new _Weekly Calendar_ page. Don’t forget also to schedule any crisis, booster, or report-back calls to your buddy or to a friend who’s given you a lead.
+   2. **Purse or Pocket Calendar.** Transfer the coming week’s "appointments" into your portable calendar.
+6. **Journal.** (see below)
+7. **The Next Step.** (see below)
+8. **Rewards.** (see below)
+9. **Dreaming.** (see below)
+
+### DAILY PROCEDURE
+
+#### Morning
+
+1. Set your alarm for ten minutes early.
+2. Go to your planning wall and look at the next step. That’s all you have to do today.
+3. Look at your flow chart and see where this one small step fits into the whole plan.
+4. If your goal or job takes you out into the world, pack up your pocket calendar and Hard Times Notebook, take a look at your role model, and you’re on your way. If you’re doing your goal work at home, sit down, take a deep breath ... and begin.
+
+#### Evening
+
+1. **Journal.** Enter in your _Actions & Feelings Journal_ what you got done today and how you felt.
+2. **List of First Steps.** Add any new steps that came up as a result of today’s actions to your _List of First Steps_.
+3. **The Next Step.** Tear off yesterday’s _tonight/tomorrow sheet_ and fill out a new one. What do you have scheduled for tomorrow? What do you have to do tonight to prepare for it—lay out your clothes, lay out your paintbrushes and paints, make sure a phone number is in your pocket calendar, rehearse an interview in your mind? Now do it.
+4. **Rewards.** Give yourself something nice: a hot bath, an hour of reading, a late movie, a glass of brandy, your favorite record, your favorite fantasy.
+5. **Dreaming.** The last thing before you go to sleep, lie awake in the dark and imagine yourself in your Ideal Environment—the one from Chapter 3 in which you would be your best self. Go to sleep enjoying that thought.
