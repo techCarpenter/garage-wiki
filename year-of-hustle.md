@@ -167,6 +167,47 @@ DATA   INSIGHT   METHOD   PRODUCT
 DESIGN, CREATE, SHIP, LAUNCH, SELL
 ```
 
+### Content
+
+```
+■ ■   ┏┓
+■ ■   ┗┛
+■ ■
+■ ■   ┏┓
+■ ■   ┗┛
+```
+
+- 5-10 Blog posts or other media
+- One landing page
+- One goodie only for subscribers
+
+### Launch
+
+```
+███┓ ███┓
+███┃ ███┃  ┏━━┓
+┗━━┛ ┗━━┛  ┃  ┃
+███┓ ███┓  ┗━━┛
+███┃ ███┃
+┗━━┛ ┗━━┛
+```
+
+- 4 emails that each share a quick win
+- 1 email that asks for the sale
+- Email marketing tool with automation
+
+### Product
+
+```
+┏━━━━━━━━━┓
+┃ █ █ █ █ ┃
+┃         ┃
+┃ █ █ █ █ ┃
+┗━━━━━━━━━┛
+```
+
+- 1 small, sharp product broken into discrete chunks
+
 ## 12 Week schedule
 
 ### Week 1
@@ -215,8 +256,8 @@ DESIGN, CREATE, SHIP, LAUNCH, SELL
 
 ### Week 9
 
-- [ ] Write _Lesson #3 email_ that delivers a _quick win_... and raises the idea of more.
-- [ ] Write a _Sales email_ that offers the product at $49 or $79
+- [ ] Write _Lesson #4 email_ that delivers a _quick win_... and raises the idea of more.
+- [ ] Write a _Sales email_ that offers the product at **$49** or **$79**
 - [ ] Write a _Reminder email_
 
 ### Week 10
