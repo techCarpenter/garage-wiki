@@ -813,8 +813,67 @@ Click here to [learn how to create the most effective marketing ever](https://st
 
 -Amy
 
-## Email #7 -
+## Email #7 - Amy's year of hustle story
 
+Lemme tell you a little story, Brian
+
+The Year of Hustle started as a challenge I set myself.
+
+March 2008. That was the moment when I decided to start a product business. I spent a month in New Zealand, and for the first time ever, I was far enough away from my consulting work… to realize how much I hated it.
+
+April through June, I watched, listened, and noted the pains in my peer group (design and dev consulting agencies).
+
+July, I analyzed workflows in the popular app people loved to hate. And sketched out the flow that would become Freckle’s Quick Entry and Quick Reporting feature.
+
+September, October, November — my husband and I built the very first barebones version of Freckle on about a day a week.
+
+December — we launched!
+
+January 2009, we ran our first billing cycle: about $1,500 for the month.
+
+Over the next year, we grew Freckle to almost $30,000 ARR — a respectable first year, but nothing like enough to live on.
+
+December 2010 rolled around… I was still consulting.
+
+And we’d just finally shipped a client project that felt like a full-body beating.
+
+I drew a line in the sand: NO MORE CONSULTING.
+
+We couldn’t live off Freckle. I didn’t have another option lined up. But for me, there was no going back.
+
+I burned that bridge and set fire to the boats.
+
+The only way to survive? Hustle my ass off.
+
+So we completed our JavaScript performance book. We amped up our JS workshops and productized them as much as we could. And I shipped the very first proto-class that would later become 30x500.
+
+That was 9 years ago.
+
+Today, our product biz brings in over a million dollars in revenue a year. And most of that is Freckle!
+
+But the lesson for you, as you embark on your Year of Hustle, is that this shit takes time. It takes time, and it takes effort.
+
+There will always be false starts. There will always be sticking points.
+
+I tell my students:
+
+Business is one of those things that feels like it doesn't work, doesn't work, doesn't work, until one beautiful moment it all CLICKS! and it works from there on out.
+
+But if you aren't grinding, grinding, grinding away at it for a while, though, it'll never yield. You'll never get to that beautiful perfect CLICK! You'll always be stuck on the side where it sucks.
+
+We're here to help you make sure you're grinding in the right direction, but we can't teleport you to the future. The future is coming whether you want it or not.
+
+The only question is: Will it be the future you want?
+
+Then you need to start now. Don't wait.
+
+If you're thinking, "OK, but I can't start working on this til next month, I have these huge projects going on right now!" — then believe me, as someone who’s always got too many balls in the air, I hear ya.
+
+If you really want it, don't wait.
+
+Start small. Be consistent. Stack the Bricks.
+
+-Amy
 
 <style>
 body {
