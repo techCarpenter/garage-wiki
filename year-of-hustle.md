@@ -170,11 +170,10 @@ DESIGN, CREATE, SHIP, LAUNCH, SELL
 ### Content
 
 ```
-■ ■   ┏┓
-■ ■   ┗┛
-■ ■
-■ ■   ┏┓
-■ ■   ┗┛
+┏┓┏┓┏┓┏┓┏┓  ┏━━┓
+┗┛┗┛┗┛┗┛┗┛  ┃  ┃
+┏┓┏┓┏┓┏┓┏┓  ┃  ┃
+┗┛┗┛┗┛┗┛┗┛  ┗━━┛
 ```
 
 - 5-10 Blog posts or other media
