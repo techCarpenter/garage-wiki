@@ -171,8 +171,8 @@ DESIGN, CREATE, SHIP, LAUNCH, SELL
 
 ```
 ┏┓┏┓┏┓┏┓┏┓  ┏━━┓
-┗┛┗┛┗┛┗┛┗┛  ┃  ┃
-┏┓┏┓┏┓┏┓┏┓  ┃  ┃
+┗┛┗┛┗┛┗┛┗┛  ┃  ┃  ┏━━┓
+┏┓┏┓┏┓┏┓┏┓  ┃  ┃  ┗━━┛
 ┗┛┗┛┗┛┗┛┗┛  ┗━━┛
 ```
 
@@ -183,17 +183,19 @@ DESIGN, CREATE, SHIP, LAUNCH, SELL
 ### Launch
 
 ```
+win  win
 ███┓ ███┓
-███┃ ███┃  ┏━━┓
-┗━━┛ ┗━━┛  ┃  ┃
+███┃ ███┃  sale
+┗━━┛ ┗━━┛  ┏━━┓
+win  win   ┃  ┃
 ███┓ ███┓  ┗━━┛
 ███┃ ███┃
 ┗━━┛ ┗━━┛
 ```
 
-- 4 emails that each share a quick win
+- 4 emails that each share one _quick win_
 - 1 email that asks for the sale
-- Email marketing tool with automation
+- (_Email marketing tool with automation_)
 
 ### Product
 
