@@ -98,3 +98,62 @@ Their pain + your sills = ✨💰
 > Pro Tip: Your goal is $10k... Not a revolution (And you don't have to be an expert to help someone, just better than they are!)
 
 ### 3. Choose a single approach to reducing or eliminating one pain
+
+- How will you help them kill that pain?
+
+```
+            MINDSET : They think productively about their work/industry
+    KNOWLEDGE/FACTS : They have all the pure facts and knowledge they require
+SKILL/ABILITY LEVEL : They have the skills they require AND are good at them
+     IMPLEMENTATION : They easily apply the skills they have to real-world projects
+          EXECUTION : They easily start, persist, and finish those projects
+            PROCESS : They follow a step-by-step process for reproducible success
+           TEMPLATE : They have the code, design elements, writing, etc. they need
+               TOOL : They have the tools they need to execute quickly and accurately
+```
+
+#### The Method Process
+
+1. Take the _ONE PAIN_ you chose.
+2. Read each of the above method statements above, aloud.
+3. Make a note every time one is a blatant lie! Like so:
+   1. **"They have all the skills they need - AND! - are good at them...?"** Ha! They couldn't `_______` if their lives depended on it. Sure, they can `_______`, but they're still newbies
+4. Of the methods you wrote down, pick the _ONE_ you feel most comfy producing.
+
+> REMEMBER: You goal is to save them 10 hours of work or money, not totally make over their life
+
+### 4. Design a small, sharp delivery mechanism for the method
+
+- How will you package the method?
+  - Screencast
+  - Webinar
+  - Mini workshop
+  - Audio lessons
+  - Parts library
+  - Themes
+  - Plugin
+  - Tool
+  - Scripts
+  - Checklists
+  - Workbook
+  - Mini book
+  - Single feature app
+
+#### The Product Process
+
+1. Inventory your skills: What comest _EASIEST_ to you? Fastest? Best?
+2. Inventory your byproducts: What _GOOD STUFF_ (code/design/words/slides/spreadsheets/processes/template) have you already made for your work?
+3. How can you deliver on **THE METHOD** in _ONE_ work week, or 35 hours?
+4. **OUTLINE** your simple product: What skills will you teach? What chapters, videos, etc. will that require? What is the one feature your toll will offer? What other things are required to ship? How will you charge? What will the interface be?
+5. Cut ruthlessly. And then cut it down some more.
+
+**DON'T OVERDO IT. KEEP IT SMALL AND SHARP. Your goal: save them 10-15 hours of work or money**
+
+> DO NOT - REPEAT - DO NOT GET CARRIED AWAY WITH YOUR PRODUCT SCOPE
+> This is not your _magnum opus_: more product die than are ever born
+
+## 4. Execute!
+
+**Design, build, launch, ship... in 12 weeks**
+
+
