@@ -2,18 +2,16 @@
 
 ## 1. Your mission
 
-> Earn $10,000 in one year from an info product
+Earn $10,000 in one year from an info product
 
-|                         |          |                    |
-| :---------------------- | -------: | -----------------: |
-| Price                   |      $49 |                $79 |
-| # of Sales              |      205 |                127 |
-| Subscribers             |    2,050 |              1,270 |
-| ---                     |      --- |                --- |
-| **Bottom line numbers** | **with** | **20% conversion** |
-| Sales/Month             |       17 |                 11 |
-| Subscribes/Day          |      5.6 |                3.5 |
-| Visits/Day              |       28 |                 18 |
+```text
+Product Price       $49      $79
+# of Sales          205      127
+Subscribers       2,050    1,270
+Sales/Month          17       11
+Subscribes/Day      5.6      3.5
+Visits/Day           28       18
+```
 
 ## 2. What do you need?
 
@@ -101,7 +99,7 @@ Their pain + your sills = ✨💰
 
 - How will you help them kill that pain?
 
-```
+```text
             MINDSET : They think productively about their work/industry
     KNOWLEDGE/FACTS : They have all the pure facts and knowledge they require
 SKILL/ABILITY LEVEL : They have the skills they require AND are good at them
