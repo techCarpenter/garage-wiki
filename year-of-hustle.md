@@ -276,3 +276,7 @@ DESIGN, CREATE, SHIP, LAUNCH, SELL
 - [ ] Update your CTAs and sequence for the goodie
 - [ ] Enable the launch sequence
 - [ ] **!!! LAUNCH !!!**
+
+## What's next?
+
+Now that you’ve got a _PRODUCT_ and an evergreen _LAUNCH PROCESS_, you can keep posting _HELPFUL CONTENT_ and tweak your CTAs to get more and more people into your FUNNEL, for more sales! You don’t need to make a **BIG SPLASHY LAUNCH** to make $10k over a year (or faster!).
