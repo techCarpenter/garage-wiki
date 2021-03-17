@@ -809,7 +809,7 @@ But! Because you signed up to change your life this year, to make this year your
 
 You’ll learn how to design the virtuous cycle to build traffic, rapport, trust, and sales. You’ll learn the most effective kind of content marketing you can — and you’ll kiss writer’s block goodbye, because you’ll also learn how to come up with infinite topics that your audience will love.
 
-Click here to [learn how to create the most effective marketing ever](https://stackingthebricks.com/year-of-hustle/marketing-content-ebombs/?ck_subscriber_id=1013548156)… in a fast, efficient, and effective way.
+Click here to [learn how to create the most effective marketing ever](https://stackingthebricks.com/year-of-hustle/marketing-content-ebombs/?ck_subscriber_id=1013548156)... in a fast, efficient, and effective way.
 
 -Amy
 
@@ -817,7 +817,7 @@ Click here to [learn how to create the most effective marketing ever](https://st
 
 Lemme tell you a little story, Brian
 
-The Year of Hustle started as a challenge I set myself.
+**The Year of Hustle started as a challenge I set _myself_.**
 
 March 2008. That was the moment when I decided to start a product business. I spent a month in New Zealand, and for the first time ever, I was far enough away from my consulting work… to realize how much I hated it.
 
