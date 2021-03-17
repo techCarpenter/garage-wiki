@@ -1,4 +1,4 @@
-# Year of Hustle | Stacking the Bricks
+# [Year of Hustle | Stacking the Bricks][year-of-hustle]
 
 ## 1. Your mission
 
@@ -283,6 +283,8 @@ win  win   ┃  ┃
 ## What's next?
 
 Now that you’ve got a _PRODUCT_ and an evergreen _LAUNCH PROCESS_, you can keep posting _HELPFUL CONTENT_ and tweak your CTAs to get more and more people into your FUNNEL, for more sales! You don’t need to make a **BIG SPLASHY LAUNCH** to make $10k over a year (or faster!).
+
+[year-of-hustle]: https://drive.google.com/file/d/1kML_oMeYzv8rbn_oqmUPnBuqZ45LPqUF/view?usp=sharing "PDF worksheet"
 
 <style>
 body {
