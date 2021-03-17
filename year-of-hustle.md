@@ -286,7 +286,7 @@ Now that you’ve got a _PRODUCT_ and an evergreen _LAUNCH PROCESS_, you can kee
 
 <style>
 body {
-  max-width: 500px;
+  max-width: 60rem;
   margin: auto;
 }
 </style>
