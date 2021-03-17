@@ -2,15 +2,15 @@
 
 ## 1. Your mission
 
-Earn $10,000 in one year from an info product
+**Earn $10,000 in one year from an info product**
 
 ```text
-Product Price       $49      $79
-# of Sales          205      127
-Subscribers       2,050    1,270
-Sales/Month          17       11
-Subscribes/Day      5.6      3.5
-Visits/Day           28       18
+Product Price         $49      $79
+# of Sales            205      127
+List Subscribers    2,050    1,270
+Sales/Month            17       11
+Subscribes/Day        5.6      3.5
+Site Visits/Day        28       18
 ```
 
 ## 2. What do you need?
@@ -152,6 +152,86 @@ SKILL/ABILITY LEVEL : They have the skills they require AND are good at them
 
 ## 4. Execute!
 
-**Design, build, launch, ship... in 12 weeks**
+- **Design, build, launch, ship... in 12 weeks**
+  - Break it down into chunks and hustle your buns off!
 
+```text
+            $10,000
+               ⬇
+         Prepare to win
+               ⬇
+Crunch + Research + Decide + Plan
+DATA   INSIGHT   METHOD   PRODUCT
+               ⬇
+            EXECUTE
+DESIGN, CREATE, SHIP, LAUNCH, SELL
+```
 
+## 12 Week schedule
+
+### Week 1
+
+- [ ] Put up a _Coming Soon Page_ with _description of pain_ and _outline of the product_
+- [ ] Create _one discrete chunk_ of the product
+- [ ] Share _Coming Soon_ page
+
+### Week 2
+
+- [ ] Write a welcome email that asks a question
+- [ ] Outline, prep, and create two _content_ pieces.
+- [ ] Publish one, with an email signup form referencing your future product
+
+### Week 3
+
+- [ ] Publish the second content piece, with email CTA.
+- [ ] Create _one discrete chunk_ of the product
+
+### Week 4
+
+- [ ] Outline, prep, and create two content pieces
+- [ ] Publish one, with email CTA
+- [ ] Write _Lesson #1 email_ that delivers a _quick win_
+
+### Week 5
+
+- [ ] Publish the second content piece, with email CTA.
+- [ ] Create _one discrete chunk_ of the product
+
+### Week 6
+
+- [ ] Create _one discrete chunk_ of the product
+- [ ] Write _Lesson #2 email_ that delivers a _quick win_, related to the product chunk
+
+### Week 7
+
+- [ ] Outline, prep, and create two content pieces
+- [ ] Publish one, with email CTA
+- [ ] Write _Lesson #3 email_ that delivers a _quick win_
+
+### Week 8
+
+- [ ] Publish the second content piece, with email CTA.
+- [ ] Create _one discrete chunk_ of the product
+
+### Week 9
+
+- [ ] Write _Lesson #3 email_ that delivers a _quick win_... and raises the idea of more.
+- [ ] Write a _Sales email_ that offers the product at $49 or $79
+- [ ] Write a _Reminder email_
+
+### Week 10
+
+- [ ] Create _one discrete chunk_ of the product
+- [ ] Queue up a _launch campaign_ in your email list software with the _emails_ you've written
+
+### Week 11
+
+- [ ] Complete the _product_
+- [ ] Transform the Coming Soon page into a _Sales page_
+- [ ] Turn a small _chunk_ of the product into a free _goodie_ (a reason to sign up for the list)
+
+### Week 12
+
+- [ ] Update your CTAs and sequence for the goodie
+- [ ] Enable the launch sequence
+- [ ] **!!! LAUNCH !!!**
