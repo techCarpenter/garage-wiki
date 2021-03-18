@@ -1,5 +1,54 @@
 # Year of Hustle | Stacking the Bricks
 
+<details>
+
+- [Year of Hustle | Stacking the Bricks](#year-of-hustle--stacking-the-bricks)
+  - [1. Your mission](#1-your-mission)
+  - [2. What do you need?](#2-what-do-you-need)
+    - [Product](#product)
+    - [Launch](#launch)
+    - [Subs](#subs)
+    - [Content](#content)
+    - [Method](#method)
+    - [Insight](#insight)
+    - [Data](#data)
+  - [3. How do you get it... fast? and _without_ fail?](#3-how-do-you-get-it-fast-and-without-fail)
+    - [1. Answer these questions to gather your raw data](#1-answer-these-questions-to-gather-your-raw-data)
+    - [2. Figure out where your customer's world intersects yours](#2-figure-out-where-your-customers-world-intersects-yours)
+      - [The insight process](#the-insight-process)
+    - [3. Choose a single approach to reducing or eliminating one pain](#3-choose-a-single-approach-to-reducing-or-eliminating-one-pain)
+      - [The Method Process](#the-method-process)
+    - [4. Design a small, sharp delivery mechanism for the method](#4-design-a-small-sharp-delivery-mechanism-for-the-method)
+      - [The Product Process](#the-product-process)
+  - [4. Execute!](#4-execute)
+    - [Content](#content-1)
+    - [Launch](#launch-1)
+    - [Product](#product-1)
+  - [12 Week schedule](#12-week-schedule)
+    - [Week 1](#week-1)
+    - [Week 2](#week-2)
+    - [Week 3](#week-3)
+    - [Week 4](#week-4)
+    - [Week 5](#week-5)
+    - [Week 6](#week-6)
+    - [Week 7](#week-7)
+    - [Week 8](#week-8)
+    - [Week 9](#week-9)
+    - [Week 10](#week-10)
+    - [Week 11](#week-11)
+    - [Week 12](#week-12)
+  - [What's next?](#whats-next)
+- [Stacking the Bricks email course](#stacking-the-bricks-email-course)
+  - [Email #1 - Commitment that lasts](#email-1---commitment-that-lasts)
+  - [Email #2 - How to build your castle](#email-2---how-to-build-your-castle)
+  - [Email #3 - Now carve out (& defend) your hustle time](#email-3---now-carve-out--defend-your-hustle-time)
+  - [Email #4 - What's so tempting about failure?](#email-4---whats-so-tempting-about-failure)
+  - [Email #5 - How to create a product that sells](#email-5---how-to-create-a-product-that-sells)
+  - [Email #6 - Learn the killer method to market anything](#email-6---learn-the-killer-method-to-market-anything)
+  - [Email #7 - Amy's year of hustle story](#email-7---amys-year-of-hustle-story)
+
+</details>
+
 _[Year of Hustle PDF][year-of-hustle]_
 
 ## 1. Your mission
