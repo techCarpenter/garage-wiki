@@ -2,6 +2,8 @@
 
 <details>
 
+<summary><h2 style="display: inline-block;">Table of Contents</h2></summary>
+
 - [Year of Hustle | Stacking the Bricks](#year-of-hustle--stacking-the-bricks)
   - [1. Your mission](#1-your-mission)
   - [2. What do you need?](#2-what-do-you-need)
