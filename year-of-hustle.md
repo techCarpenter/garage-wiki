@@ -1,4 +1,6 @@
-# [Year of Hustle | Stacking the Bricks][year-of-hustle]
+# Year of Hustle | Stacking the Bricks
+
+_[Year of Hustle PDF][year-of-hustle]_
 
 ## 1. Your mission
 
@@ -290,7 +292,7 @@ Now that you’ve got a _PRODUCT_ and an evergreen _LAUNCH PROCESS_, you can kee
 
 # Stacking the Bricks email course
 
-## Email #1
+## Email #1 - Commitment that lasts
 
 Okay, Brian!
 
@@ -302,7 +304,7 @@ This free email course is to help do just that!
 
 There are three steps required to create any major change:
 
-1. Committing
+1. **Committing**
 2. Preparing to win
 3. Executing (over the long haul)
 
@@ -320,7 +322,7 @@ There are two steps you can complete now that will make a HUGE difference in you
 
 You wanna keep your fire going? Do these two steps today.
 
-Step 1. Stoke the pain til it burns hot like a thousand suns.
+**Step 1. Stoke the pain til it burns hot like a thousand suns.**
 
 Seriously. We grow up learning to not rock the boat. That learning is deeply embedded and hard as hell to undo.
 
@@ -332,7 +334,7 @@ Don't let it. Kill the status quo dead by embracing your F*ck This Moment.
 
 And then...
 
-Step 2. Put your commitment where your face is.
+**Step 2. Put your commitment where your face is.**
 
 Warning: This is super cheesy and also crazy effective.
 
@@ -340,7 +342,7 @@ Now, while the feeling is hot, write it down. Dump all the things you hate about
 
 You can't change something if you won't even let yourself see the truth. So go ahead, throw yourself a little pity party. Get angry about the things that suck the life out of you. Make the iron hot by striking.
 
-Then, on a fresh page, write down the powerful reason that will keep you going when things get tough.
+Then, on a fresh page, **write down the powerful reason that will _keep you going_ when things get tough.**
 
 Is it creative freedom? To fully execute on your work, for once, without tampering or endless meetings where you have to justify your very existence? To be the one who profits off your own labor? To interact with happy customers? To live and work where you want? To spend more time on your hobbies? To spend more time with your loved ones?
 
@@ -358,7 +360,7 @@ That'll hit your inbox on Tuesday. Until then....think about your F*ck This mome
 
 Amy
 
-## Email #2
+## Email #2 - How to build your castle
 
 Did you know that you’re building a castle, Brian?
 
@@ -369,7 +371,7 @@ You’re building a strategic marvel that will help you first carve out — then
 That’s the life-changing magic of part two on our little 3-part approach:
 
 1. Committing
-2. Preparing to win
+2. **Preparing to win**
 3. Executing (over the long haul)
 
 You’re about to learn exactly what plans you can make to ensure your success… but first, let’s talk castles. A specific castle.
@@ -396,9 +398,9 @@ He gave it walls 6 meters thick. He gave it hidden walkways — the men inside c
 
 Caenarfon remained unconquered for 363 years.
 
-That’s what I call preparing to win.
+**That’s what I call preparing to win.**
 
-The 3 principles you need to prepare to win are:
+The 3 principles you need to **prepare to win** are:
 
 - Offense and defense — to carve out your territory and protect it with an iron fist
 - Efficiency — to design your process & product now so one person (you!) can have an outsized impact
@@ -416,13 +418,13 @@ This year, your _Year of Hustle_, you’re going to build a real castle.
 
 Amy
 
-## Email #3
+## Email #3 - Now carve out (& defend) your hustle time
 
 Okay, Brian!
 
 In my last email, I left you with the 3 principles you need to prepare to win:
 
-- Offense and defense
+- **Offense and defense**
 - Efficiency
 - Effectiveness
 
@@ -443,7 +445,7 @@ If you’re yelping in pain, you can release your vise-like grip on your butt ch
 
 Luckily, the Roadmap showed you exactly what we do to big scary numbers:
 
-Break 'em down into tiny little chunks (then crush ‘em).
+**Break 'em down into tiny little chunks (then crush ‘em).**
 
 Remember the _12 weeks_ from the Roadmap?
 
@@ -456,7 +458,7 @@ Bam! Here are your crushable chunks:
 
 There we go… just over an hour a day. Is it a walk in the park with an ice cream cone and a shiny red ballon? Nope. We’re talking about the work that will overhaul your career and your life. To build your castle.
 
-It’s not effortless. It's worth the effort.
+**It’s not effortless. It's worth the effort.**
 
 An hour a day is the equivalent of taking a single, lightweight college class. That’s how little it takes to carve out and defend your future.
 
@@ -464,7 +466,7 @@ You can do it.
 
 And I’m here to help you.
 
-There are two ways to slay your schedule.
+**There are two ways to slay your schedule.**
 
 One, you can be the kind of intuitive person who just magically frees up time when they need it with nary a ball dropped. If you’re that kind of person, bravo! You’re going to succeed without breaking a sweat! I promise to only hate you a little.
 
@@ -480,7 +482,7 @@ And stay tuned for my next email, cuz it's all about product ideas. Good ones, b
 
 -Amy
 
-## Email #4
+## Email #4 - What's so tempting about failure?
 
 So tell me… is failure tempting?
 
@@ -773,10 +775,11 @@ Marketing is so crucial to the success of every product — no matter how beauti
 
 Many creative professionals (like you!) fail at marketing because of…
 
-the mindset that “good work speaks for itself"
-the belief that “marketing” is manipulative, scammy, self-serving, or just plain rude
-the related belief that “good marketing” is mainly telling people “Hey my product is available”
-a mistaken focus on ads, promotions, etc.
+- the mindset that “good work speaks for itself"
+- the belief that “marketing” is manipulative, scammy, self-serving, or just plain rude
+- the related belief that “good marketing” is mainly telling people “Hey my product is available”
+- a mistaken focus on ads, promotions, etc.
+
 But those are all based on a complete misunderstanding of what marketing does!
 
 **_Great marketing helps people._** Full stop.
@@ -787,10 +790,10 @@ And the same logic applies to the marketing for the product:
 
 1. If marketing helps people, they’ll share it.
 2. And when it gives them results, they’ll trust you.
-1. And then they’ll like you.
-1. And then they’ll want to buy.
-1. And then your product will help them.
-1. And then they’ll share that.
+3. And then they’ll like you.
+4. And then they’ll want to buy.
+5. And then your product will help them.
+6. And then they’ll share that.
 
 **That’s the power of an efficient and effective marketing approach.**
 
@@ -821,19 +824,19 @@ Lemme tell you a little story, Brian
 
 March 2008. That was the moment when I decided to start a product business. I spent a month in New Zealand, and for the first time ever, I was far enough away from my consulting work… to realize how much I hated it.
 
-April through June, I watched, listened, and noted the pains in my peer group (design and dev consulting agencies).
+_April through June_, I watched, listened, and noted the pains in my peer group (design and dev consulting agencies).
 
-July, I analyzed workflows in the popular app people loved to hate. And sketched out the flow that would become Freckle’s Quick Entry and Quick Reporting feature.
+_July_, I analyzed workflows in the popular app people loved to hate. And sketched out the flow that would become Freckle’s Quick Entry and Quick Reporting feature.
 
-September, October, November — my husband and I built the very first barebones version of Freckle on about a day a week.
+_September, October, November_ — my husband and I built the very first barebones version of Freckle on about a day a week.
 
-December — we launched!
+_December_ — we launched!
 
-January 2009, we ran our first billing cycle: about $1,500 for the month.
+_January 2009_, we ran our first billing cycle: about $1,500 for the month.
 
 Over the next year, we grew Freckle to almost $30,000 ARR — a respectable first year, but nothing like enough to live on.
 
-December 2010 rolled around… I was still consulting.
+**December 2010 rolled around… I was still consulting.**
 
 And we’d just finally shipped a client project that felt like a full-body beating.
 
@@ -843,7 +846,7 @@ We couldn’t live off Freckle. I didn’t have another option lined up. But for
 
 I burned that bridge and set fire to the boats.
 
-The only way to survive? Hustle my ass off.
+**The only way to survive? Hustle my ass off.**
 
 So we completed our JavaScript performance book. We amped up our JS workshops and productized them as much as we could. And I shipped the very first proto-class that would later become 30x500.
 
@@ -851,7 +854,7 @@ That was 9 years ago.
 
 Today, our product biz brings in over a million dollars in revenue a year. And most of that is Freckle!
 
-But the lesson for you, as you embark on your Year of Hustle, is that this shit takes time. It takes time, and it takes effort.
+**But the lesson for you, as you embark on your Year of Hustle, is that this shit takes time. It takes time, and it takes effort.**
 
 There will always be false starts. There will always be sticking points.
 
@@ -865,13 +868,13 @@ We're here to help you make sure you're grinding in the right direction, but we 
 
 The only question is: Will it be the future you want?
 
-Then you need to start now. Don't wait.
+**Then you need to start now. Don't wait.**
 
 If you're thinking, "OK, but I can't start working on this til next month, I have these huge projects going on right now!" — then believe me, as someone who’s always got too many balls in the air, I hear ya.
 
 If you really want it, don't wait.
 
-Start small. Be consistent. Stack the Bricks.
+**Start small. Be consistent. Stack the Bricks.**
 
 -Amy
 
