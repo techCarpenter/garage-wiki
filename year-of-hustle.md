@@ -284,7 +284,7 @@ win  win   ┃  ┃
   </svg>
   <svg class="legend" viewbox="0 0 100 20" xmlns="http://www.w3.org/2000/svg">
     <circle class="product" cx="10" cy="10" r="10"></circle>
-    <text fill="white" x="27" y="16" font-size="16">Product</text>
+    <text class="product" x="27" y="16" font-size="16">Product</text>
   </svg>
 </div>
 
