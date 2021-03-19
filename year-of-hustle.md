@@ -949,18 +949,22 @@ body {
 }
 .purple {
   fill: var(--purple);
+  color: var(--purple);
 }
 
 .green {
   fill: var(--green);
+  color: var(--green);
 }
 
 .pink {
   fill: var(--pink);
+  color: var(--pink);
 }
 
 .orange {
   fill: var(--orange);
+  color: var(--orange);
 }
 
 </style>
