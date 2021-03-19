@@ -268,7 +268,9 @@ win  win   ┃  ┃
 
 ### Week 1
 
-- [ ] Put up a _Coming Soon Page_ with _description of pain_ and _outline of the product_
+
+
+- [ ] Put up a <span class="pink">_Coming Soon Page_</span> with _description of pain_ and _outline of the product_
 - [ ] Create _one discrete chunk_ of the product
 - [ ] Share _Coming Soon_ page
 
@@ -930,8 +932,35 @@ If you really want it, don't wait.
 -Amy
 
 <style>
+:root {
+  --pink: #df3684;
+  --purple: #cd63ba;
+  --green: #2aa091;
+  --orange: #ffa020;
+}
+
 body {
   max-width: 60rem;
   margin: auto;
 }
+
+.circle {
+  max-width: 30px;
+}
+.purple {
+  fill: var(--purple);
+}
+
+.green {
+  fill: var(--green);
+}
+
+.pink {
+  fill: var(--pink);
+}
+
+.orange {
+  fill: var(--orange);
+}
+
 </style>
