@@ -270,9 +270,9 @@ win  win   ┃  ┃
 
 
 
-- [ ] Put up a <span class="pink">_Coming Soon Page_</span> with _description of pain_ and _outline of the product_
-- [ ] Create <span class="green">_one discrete chunk_</span> of the product
-- [ ] Share _Coming Soon_ page
+- [ ] Put up a <span class="pink">Coming Soon Page</span> with description of pain + outline of the product, with <span class="orange">email signup</span>
+- [ ] Create <span class="green">one discrete chunk</span> of the product
+- [ ] <span class="orange">Share</span> Coming Soon page
 
 ### Week 2
 
