@@ -272,15 +272,15 @@ win  win   ┃  ┃
 <div style="padding: 1rem 0; display: flex; flex-direction: column; height: 100px; justify-content: space-between;">
   <svg class="legend" viewbox="0 0 100 20" xmlns="http://www.w3.org/2000/svg">
     <circle class="content" cx="10" cy="10" r="10"></circle>
-    <text fill="white" x="27" y="16" font-size="16">Content</text>
+    <text class="content" x="27" y="16" font-size="16">Content</text>
   </svg>
   <svg class="legend" viewbox="0 0 100 20" xmlns="http://www.w3.org/2000/svg">
     <circle class="launch" cx="10" cy="10" r="10"></circle>
-    <text fill="white" x="27" y="16" font-size="16">Launch</text>
+    <text class="launch" x="27" y="16" font-size="16">Launch</text>
   </svg>
   <svg class="legend" viewbox="0 0 100 20" xmlns="http://www.w3.org/2000/svg">
     <circle class="subs" cx="10" cy="10" r="10"></circle>
-    <text fill="white" x="27" y="16" font-size="16">Subs</text>
+    <text class="subs" x="27" y="16" font-size="16">Subs</text>
   </svg>
   <svg class="legend" viewbox="0 0 100 20" xmlns="http://www.w3.org/2000/svg">
     <circle class="product" cx="10" cy="10" r="10"></circle>
@@ -290,15 +290,15 @@ win  win   ┃  ┃
 
 ### Week 1
 
-- [ ] Put up a <span class="content">Coming Soon Page</span> with description of pain + outline of the product, with <span class="subs">email signup</span>
-- [ ] Create <span class="product">one discrete chunk</span> of the product
-- [ ] <span class="subs">Share</span> Coming Soon page
+- [ ] Put up a <strong><span class="content">Coming Soon Page</span></strong> with description of pain + outline of the product, with <strong><span class="subs">email signup</span></strong>
+- [ ] Create <strong><span class="product">one discrete chunk</span></strong> of the product
+- [ ] <strong><span class="subs">Share</span></strong> Coming Soon page
 
 ### Week 2
 
-- [ ] Write a <span class="launch">welcome email</span> that asks a <span class="data">question</span>
-- [ ] Outline, prep, and create two <span class="content">content</span> pieces.
-- [ ] <span class="subs">Publish</span> one, with an <span class="subs">email signup form</span> referencing your future product
+- [ ] Write a <strong><span class="launch">welcome email</span></strong> that asks a <strong><span class="data">question</span></strong>
+- [ ] Outline, prep, and create two <strong><span class="content">content</span></strong> pieces.
+- [ ] <strong><span class="subs">Publish</span></strong> one, with an <strong><span class="subs">email signup form</span></strong> referencing your future product
 
 ### Week 3
 
