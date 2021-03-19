@@ -271,7 +271,7 @@ win  win   ┃  ┃
 
 
 - [ ] Put up a <span class="pink">_Coming Soon Page_</span> with _description of pain_ and _outline of the product_
-- [ ] Create _one discrete chunk_ of the product
+- [ ] Create <span class="green">_one discrete chunk_</span> of the product
 - [ ] Share _Coming Soon_ page
 
 ### Week 2
