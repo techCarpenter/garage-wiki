@@ -2,19 +2,10 @@
 
 ## Task List
 
-- [ ] Submit pistol registration
-  - [x] Find out where to go
-  - [x] See if Hannah can drop it off
-  - [x] <star two/>Mail registration to:
-  ```text
-  Ottawa County Sheriff’s Office
-  Firearm Records
-  12220 Fillmore Street
-  West Olive, MI 49460
-  ```
 - [ ] Roll over 401k
   - [x] Open Schwab account
-  - [x] <star two/>Call Wells Fargo
+  - [x] Call Wells Fargo
+  - [ ] <star />Text Carly to intercept mail for me
 - [ ] Respond to Nextdoor inquiries
   - [x] Cara
     - I saw your introduction post, and you mentioned that you create websites for small businesses. I was wondering how much you charge for your services? We are looking for someone to create a website for an attorney at a reasonable rate. All of the website developers we've talked to so far are not a good fit for us because they deal with much bigger companies that sell large amounts of actual products rather than services. We only have one attorney starting their own law firm, so it would not be too complicated (I don't think, anyway). Thank you in advance for your time! Hope to hear from you soon. Cara Thaler
@@ -37,33 +28,16 @@
   - [ ] <star/>Call Maureen (616-777-0852)
     - We are not happy with our website. Our person oversold their qualifications.   So, I'd like to talk to you are fixing the screw ups. It needs to integrate with our law practice management software. We are a new firm, 2 friends that have combined resources. Call me and let me know if you can help us. I can explain it better on the phone and answer your questions. Maureen Van Hoven
 - [ ] <star/>Update Discover payment
-- [ ] <star/>Pick day to go to Colin's
 - [ ] <star two/>Finish Matt's site
   - [x] Fading images
   - [ ] Email setup
   - [ ] Admin panel guide
 - [ ] Follow up with Susan with questions about UX/UI resources
-- [x] Tell people I got my gun
-  - [x] Jordon
-  - [x] Dad Corner
-  - [x] Alex
-  - [x] Kim
-  - [x] Colin
-  - [x] Jon/Rachel
-  - [x] Dad DeVries
-  - [x] Dylan
-- [x] Register bodyguardz
-  - [x] Hannah
-    - [x] Screen protector
-  - [ ] Brian
-    - [x] Screen protector
-    - [x] Case
 - [ ] Apply to jobs
   - [ ] Decide where to apply
 - [ ] Call Josh Leiter
 - [ ] Switch ISP (Xfinity)
 - [ ] Contact Tim Johnson
-- [x] Clean garage
 - [ ] Borrow air pump from mom and dad
 - [ ] Bike tire innertube replacement
 - [ ] Ford Recall
