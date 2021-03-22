@@ -14,7 +14,7 @@
   ```
 - [ ] Roll over 401k
   - [x] Open Schwab account
-  - [ ] <star two/>Call Wells Fargo
+  - [x] <star two/>Call Wells Fargo
 - [ ] Respond to Nextdoor inquiries
   - [x] Cara
     - I saw your introduction post, and you mentioned that you create websites for small businesses. I was wondering how much you charge for your services? We are looking for someone to create a website for an attorney at a reasonable rate. All of the website developers we've talked to so far are not a good fit for us because they deal with much bigger companies that sell large amounts of actual products rather than services. We only have one attorney starting their own law firm, so it would not be too complicated (I don't think, anyway). Thank you in advance for your time! Hope to hear from you soon. Cara Thaler
