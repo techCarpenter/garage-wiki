@@ -5,15 +5,13 @@
 - [ ] Submit pistol registration
   - [x] Find out where to go
   - [x] See if Hannah can drop it off
-  - [ ] <star two/>Mail registration to:
+  - [x] <star two/>Mail registration to:
   ```text
   Ottawa County Sheriff’s Office
   Firearm Records
   12220 Fillmore Street
   West Olive, MI 49460
   ```
-  - [ ] Notify Michelle?
-  - [ ] Renter's Insurance?
 - [ ] Roll over 401k
   - [x] Open Schwab account
   - [ ] <star two/>Call Wells Fargo
@@ -45,22 +43,21 @@
   - [ ] Email setup
   - [ ] Admin panel guide
 - [ ] Follow up with Susan with questions about UX/UI resources
-- [ ] Tell people I got my gun
+- [x] Tell people I got my gun
   - [x] Jordon
   - [x] Dad Corner
   - [x] Alex
   - [x] Kim
-  - [ ] Colin
-  - [ ] Jon/Rachel
-  - [ ] Dad DeVries
-  - [ ] Dylan
-  - [ ] 
-- [ ] Register bodyguardz
+  - [x] Colin
+  - [x] Jon/Rachel
+  - [x] Dad DeVries
+  - [x] Dylan
+- [x] Register bodyguardz
   - [x] Hannah
     - [x] Screen protector
   - [ ] Brian
     - [x] Screen protector
-    - [ ] Case
+    - [x] Case
 - [ ] Apply to jobs
   - [ ] Decide where to apply
 - [ ] Call Josh Leiter
