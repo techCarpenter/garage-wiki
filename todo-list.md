@@ -44,6 +44,17 @@
   - [x] Fading images
   - [ ] Email setup
   - [ ] Admin panel guide
+- [ ] Follow up with Susan with questions about UX/UI resources
+- [ ] Tell people I got my gun
+  - [x] Jordon
+  - [x] Dad Corner
+  - [x] Alex
+  - [x] Kim
+  - [ ] Colin
+  - [ ] Jon/Rachel
+  - [ ] Dad DeVries
+  - [ ] Dylan
+  - [ ] 
 - [ ] Register bodyguardz
   - [x] Hannah
     - [x] Screen protector
@@ -71,8 +82,8 @@
   - [ ] Practical Wisdom
 - [ ] Raspberry Pi server
   - [ ] Figure out auto deployment from git branch
-  - [ ] nginx proxy
-  - [ ] Topple api
+  - [ ] <star/>nginx proxy
+  - [ ] Topple (frontend + backend)
   - [ ] Personal CRM
   - [ ] Learn about backing up data
   - [ ] ~~Git server~~
