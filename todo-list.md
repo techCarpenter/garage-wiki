@@ -73,7 +73,6 @@ Sorry for the delayed response, I haven't checked Nextdoor for a bit!
   left: -40px;
 }
 .priority::before {
-  position: relative;
   content: "✹";
   color: red;
   font-weight: bolder;
