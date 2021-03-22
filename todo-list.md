@@ -3,8 +3,15 @@
 ## Task List
 
 - [ ] <star two/>Submit gun license
-  - [ ] Find out where to go
-  - [ ] See if Hannah can drop it off
+  - [x] Find out where to go
+  - [x] See if Hannah can drop it off
+  - [ ] Mail registration to:
+    - ```
+      Ottawa County Sheriff’s Office
+      Firearm Records
+      12220 Fillmore Street
+      West Olive, MI 49460
+      ```
 - [ ] Roll over 401k
   - [x] Open Schwab account
   - [ ] <star two/>Call Wells Fargo
