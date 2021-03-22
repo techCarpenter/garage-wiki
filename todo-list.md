@@ -69,7 +69,6 @@ Sorry for the delayed response, I haven't checked Nextdoor for a bit!
 
 <style>
 .priority {
-  width: 0;
   position: relative;
   left: -40px;
 }
