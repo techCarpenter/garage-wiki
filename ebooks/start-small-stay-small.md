@@ -78,3 +78,57 @@ Ask yourself:
     - Nearly everything requires ongoing effort
 
 ## 2. Why Niches Are theName of the Game
+
+Reasons to go niche:
+
+1. A Niche Requires You to Narrow Your Product Focus
+   - find a small group of people and make them amazingly happy = $$$
+2. Niche Advertising is more Cost Effective
+   - less competition, lower ad rates
+3. Niches have less competition
+4. Niches have higher profit margins
+   - Willing to spend more for a specific solution
+5. Niche Markets Are Not Used to Good Marketing
+   - Smaller players don't have the large marketing budget
+6. It's easier for prospects to trust you
+   - You'll come up more frequently in a smaller market
+
+Exercise: Warm niches
+
+| Person           | Work/hobby experience      |
+|:-----------------|:---------------------------|
+| Dad DeVries      | Fine Woodworking           |
+| Alex Corner      | Plumbing sales             |
+| Dad Corner       | Security/Law enforcement   |
+| Me               | Hand tool woodworking      |
+| Colin Huff       | self-hosted servers        |
+| Colin Huff       | Oil Filtration             |
+| Jon Sjoerdsma    | Network cable guy          |
+| Jon Sjoerdsma    | Grilling/cooking           |
+| Rachel Sjoerdsma | Laser Engraving            |
+| Rachel Sjoerdsma | Sewing/crocheting/knitting |
+| Kim DeVries      | Fitness/Wellness           |
+| Dylan DeVries    | Welding                    |
+| Jordon Burman    | Ultrasound Tech            |
+| Me               | Web development            |
+| Matt Byma        | Lawn care/mole trapping    |
+| Emily Pierce     | Real Estate Agent          |
+| Jenna White      | Cheerleading               |
+| Nathan Kerkstra  | Accounting                 |
+| Ted Start        | Biking                     |
+
+Non-negotiable:
+
+- My target market must be online
+- Narrow focus to consumers and small businesses
+
+- Is the market large enough?
+- Is there an inexpensive way to reach them?
+
+Your “market size” research should involve the following:
+
+- [ ] A web search for related magazines and websites
+- [ ] Tracking down their advertising rate cards, which tell you how much it will cost to advertise in their magazine or on their website
+- [ ] Reviewing their circulation (for magazines), visitor statistics (for websites), and rates
+- [ ] Entering websites without rate cards into Compete.com to check traffic levels
+- [ ] Checking in with your friendly neighborhood bureau of labor statistics for a sanity check on your findings
