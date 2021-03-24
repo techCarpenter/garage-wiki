@@ -16,7 +16,7 @@
   - [ ] <star/>Email setup
   - [ ] Admin panel guide
 - [ ] Follow up with Susan with questions about UX/UI resources
-- [ ] Apply to jobs
+- [ ] <star/>Apply to jobs
   - [ ] Decide where to apply
   - [ ] Proton.ai
 - [ ] Call Josh Leiter
