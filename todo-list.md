@@ -2,15 +2,19 @@
 
 ## Task List
 
-- [ ] Roll over 401k
+- [ ] <star/>Transfer 401k to _Charles Schwab_
   - [x] Open Schwab account
   - [x] Call Wells Fargo
-  - [ ] <star />Text Carly to intercept mail for me
+  - [x] Text Carly to intercept mail for me
+  - [ ] Mail check to Schwab
+    ```text
+    Charles Schwab & Co., Inc.
+    P.O. Box 628291
+    Orlando, FL 32862-8291
+    ```
 - [ ] Respond to Nextdoor inquiries
-  - [x] Cara
   - [ ] <star/>Call Maureen (616-777-0852)
     - We are not happy with our website. Our person oversold their qualifications.   So, I'd like to talk to you are fixing the screw ups. It needs to integrate with our law practice management software. We are a new firm, 2 friends that have combined resources. Call me and let me know if you can help us. I can explain it better on the phone and answer your questions. Maureen Van Hoven
-- [x] Update Discover payment
 - [ ] Finish Matt's site
   - [x] Fading images
   - [ ] <star/>Email setup
@@ -19,6 +23,7 @@
 - [ ] <star/>Apply to jobs
   - [ ] Decide where to apply
   - [ ] Proton.ai
+- [ ] <star/>Tweet back to Ben Patton
 - [ ] Call Josh Leiter
 - [ ] Switch ISP (Xfinity)
 - [ ] Contact Tim Johnson
