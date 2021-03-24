@@ -232,7 +232,7 @@
 - Communicating career goals with current coworkers
   - Tension of loving the people you work with currently, but wanting to move your career in a different direction
 
-### Look in to...
+### Look into...
 
 - Indie Web
   - web mentions
