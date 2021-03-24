@@ -2,14 +2,14 @@
 
 > by Derek Sivers
 
-- [ ] [Ten years of experience in one hour](https://sive.rs/ayw1")
+- [x] [Ten years of experience in one hour](https://sive.rs/ayw1")
 - [ ] [What’s your compass?](https://sive.rs/ayw2")
 - [ ] [Just selling my CD](https://sive.rs/ayw3")
 - [ ] [Make a dream come true](https://sive.rs/ayw4")
 - [ ] [A business model with only two numbers](https://sive.rs/ayw5")
 - [ ] [This ain’t no revolution](https://sive.rs/ayw6")
 - [ ] [If it’s not a hit, switch](https://sive.rs/hitswitch")
-- [ ] [No “yes.” Either “HELL YEAH!” or “no.”](https://sive.rs/hellyeah")
+- [ ] [No “yes.” Either “HELL YEAH!” or "no."](https://sive.rs/hellyeah")
 - [ ] [Just like that, my plan completely changed](https://sive.rs/changeplan")
 - [ ] [The advantage of no funding](https://sive.rs/nofund")
 - [ ] [Start now. No funding needed.](https://sive.rs/startnow")
