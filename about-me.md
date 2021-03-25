@@ -171,7 +171,7 @@
   - Cross Country ([online bio](https://www.athletic.net/TrackAndField/Athlete.aspx?AID=1966266))
     - Team came in 2nd at the state meet
     - Team captain senior year
-    - 5k (**PR 17:32**)
+    - 5k run (**PR 17:32**)
   - Football
   - Volleyball
   - Swimming
