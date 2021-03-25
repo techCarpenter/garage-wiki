@@ -201,8 +201,7 @@ SKILL/ABILITY LEVEL : They have the skills they require AND are good at them
 
 **DON'T OVERDO IT. KEEP IT SMALL AND SHARP. Your goal: save them 10-15 hours of work or money**
 
-> DO NOT - REPEAT - DO NOT GET CARRIED AWAY WITH YOUR PRODUCT SCOPE
-> This is not your _magnum opus_: more product die than are ever born
+> DO NOT - REPEAT - DO NOT GET CARRIED AWAY WITH YOUR PRODUCT SCOPE This is not your _magnum opus_: more product die than are ever born
 
 ## 4. Execute!
 
@@ -403,7 +402,7 @@ Everything in your brain and body is going to try to make you forget how you fee
 
 Your subconscious is going to preserve the status quo at all costs.
 
-Don't let it. Kill the status quo dead by embracing your F*ck This Moment.
+Don't let it. Kill the status quo dead by embracing your F\*ck This Moment.
 
 And then...
 
@@ -429,7 +428,7 @@ Whatever it is, keep it in front of your face.
 
 Coming up in the next email - Prepare to Win. It includes one includes an action-packed and tiny little book that'll help you free up time to build your new life… on the side.)
 
-That'll hit your inbox on Tuesday. Until then....think about your F*ck This moment, and write it down!
+That'll hit your inbox on Tuesday. Until then....think about your F\*ck This moment, and write it down!
 
 Amy
 
