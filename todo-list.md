@@ -3,6 +3,7 @@
 ## Task List
 
 - [ ] <star/>Model Railroad software landing page
+  - [Resource](https://www.hostinger.com/tutorials/how-to-create-a-landing-page)
 - [ ] <star/>Transfer 401k to _Charles Schwab_
   - [x] Open Schwab account
   - [x] Call Wells Fargo
