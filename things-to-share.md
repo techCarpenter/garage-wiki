@@ -26,7 +26,6 @@
 - [ ] How are you pushing out of your comfort zone today?
 - [ ] [Tiny Little Business archive](https://tinylittlebusinesses.com/email-archive/)
 - [ ] We're all looking through self-centered lenses
-- [ ] How do you avoid being used when you want to go above and beyond for your true fans?
 - [ ] Knowledge management
   - [ ] [Gistpad write-up](https://tjaddison.com/blog/2020/07/using-gistpad-to-manage-your-github-digital-gardens/)
   - [ ] [Gistpad VScode extension](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
@@ -38,7 +37,9 @@
 - [ ] [Products that sell themselves](https://jdnoc.com/product-that-sells-itself/)
 - [ ] [ReadMe Generator](https://github.com/kefranabg/readme-md-generator)
 - [ ] [Andy Matuschak's notes](https://notes.andymatuschak.org)
-- [ ] [Build in public](https://www.mentalnodes.com/the-only-way-to-learn-in-public-is-to-build-in-public)
+- [ ] Build in public
+  - [ ] [Kevon Chueng guide](https://kevoncheung.com/building-in-public)
+  - [ ] [Mental Nodes](https://www.mentalnodes.com/the-only-way-to-learn-in-public-is-to-build-in-public)
 - [x] [Derek Sivers' website](https://sive.rs/)
   - The first time I saw his site, I despised the lack of design. Now I've warmed up to the idea of a minimal website that focuses on presenting information instead of fancy designs. He's able to focus on the words he writes and not the site itself.
 - [ ] Badges with [shields.io](https://shields.io)
