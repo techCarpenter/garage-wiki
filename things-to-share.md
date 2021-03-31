@@ -146,7 +146,9 @@
   - **\*** [youarenotsosmart.com](https://youarenotsosmart.com/2013/05/23/survivorship-bias/)
   - [richardhughesjones.com](https://www.richardhughesjones.com/survivorship-bias/)
 - [ ] You can't industrialize creative work
-- [ ] 
+  - > Timely not real-time. Rhythm not random. Moderation not excess. Knowledge not information. … It’s not so much a checklist as a feeling, one of being at greater ease with the web-enabled products and services in our lives.
+  - Quote by Jack Cheng `^^^`
+
 ---
 
 ## Be as necessary as an auto mechanic
