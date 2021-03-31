@@ -150,6 +150,12 @@
   - Quote by Jack Cheng `^^^`
 - [ ] [The Slow Web Movement](https://jackcheng.com/essays/the-slow-web/)
   - Fast Web is _destination_-based. Slow Web is _interaction_-based
+  - Timely not real-time.
+  - Rhythm not random.
+  - Moderation not excess.
+  - Knowledge not information.
+- [ ] Manage your time, not your tasks
+  - [Kill your todo list](https://www.cjchilvers.com/blog/kill-your-to-do-list)
 
 ---
 
