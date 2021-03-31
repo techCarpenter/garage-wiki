@@ -157,6 +157,7 @@
 - [ ] Manage your time, not your tasks
   - [Kill your todo list](https://www.cjchilvers.com/blog/kill-your-to-do-list)
 - [ ] [Simple personal productivity guide](https://pmarchive.com/guide_to_personal_productivity.html) (Marc Andreessen)
+- [ ] [How to create a newsletter: a series](https://www.cjchilvers.com/blog/daily-posts-newsletters)
 
 ---
 
