@@ -145,6 +145,8 @@
 - [ ] Survivorship Bias
   - **\*** [youarenotsosmart.com](https://youarenotsosmart.com/2013/05/23/survivorship-bias/)
   - [richardhughesjones.com](https://www.richardhughesjones.com/survivorship-bias/)
+- [ ] You can't industrialize creative work
+- [ ] 
 ---
 
 ## Be as necessary as an auto mechanic
