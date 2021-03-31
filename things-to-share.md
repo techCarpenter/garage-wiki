@@ -159,6 +159,7 @@
 - [ ] [Simple personal productivity guide](https://pmarchive.com/guide_to_personal_productivity.html) (Marc Andreessen)
 - [ ] [How to create a newsletter: a series](https://www.cjchilvers.com/blog/daily-posts-newsletters)
 - [ ] [_Three sentences_ policy](http://three.sentenc.es/)
+- [ ] I didn't like writing papers in school. Now I'm drawn to creating content and building an audience. Disconnect? What changed?
 
 ---
 
