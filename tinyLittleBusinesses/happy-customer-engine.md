@@ -93,9 +93,12 @@ Incorporate the source and intent of your prospects as integral parts of your of
    - Write out each answer.
    - Mark the top 5-7
 2. List 2: All the reasons why someone **might not want to engage with your offer**.
-   - 
+   - **\*** not your product/service, the offer itself
+3. List 3: All the ways someone could sabatoage/undermine the value your product/service provides.
 
 ## Day 4: Quality, then quantity [at first, do less, better — “scaling” is not the answer]
+
+
 
 ## Day 5: Ads should provide standalone value — especially facebook
 
