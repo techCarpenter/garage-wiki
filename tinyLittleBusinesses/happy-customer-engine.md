@@ -1,5 +1,7 @@
 # Build a happy customer creating engine with paid traffic
 
+[Course web page](https://tinylittlebusinesses.com/paid-traffic-course/)
+
 > "Knowing what I know, what would I do if I woke up tomorrow owning your business?" -Shawn
 
 ## Introduction
