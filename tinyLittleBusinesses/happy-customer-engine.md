@@ -245,4 +245,18 @@ Really figure out if you prefer writing, video/audio, or both:
 
 ## Day 10: Give the platforms what they want
 
-## Paid Traffic Manifesto (part of The Traffic Engine course)
+- Google: match questions to relevant answers.
+- Facebook: think edutainment
+
+Ask: _"how likely is it that someone will want to share this ad?"_
+
+Assignment:
+
+1. Identify 2-3 questions you're well qualified to answer (professionally)
+   1. What are 2-3 perfect questions you wished prospects would ask you?
+2. Take the ad you wrote on day five
+   1. Is it interesting to read? Conversational?
+   2. Have you clearly articulated a few insights that aren't common, conventional wisdom for people interested in your expertise?
+   3. Is your ad intriguing - does it capture the reader's interest?
+   4. Is it authentic?
+   5. Is there an "ah ha" moment in it where the reader is shown a different perspective?
