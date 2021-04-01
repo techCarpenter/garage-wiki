@@ -186,9 +186,51 @@ The framework:
 
 ## Day 7: The traffic funnel [the second pyramid]
 
+```
+The traffic funnel
+___________________
+\                 /
+ \       1       /  - Awareness
+  \_____________/
+   \           /
+    \    2    /  - Engagement
+     \_______/
+      \     /
+       \ 3 /  - Conversion
+        \ /
+```
+
+The traffic funnel shows the **intent of our marketing efforts**
+
+1. Awareness is the point of initial contact. The transition from unknown to known.
+2. Engagement is when we want the prospect to do something to take a step toward us.
+   - comment, opt-in, attend a webinar, etc.
+3. Conversion is when we're **focused on making the sale**
+
+Awareness: top of the funnel. Share content that demonstrates authority (and empathy). Video and text both work.
+
+Engagement: middle of the funnel. **This is overwhelmingly lead generation**. Most paid traffic campaigns start with the middle of the funnel.
+
+Typical middle funnel campaign is a big, specific promise fulfilled by:
+
+- a lead magnet
+- a multi-day series of emails
+
 ## Day 8: Work backwards
 
+> Begin with the end in mind.
+
+Map your buyer's journey (step by step) and then work backwards from the conversion point.
+
+- What is she thinking at this point?
+- What are her concerns?
+- Potential objections?
+- What could you offer to reinforce your credibility and demonstrate your empathy?
+- How could you make her decision to move forward easier?
+
 ## Day 9: Leverage your strengths / match your content
+
+
 
 ## Day 10: Give the platforms what they want
 
