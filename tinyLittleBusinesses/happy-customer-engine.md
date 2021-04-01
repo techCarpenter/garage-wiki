@@ -230,7 +230,18 @@ Map your buyer's journey (step by step) and then work backwards from the convers
 
 ## Day 9: Leverage your strengths / match your content
 
+When deciding what medium to post ads with, do what you do best (i.e. text vs. video)
 
+1. Take 10 minutes and write an email to a friend explaining an offer you’re making or an offer you’re considering.
+2. Now, the same experiment, except this time you need to use a phone or Skype/Zoom.
+
+Really figure out if you prefer writing, video/audio, or both:
+
+- Did you talk your way into your first job?
+- Write love letters to attract your spouse?
+- Are you the person people call on to give a great speech or tell a great joke?
+- Does the thought of being on stage light you up (or make you want to run and hide)?
+- Do you journal? How do you understand what you’re thinking (talking out loud with a friend or writing to expose your thoughts)?
 
 ## Day 10: Give the platforms what they want
 
