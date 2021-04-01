@@ -80,6 +80,21 @@ Biggest distinction is _search intent_.
 
 ## Day 3: Just say no to “media buying” [traffic is part of the funnel]
 
+The days of cheap traffic are long gone and are never coming back!
+
+**Make traffic part of the funnel**, not an _afterthought_
+
+Incorporate the source and intent of your prospects as integral parts of your offers/funnels.
+
+### Assignment 3: Pick one offer you're running or planning to run and make three lists.
+
+1. List 1: All the reasons someone might benefit from your offer.
+   - Be **very specific**, ask and asnwer "_why_" several times for every item.
+   - Write out each answer.
+   - Mark the top 5-7
+2. List 2: All the reasons why someone **might not want to engage with your offer**.
+   - 
+
 ## Day 4: Quality, then quantity [at first, do less, better — “scaling” is not the answer]
 
 ## Day 5: Ads should provide standalone value — especially facebook
