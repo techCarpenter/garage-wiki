@@ -98,11 +98,89 @@ Incorporate the source and intent of your prospects as integral parts of your of
 
 ## Day 4: Quality, then quantity [at first, do less, better — “scaling” is not the answer]
 
+Focus on critical few factors responsible for manjority of results
 
+- active intent vs. passive _potential_ interest
+- quality vs. quantity
+
+Paid search approach:
+
+- Identify **one** very specific keyword phrase that's perfect for you business
+- Write **one** really great ad that speaks to someone who wants _exactly what you are offering_. Speak to his/her needs.
+
+Do one thing exceptionally well and celebrate that success before moving on to the next thing.
 
 ## Day 5: Ads should provide standalone value — especially facebook
 
+Objective: write a long-form Facebook ad (650-1000 words)
+
+1. Requires:
+   - a deep dive into the value you can offer
+   - an understanding of who will benefit most from that value
+   - ...and who won't benefit
+2. long-form ads force you to think of the ad as part of the offer funnel
+   - cohesion/congruence in your messaging
+3. **long-form ads pre-quality prospects**, increasing quality of visitors
+4. long-form ads can be repurposed
+
+What to avoid:
+
+1. Avoid making a promise with a time frame.
+   - i.e. create a 6-figure biz in three months
+2. Avoid the words _you_ and _your_ in ad copy.
+
+Tone is important. **Good ads need to feel like they’re social first**.
+
+- The first two lines of the ad will dramatically affect performance.
+  - Start by asking a question
+
+_Before you begin, grab the 3 lists from lesson three_
+
+Choose the benefit that is most important to your prospects from the 5-7 benefits list.
+
+**What _gain_ does that provide and/or _problem_ does that solve**?
+
+The question is an opportunity to connect with your ideal prospect.
+
+Ask a powerful question that is deeply important to them.
+
+Pretend you're talking with someone else who is interested while sitting on an airplane.
+
+- Command respect, don't demand it
+- Share the 3-5 most important things you would want to know
+- Explain why this offer might not be a good fit
+- Be very clear about what they will need to do when they take action
+  - opt-in with email address
+  - watch a webinar
+  - etc.
+  - By being clear up front, people who aren't interested won't click through!
+
+To wrap up:
+
+1. Ask a powerful question that is deeply important to your ideal prospect.
+2. Quickly (and with appropriate humility) explain your experience and expertise relative to that question.
+3. Share your top 3-5 insights without getting deep in the weeds. Remember the person you’re talking to doesn’t know what you know, so use clear, conversational language.
+4. Then, be honest about any factors that would disqualify someone from benefiting from whatever you have to offer.
+5. Finally, tell them what to do next and what will be involved. Don’t justify or sugarcoat anything — if someone needs to watch a 90-minute webinar to understand your offer, tell them that.
+
 ## Day 6: Know your numbers
+
+Business management metrics vs. Account management metrics
+
+We only need three numbers to manage an online business intelligently:
+
+1. CPA (Cost per acquisition)
+2. AOV (Average order value)
+3. LTV (Lifetime value)
+
+The framework:
+
+- How much do you spend to create awareness of your business?
+- How many customers / clients do you get in that same time frame?
+- How much does each customer / client spend initially?
+- On average, how much does a customer / client spend over the course of a year or more (whatever is appropriate to your business)?
+
+**The goal is to provide so much value that your AOV and LTV are so high that CPA becomes effectively irrelevant**
 
 ## Day 7: The traffic funnel [the second pyramid]
 
