@@ -78,7 +78,6 @@ Biggest distinction is _search intent_.
 - _Category 2_:
 - _Category 3_:
 
-
 ## Day 3: Just say no to “media buying” [traffic is part of the funnel]
 
 ## Day 4: Quality, then quantity [at first, do less, better — “scaling” is not the answer]
