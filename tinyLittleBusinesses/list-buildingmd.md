@@ -1,6 +1,6 @@
 # Unconventional approach to list building
 
-[Article]([https://link](https://tinylittlebusinesses.com/list-building/))
+[Article](https://tinylittlebusinesses.com/list-building/)
 
 Spoiler: A bigger list isn't always better...
 
