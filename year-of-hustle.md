@@ -950,6 +950,10 @@ If you really want it, don't wait.
 
 -Amy
 
+```text
+Hello, test!
+```
+
 <style>
 :root {
   --pink: #df3684;
@@ -988,5 +992,7 @@ body {
   fill: var(--orange);
   color: var(--orange);
 }
-
+code, pre {
+  font-family: 'JetBrains Mono', Consolas, 'Courier New', Courier, monospace;
+}
 </style>
