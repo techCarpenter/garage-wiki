@@ -12,7 +12,7 @@
   - Micropreneur? (No employees)
 - Atomic design
 - Personal CRM
-- Open source software
+- Free/Libre software
 - Accessibility by default
 - Embrace the cascade (CSS)
 - Reducing software dependencies
@@ -24,3 +24,4 @@
 - Ethical/considerate marketing
 - **Authenticity**
 - RSS feeds
+- Renaissance Man, being well rounded and creative
