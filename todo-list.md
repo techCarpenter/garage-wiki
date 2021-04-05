@@ -51,6 +51,14 @@
   - [ ] ~~Git server~~
   - [ ] Web server
 
+## Links/books to read
+
+- [ ] https://tinylittlebusinesses.com/email-marketing-course/
+- [ ] https://tinylittlebusinesses.com/zettelkasten-method/
+- [ ] https://tinylittlebusinesses.com/systems-thinking/
+- [ ] https://ryanerskine.com/28days
+- [ ] <star/>_This is Marketing_ by Seth Godin
+
 <style>
 input[type=checkbox]:not([checked]) + star::before {
   position: absolute;
