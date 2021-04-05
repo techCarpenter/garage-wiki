@@ -8,7 +8,8 @@
   - Knowledge
   - Time
 - Personal branding
-- Solo founder/entrepreneur
+- ~~Solo founder/entrepreneur~~
+  - Micropreneur? (No employees)
 - Atomic design
 - Personal CRM
 - Open source software
