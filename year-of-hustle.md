@@ -993,6 +993,6 @@ body {
   color: var(--orange);
 }
 code, pre {
-  font-family: /*'JetBrains Mono', Consolas, 'Courier New', */Courier, monospace;
+  font-family: 'JetBrains Mono', Consolas, 'Courier New', Courier, monospace;
 }
 </style>
