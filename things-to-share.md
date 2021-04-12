@@ -161,6 +161,7 @@
 - [ ] I didn't like writing papers in school. Now I'm drawn to creating content and building an audience. Disconnect? What changed?
 - [ ] ["People like us do things like this"](https://seths.blog/2013/07/people-like-us-do-stuff-like-this/) -Seth Godin
 - [ ] Seek advice, not feedback or criticism. (_This is Marketing_, Seth Godin)
+- [ ] [_Company of One_ Summary](https://paulminors.com/blog/company-of-one-by-paul-jarvis-book-summary-pdf/)
 
 ---
 
