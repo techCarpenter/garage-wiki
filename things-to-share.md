@@ -214,6 +214,8 @@ if (m && msg[m[1]]) {
 
 ## Find element(s) causing accidental scrollbar
 
+[Stack overflow answer](https://stackoverflow.com/questions/31458477/find-element-that-is-causing-the-showing-of-horizontal-scrollbar-in-google-chrom#answer-44243400)
+
 ```javascript
 var all = document.getElementsByTagName("*"),
   i = 0,
