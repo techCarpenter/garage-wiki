@@ -163,6 +163,7 @@
 - [ ] Seek advice, not feedback or criticism. (_This is Marketing_, Seth Godin)
 - [ ] [_Company of One_ Summary](https://paulminors.com/blog/company-of-one-by-paul-jarvis-book-summary-pdf/)
 - [ ] [Make a font based on your handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
+- [ ] [Find element(s) causing accidental scrollbar](#find-elements-causing-accidental-scrollbar)
 
 ---
 
@@ -208,5 +209,21 @@ var msg = {
 var m = /\?for=([a-z0-9]+)/.exec(location.search);
 if (m && msg[m[1]]) {
   document.getElementById("msg").innerHTML = msg[m[1]];
+}
+```
+
+## Find element(s) causing accidental scrollbar
+
+```javascript
+var all = document.getElementsByTagName("*"),
+  i = 0,
+  rect,
+  docWidth = document.documentElement.offsetWidth;
+for (; i < all.length; i++) {
+  rect = all[i].getBoundingClientRect();
+  if (rect.right > docWidth || rect.left < 0) {
+    console.log(all[i]);
+    all[i].style.borderTop = "1px solid red";
+  }
 }
 ```
