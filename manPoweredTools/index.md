@@ -1,6 +1,6 @@
 # Man powered tools - Home
 
-- [Recommended links](/new-to-hand-tools-links.md)
+- [Recommended links](/manPoweredTools/new-to-hand-tools-links.md)
 
 ## List from Quire
 
