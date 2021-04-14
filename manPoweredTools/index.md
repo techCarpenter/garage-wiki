@@ -9,7 +9,7 @@
   - Nail Punch (set)
   - Burnisher
   - Router plane
-  - #7 Gouge
+  - \#7 Gouge
   - Fine woodworking saws
     - Dovetail saw
     - Gent's saw
