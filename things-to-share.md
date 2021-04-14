@@ -162,6 +162,7 @@
 - [ ] ["People like us do things like this"](https://seths.blog/2013/07/people-like-us-do-stuff-like-this/) -Seth Godin
 - [ ] Seek advice, not feedback or criticism. (_This is Marketing_, Seth Godin)
 - [ ] [_Company of One_ Summary](https://paulminors.com/blog/company-of-one-by-paul-jarvis-book-summary-pdf/)
+- [ ] [Make a font based on your handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
 
 ---
 
