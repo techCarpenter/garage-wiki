@@ -5,7 +5,7 @@
 **Think about:**
 
 - Whether growth is truly beneficial to your business
-- How you could solve business problems without just adding “more”
+- How you could solve business problems without just adding "more"
 - Whether you really need funding or venture capital for your idea, or are simply thinking too big to start
 
 ## Chapter 2 - Staying Small as an End Goal
