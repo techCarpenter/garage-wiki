@@ -67,5 +67,4 @@
   
 - An Axe To Grind
 - Videos...
-- American Axes: A Survey of Their Development and Their Makers
-- 
+- [American Axes: A Survey of Their Development and Their Makers](https://www.amazon.com/American-Axes-Survey-Development-Makers/dp/1883294126)
