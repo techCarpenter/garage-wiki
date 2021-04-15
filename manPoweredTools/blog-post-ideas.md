@@ -20,8 +20,8 @@
 - Axe head shapes and designs
 - Logging Industry history
   - Pacific northwest (Washington, Oregon, California, Idaho)
-  - Atlantic northeast (Maine, New York, New Hampshire, Pennsylvania, Ohio, Connecticut, Vermont)
-  - Midwest (Michigan, Wisconsin, Minnesota)
+  - Atlantic northeast (Maine, New York, New Hampshire, Pennsylvania, Connecticut, Vermont)
+  - Midwest (Michigan, Wisconsin, Minnesota, Ohio)
 - Axe types
   - Hatchet
   - Boy's axe
@@ -65,7 +65,7 @@
 
 ### Resources
   
-- An Ax To Grind: A Practical Ax Manual by Bernie Weisgerber 
+- [An Ax To Grind: A Practical Ax Manual by Bernie Weisgerber](https://www.pcta.org/wp-content/uploads/2012/11/an_ax_to_grind.pdf)
 - Woodsmanship by Bernard S. Mason
 - Videos...
 - [American Axes: A Survey of Their Development and Their Makers](https://www.amazon.com/American-Axes-Survey-Development-Makers/dp/1883294126)
