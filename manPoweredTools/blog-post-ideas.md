@@ -65,6 +65,7 @@
 
 ### Resources
   
-- An Axe To Grind
+- An Ax To Grind: A Practical Ax Manual by Bernie Weisgerber 
+- Woodsmanship by Bernard S. Mason
 - Videos...
 - [American Axes: A Survey of Their Development and Their Makers](https://www.amazon.com/American-Axes-Survey-Development-Makers/dp/1883294126)
