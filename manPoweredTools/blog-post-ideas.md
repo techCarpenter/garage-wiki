@@ -68,5 +68,6 @@
 - [An Ax To Grind: A Practical Ax Manual by Bernie Weisgerber](https://www.pcta.org/wp-content/uploads/2012/11/an_ax_to_grind.pdf)
 - [Woodsmanship by Bernard S. Mason](https://archive.org/download/Woodsmanship_Bernard_Mason/Woodsmanship_Bernard_Mason_text.pdf)
 - Videos...
+  - [An Ax To Grind: Complete](https://www.youtube.com/watch?v=22tBYD-HMtA)
   - [The Axman](https://www.youtube.com/watch?v=fc0mdjknbPM)
 - [American Axes: A Survey of Their Development and Their Makers](https://www.amazon.com/American-Axes-Survey-Development-Makers/dp/1883294126)
