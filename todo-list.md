@@ -44,6 +44,70 @@
 - [ ] https://tinylittlebusinesses.com/systems-thinking/
 - [ ] https://ryanerskine.com/28days
 
+## Personal
+
+- [x] Text Rachel
+- [x] List [items](#items-for-sale) for sale
+- [ ] Mail old bodyguardz
+- [ ] Finish skimming _Practical Wisdom_
+- [ ] Pare down hatchet handle
+- [ ] _Man Powered Tools_
+- [ ] Buy raw linseed oil
+- [ ] Finish reading _Company of One_
+
+## Items for sale
+
+```text
+paintball_gun:           
+flashlight:              
+basketball:           $25
+golf_clubs:              
+camera:                  
+gold_ring:               
+altec_speaker:           
+iHome_speaker:           
+BodyGuardz:              
+```
+
+- Overhead == Death
+- Default to action
+- Keep it simple stupid (K.I.S.S.)
+- Do hard things
+- Less, but better
+
+## Essentialism 21-day challenge
+
+1. Write down the most important six activities for today. Put them in priority order. Now cross off the bottom five.
+2. Spend one day watching for when you use the words, “I have to.” Replace them with, “I choose to.”
+3. Pause once to day and ask, “Is this the most important or valuable thing I could be doing right now?”
+4. Catch yourself when the thought crosses your mind, “I will do both.” When you do: stop, pause and pick one of the choices.
+5. Ask, “How can I double my results with half the effort?” Answers will come.
+6. Create a room at home where there is no technology.
+7. Spend time playing with a child for 20 minutes. Lose yourself in the magical exploration that comes so easily to children.
+8. Take a 6 minute nap. Add 5-10 minutes to fall asleep.
+9. Today, if it isn’t a clear yes then make it a clear no.
+10. Before going into your next meeting, pause and ask yourself, “What is the one thing I really want to achieve coming out of this meeting?”
+11. Identify a person you find it particularly hard to say no to. Script a graceful no. Carefully word it. Practice it.
+12. Look at each commitment on your calendar for today. Ask “If I wasn’t already involved how hard would I work to get involved now?”
+13. Establish a new rule for today: if you want to add a new activity you need to edit out two existing activities.
+14. Next time anyone asks you for anything, just pause. I’m not saying you have to say no. But at least just pause first.
+15. Design a bedtime routine that relaxes you.
+16. Design a morning routine that invigorates you.
+17. Start your next meeting with the question: “What has gone right since we last met?”
+18. Today, stop what you are doing every 30 minutes to write down what you did in the last half an hour.
+19. Once today, pause and ask yourself three questions: Where am I right now? What is happening right now? What is important right now?
+20. Start an essentialist journal: you’re only allowed one sentence for the whole day.
+21. Schedule a Personal Quarterly Offsite to reflect on the big picture.
+
+```text
+@    MX    1H     5         gmr-smtp-in.l.google.com
+@    MX    1H    10    alt1.gmr-smtp-in.l.google.com
+@    MX    1H    20    alt2.gmr-smtp-in.l.google.com
+@    MX    1H    30    alt3.gmr-smtp-in.l.google.com
+@    MX    1H    40    alt4.gmr-smtp-in.l.google.com
+```
+
+
 <style>
 input[type=checkbox]:not([checked]) + star::before {
   position: absolute;
