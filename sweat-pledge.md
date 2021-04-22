@@ -1,8 +1,6 @@
 # S.W.E.A.T Pledge
 
-```text
-"The S.W.E.A.T. Pledge"
-(Skill & Work Ethic Aren't Taboo)
+"The S.W.E.A.T. Pledge" _(Skill & Work Ethic Aren't Taboo)_
 
 1.  I believe that I have won the greatest lottery of all time. I am alive. I walk the Earth. I live in America. Above all things, I am grateful.
 2.  I believe that I am entitled to life, liberty, and the pursuit of happiness. Nothing more. I also understand that "happiness" and the "pursuit of happiness" are not the same thing.
@@ -21,9 +19,8 @@
 
 On my honor, I hereby affirm the above statements to be an accurate summation of my personal worldview. I promise to live by them.
 
-Signed: Brian DeVries
+Signed: Brian DeVries  
 Dated: April 12, 2021
 
-Signed: Mike Rowe
+Signed: Mike Rowe  
 Dated: September 2, 2013
-```
