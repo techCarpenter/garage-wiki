@@ -2,49 +2,35 @@
 
 ## Task List
 
-- [ ] Respond to Nextdoor inquiries
-  - [ ] <star/>Call Maureen (616-777-0852)
-    - We are not happy with our website. Our person oversold their qualifications.   So, I'd like to talk to you are fixing the screw ups. It needs to integrate with our law practice management software. We are a new firm, 2 friends that have combined resources. Call me and let me know if you can help us. I can explain it better on the phone and answer your questions. Maureen Van Hoven
+- [ ] <star/>Setup retirement contributions
+- [ ] Launch **manpoweredtools.com**
+- [ ] Call Josh Leiter
 - [ ] Finish Matt's site
   - [x] Fading images
-  - [ ] <star/>Email setup
+  - [x] <star/>Email setup
   - [ ] Admin panel guide
 - [ ] Follow up with Susan with questions about UX/UI resources
 - [ ] <star/>Apply to jobs
-  - [ ] Decide where to apply
-  - [ ] Proton.ai
-- [ ] Call Josh Leiter
-- [ ] Switch ISP (Xfinity)
+  - [x] Decide where to apply
+    - Spartan Nash
+  - [ ] ~~Proton.ai~~
 - [ ] Contact Tim Johnson
-- [ ] Borrow air pump from mom and dad
-- [ ] Bike tire innertube replacement
 - [ ] Ford Recall
-- [ ] Text Kim back
-- [x] <star/>Transfer 401k to _Charles Schwab_
-  - [x] Open Schwab account
-  - [x] Call Wells Fargo
-  - [x] Text Carly to intercept mail for me
-  - [x] Mail check to Schwab
-    ```text
-    Charles Schwab & Co., Inc.
-    P.O. Box 628291
-    Orlando, FL 32862-8291
-    ```
-- [ ] Model Railroad software landing page
-  - [Resource](https://www.hostinger.com/tutorials/how-to-create-a-landing-page)
-- [x] <star/>Tweet back to Ben Patton
-- [x] Sell Honda/Buy van
+- [ ] <star/>Call Maureen (616-777-0852)
+  - We are not happy with our website. Our person oversold their qualifications.   So, I'd like to talk to you are fixing the screw ups. It needs to integrate with our law practice management software. We are a new firm, 2 friends that have combined resources. Call me and let me know if you can help us. I can explain it better on the phone and answer your questions. Maureen Van Hoven
 
 ## Brainstorm
 
 - [ ] Read books
-  - [x] Wishcraft
+  - [ ] <star/>_Company of One_ by Paul Jarvis
   - [ ] Beyond band of brothers
   - [ ] Jesus politics
-  - [ ] ~~Practical Wisdom~~
+  - [ ] Practical Wisdom (skim)
+  - [x] Wishcraft
+  - [x] _This is Marketing_ by Seth Godin
 - [ ] Raspberry Pi server
-  - [ ] Figure out auto deployment from git branch
   - [ ] <star/>nginx proxy
+  - [ ] Figure out auto deployment from git branch
   - [ ] Topple (frontend + backend)
   - [ ] Personal CRM
   - [ ] Learn about backing up data
@@ -57,7 +43,6 @@
 - [ ] https://tinylittlebusinesses.com/zettelkasten-method/
 - [ ] https://tinylittlebusinesses.com/systems-thinking/
 - [ ] https://ryanerskine.com/28days
-- [ ] <star/>_This is Marketing_ by Seth Godin
 
 <style>
 input[type=checkbox]:not([checked]) + star::before {
