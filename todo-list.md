@@ -17,7 +17,7 @@
 - [ ] Contact Tim Johnson
 - [ ] Ford Recall
 - [ ] <star/>Call Maureen (616-777-0852)
-  - We are not happy with our website. Our person oversold their qualifications.   So, I'd like to talk to you are fixing the screw ups. It needs to integrate with our law practice management software. We are a new firm, 2 friends that have combined resources. Call me and let me know if you can help us. I can explain it better on the phone and answer your questions. Maureen Van Hoven
+  - We are not happy with our website. Our person oversold their qualifications. So, I'd like to talk to you are fixing the screw ups. It needs to integrate with our law practice management software. We are a new firm, 2 friends that have combined resources. Call me and let me know if you can help us. I can explain it better on the phone and answer your questions. Maureen Van Hoven
 
 ## Brainstorm
 
@@ -98,15 +98,6 @@ BodyGuardz:
 19. Once today, pause and ask yourself three questions: Where am I right now? What is happening right now? What is important right now?
 20. Start an essentialist journal: you’re only allowed one sentence for the whole day.
 21. Schedule a Personal Quarterly Offsite to reflect on the big picture.
-
-```text
-@    MX    1H     5         gmr-smtp-in.l.google.com
-@    MX    1H    10    alt1.gmr-smtp-in.l.google.com
-@    MX    1H    20    alt2.gmr-smtp-in.l.google.com
-@    MX    1H    30    alt3.gmr-smtp-in.l.google.com
-@    MX    1H    40    alt4.gmr-smtp-in.l.google.com
-```
-
 
 <style>
 input[type=checkbox]:not([checked]) + star::before {
