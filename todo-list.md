@@ -5,10 +5,12 @@
 - [ ] <star/>Setup retirement contributions
 - [ ] Launch **manpoweredtools.com**
 - [ ] Call Josh Leiter
+- [ ] Pare down hatchet handle
+- [ ] Buy raw linseed oil
 - [ ] Finish Matt's site
   - [x] Fading images
   - [x] <star/>Email setup
-  - [ ] Admin panel guide
+  - [ ] Admin panel walkthrough
 - [ ] Follow up with Susan with questions about UX/UI resources
 - [ ] <star/>Apply to jobs
   - [x] Decide where to apply
@@ -21,10 +23,14 @@
 
 ## Brainstorm
 
-- [ ] Read books
+- [ ] Read books/links
   - [ ] Beyond band of brothers
   - [ ] Jesus politics
   - [ ] Practical Wisdom (skim)
+  - [ ] [Email marketing course](https://tinylittlebusinesses.com/email-marketing-course/)
+  - [ ] [Zettelkasten method](https://tinylittlebusinesses.com/zettelkasten-method/)
+  - [ ] [Systems thinking](https://tinylittlebusinesses.com/systems-thinking/)
+  - [ ] [~~28 days~~](https://ryanerskine.com/28days)
   - [x] _Company of One_ by Paul Jarvis
   - [x] Wishcraft
   - [x] _This is Marketing_ by Seth Godin
@@ -36,21 +42,6 @@
   - [ ] Learn about backing up data
   - [ ] ~~Git server~~
   - [ ] Web server
-
-## Links/books to read
-
-- [ ] https://tinylittlebusinesses.com/email-marketing-course/
-- [ ] https://tinylittlebusinesses.com/zettelkasten-method/
-- [ ] https://tinylittlebusinesses.com/systems-thinking/
-- [ ] https://ryanerskine.com/28days
-
-## Personal
-
-- [ ] Mail old bodyguardz
-- [ ] Finish skimming _Practical Wisdom_
-- [ ] Pare down hatchet handle
-- [ ] _Man Powered Tools_
-- [ ] Buy raw linseed oil
 
 ## Items sold
 
@@ -66,6 +57,7 @@ iHome_speaker:
 BodyGuardz:              
 ```
 
+- Question growth, cap goals
 - Overhead == Death
 - Default to action
 - Keep it simple stupid (K.I.S.S.)
