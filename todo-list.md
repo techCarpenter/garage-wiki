@@ -22,10 +22,10 @@
 ## Brainstorm
 
 - [ ] Read books
-  - [ ] <star/>_Company of One_ by Paul Jarvis
   - [ ] Beyond band of brothers
   - [ ] Jesus politics
   - [ ] Practical Wisdom (skim)
+  - [x] _Company of One_ by Paul Jarvis
   - [x] Wishcraft
   - [x] _This is Marketing_ by Seth Godin
 - [ ] Raspberry Pi server
@@ -46,16 +46,13 @@
 
 ## Personal
 
-- [x] Text Rachel
-- [x] List [items](#items-for-sale) for sale
 - [ ] Mail old bodyguardz
 - [ ] Finish skimming _Practical Wisdom_
 - [ ] Pare down hatchet handle
 - [ ] _Man Powered Tools_
 - [ ] Buy raw linseed oil
-- [ ] Finish reading _Company of One_
 
-## Items for sale
+## Items sold
 
 ```text
 paintball_gun:           
