@@ -46,12 +46,12 @@
 ## Items sold
 
 ```text
+basketball:           $25
+gold_ring:           $140
 paintball_gun:           
 flashlight:              
-basketball:           $25
 golf_clubs:              
 camera:                  
-gold_ring:               
 altec_speaker:           
 iHome_speaker:           
 BodyGuardz:              
