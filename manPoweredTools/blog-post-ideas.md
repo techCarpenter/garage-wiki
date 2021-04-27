@@ -44,8 +44,6 @@
 - Hewing
 - Is a metal wedge necessary? (NO!)
 - What to finish your axe handle with
-- Axe throwing
-  - How to get started
 - How to make a leather sheath
   - Equipment & materials
   - Process
