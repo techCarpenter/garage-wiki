@@ -4,95 +4,101 @@
 
 ## List from Quire
 
-- BuyList
-  - Saw set
-  - Nail Punch (set)
-  - Burnisher
-  - Router plane
-  - \#7 Gouge
-  - Fine woodworking saws
-    - Dovetail saw
-    - Gent's saw
-    - Tenon saw
-    - Panel saw
-    - Rough saw
-    - Bow saw
-    - Coping saw
-  - Bucking saw
-    - 1 man champion tooth
-  - Jack plane
-  - 4-5' bar clamps
-  - Auger bit set
-  - Jorgenson 10\" vise
-  - Hewing axe
-  - Adze
-  - Jorgenson Vise
-  - Draw Knife
-- Tools to Make
-  - Mallet
-  - Rag-in-a-can Oiler (Paul Sellers)
-  - Wooden rabbet plane
-  - Shave horse
-  - Workbench
-  - Frame Saw
-    - Buy blade
-- Website
-  - Layout/Components
-    - Email list signup forms
-    - Nav Bar
-    - Social Icons
-    - Header
-    - Footer
-    - Aside
-  - Technical
-    - Domain Setup
-    - Hosting
-    - CI/CD
-    - Email Setup
-    - Add robots.txt
-    - Register site with search engines
-  - Content
-    - Blog
-    - Pages
-      - Start Here
-      - Resources
-      - Home
-      - About
-      - Contact
-      - Terms of Service
-      - Privacy Policy
-  - Other
-    - Newsletter provider
-- TODO
-  - Sharpen card scraper
-    - Cut kerf into 2x4 to clamp card scraper into
-    - Press scraper into kerf until it's almost flush with the wood
-    - Put in vice
-    - Take flat file, push away from you on edge of scraper to get square edge
-    - Remove from 2x4
-    - Slide faces of scraper on whetstone to remove burr
-    - Put back into 2x4, nearly flush with wood
-    - Put in vice
-    - rub oil on burnisher, run perpendicular to scraper back and forth
-    - lay scraper on face, burnish parallel to face on both the edges
-    - place in 2x4, leave 1/8\" above surface of wood
-    - burnish perpendicular to scraper
-    - drop-burnish one edge until hitting the wood
-    - repeat on other side
-  - Write Ebook
-    - Ebook Steps
-      - 1. Commit to writing it
-      - 2. Choose Topic
-      - 3. Verify interest in your topic
-      - 4. Outline your ebook
-      - 5. Organize your outline
-      - 6. Create table of contents
-      - 7. Research your ebook
-      - 8. Write!
-      - 9. Edit your ebook
-      - 10. Celebrate.
-      - 11. Publish!
+## BuyList
 
+- Saw set
+- Nail Punch (set)
+- Burnisher
+- Router plane
+- \#7 Gouge
+- Fine woodworking saws
+  - Dovetail saw
+  - Gent's saw
+  - Tenon saw
+  - Panel saw
+  - Rough saw
+  - Bow saw
+  - Coping saw
+- Bucking saw
+  - 1 man champion tooth
+- Jack plane
+- 4-5' bar clamps
+- Auger bit set
+- Jorgenson 10\" vise
+- Hewing axe
+- Adze
+- Jorgenson Vise
+- Draw Knife
+
+## Tools to Make
+
+- Mallet
+- Rag-in-a-can Oiler (Paul Sellers)
+- Wooden rabbet plane
+- Shave horse
+- Workbench
+- Frame Saw
+  - Buy blade
+
+## Website
+
+- Layout/Components
+  - Email list signup forms
+  - Nav Bar
+  - Social Icons
+  - Header
+  - Footer
+  - Aside
+- Technical
+  - Domain Setup
+  - Hosting
+  - CI/CD
+  - Email Setup
+  - Add robots.txt
+  - Register site with search engines
+- Content
+  - Blog
+  - Pages
+    - Start Here
+    - Resources
+    - Home
+    - About
+    - Contact
+    - Terms of Service
+    - Privacy Policy
+- Other
+  - Newsletter provider
+
+## TODO
+
+- Sharpen card scraper
+  - Cut kerf into 2x4 to clamp card scraper into
+  - Press scraper into kerf until it's almost flush with the wood
+  - Put in vice
+  - Take flat file, push away from you on edge of scraper to get square edge
+  - Remove from 2x4
+  - Slide faces of scraper on whetstone to remove burr
+  - Put back into 2x4, nearly flush with wood
+  - Put in vice
+  - rub oil on burnisher, run perpendicular to scraper back and forth
+  - lay scraper on face, burnish parallel to face on both the edges
+  - place in 2x4, leave 1/8\" above surface of wood
+  - burnish perpendicular to scraper
+  - drop-burnish one edge until hitting the wood
+  - repeat on other side
+- Write Ebook
+  - Ebook Steps
+    - 1. Commit to writing it
+    - 2. Choose Topic
+    - 3. Verify interest in your topic
+    - 4. Outline your ebook
+    - 5. Organize your outline
+    - 6. Create table of contents
+    - 7. Research your ebook
+    - 8. Write!
+    - 9. Edit your ebook
+    - 10. Celebrate.
+    - 11. Publish!
 
 # Build Your Own Brand
 
@@ -160,3 +166,29 @@ An about page is for the person who's visiting it!
 - youtube.com
   - Look at channels
   - explore videos by top channels
+
+# Build Your Own Brand
+
+## Target Audience
+
+- Preppers
+- Outdoorsman
+- Homesteaders
+- Lifelong learners
+- DIYers
+  - hand tools
+  - forestry
+
+## About Page
+
+### The perfect about page:
+
+## Find authorities and influencers in the space
+
+- top blogs about `________`.
+
+## Content Plan
+
+|||
+|:-|:-|
+|||
