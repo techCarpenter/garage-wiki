@@ -1,4 +1,4 @@
-# Niche Process
+# [Niche Process](https://ungated.media/article/niche-process/)
 
 ## Step 1: Audit yourself
 
