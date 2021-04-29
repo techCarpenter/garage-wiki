@@ -58,6 +58,8 @@ So here are some questions to keep top of mind as you’re in immersion.
 - Are the comments left on that work supportive or toxic? Is this space friendly to creators?
 - Do you feel excited to create your own work in this space? Do you have something to say?
 
+Reach 80% confidence, and then...
+
 ## Step 5: Commit
 
 Commit to a niche for one full year.
