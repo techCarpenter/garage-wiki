@@ -45,3 +45,23 @@ If, after your research, you can answer yes to each of these, you’re good to g
 - [SparkToro (Niche tool)](https://sparktoro.com/)
 - [VStat](https://vstat.info/)
 - [SimilarWeb](https://www.similarweb.com/)
+
+## Step 4: Deep dive research
+
+Find out what it's like to be an active, engaged member of this subculture day-to-day.
+
+So here are some questions to keep top of mind as you’re in immersion.
+
+- Are the topics people talk about interesting to you? Is your curiosity piqued?
+- Do you enjoy the conversations you’re participating in? Do you feel like you could make friends here?
+- Do you enjoy consuming the work of other creators in the space? Would you want to collaborate with them?
+- Are the comments left on that work supportive or toxic? Is this space friendly to creators?
+- Do you feel excited to create your own work in this space? Do you have something to say?
+
+## Step 5: Commit
+
+Commit to a niche for one full year.
+
+Commit to a reasonable content schedule.
+
+> "Find the others" _-Seth Godin_
