@@ -60,47 +60,45 @@ This is what you can do to create a fan from a subscriber - Super Value
 Ways to get super fans
 
 1. Handwritten letter
-   1. Write 10 letters to 10 followers
+   - Write 10 letters to 10 followers
 2. The Personal Notebook
-   1. Fill it with sketches, notes, etc.
-   2. Give it away!
+   - Fill it with sketches, notes, etc.
+   - Give it away!
 3. The Picture or lyric book
-   1. Pics of yourself, notes
+   - Pics of yourself, notes
 4. The exclusive video
-   1. Make a personalized message and give it to them.
+   - Make a personalized message and give it to them.
 5. Invite people to something you're doing
 6. When you're working on something, behind the scenes look for a fan
 7. VIP pass for life!
 8. The treasure hunt
-   1. Set up a treasure hunt around the venue
+   - Set up a treasure hunt around the venue
 9. Gig involvement
-   1. Get them involved
+   - Get them involved
 10. Work on a project with a fan!
 11. Facetime with audience
-    1. 1 to 1 with someone
+    - 1 to 1 with someone
 12. The Insta Voicemail (instead of texting)
-    1. Faster
+    - Faster
 13. Private group for involved folks
 14. Closed group for close fans
 15. The house performance -> make something at someone's house
 16. Give someone a goodie bag
 17. Feature audience in IG stories
-    1. Shoutouts to specific people
+    - Shoutouts to specific people
 18. Collaboration
-    1. Collab with someone in your sphere
-    2. Build more fans
+    - Collab with someone in your sphere
+    - Build more fans
 19. Busking
-    1. Give the money to charity
+    - Give the money to charity
 20. Breakfast tour
-    1. Invite anyone who wants to come
+    - Invite anyone who wants to come
 21. Reverse engineer
-    1. Ask to take pictures with fans and post them online
+    - Ask to take pictures with fans and post them online
 22. Free event (unrelated)
-    1.
 23. Give credit to fans
 24. Send postcards
 25. Early access to content
-    1.
 26. Invite people out for drinks or food before a gig
 27. Aftershow party
 28. Happy birthday videos
