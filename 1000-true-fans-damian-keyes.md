@@ -96,11 +96,11 @@ Ways to get super fans
 21. Reverse engineer
     1. Ask to take pictures with fans and post them online
 22. Free event (unrelated)
-    1. 
+    1.
 23. Give credit to fans
 24. Send postcards
 25. Early access to content
-    1. 
+    1.
 26. Invite people out for drinks or food before a gig
 27. Aftershow party
 28. Happy birthday videos
@@ -128,4 +128,3 @@ Ways to get super fans
 5. Ads/boosts
    - What do I want people to do?
    - Subscribe to watch the journey
-6. 
