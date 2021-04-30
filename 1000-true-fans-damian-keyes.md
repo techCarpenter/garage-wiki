@@ -44,7 +44,7 @@ This is what you can do to create a fan from a subscriber - Super Value
   - Emotional tie-in
   - Exclusive
 - 1 to 1 legacy
-  - **\***Look after 1 person so much that they become a fan
+  - **\*** Look after 1 person so much that they become a fan
 - Comments
   - Easiest way to go from subscriber to fan
   - Actually talk with people and GET TO KNOW THEM!
