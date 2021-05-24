@@ -41,3 +41,10 @@ I will constantly renew myself by focusing on the four dimensions of my life:
 ---
 
 - Produce more, consume less
+- Free/libre software
+- Uncopyright
+- Do things that don't scale
+- "Actively cultivate inefficiency" - _Range_ by David Epstein
+- Do hard things, live the strenuous life
+- Seek to serve and delight
+- Share everything I know!
