@@ -1,5 +1,7 @@
 # Mission Statement
 
+## Made with help of the [mission statement generator](https://msb.franklincovey.com/).
+
 I am at my best when I am thinking of others first.
 
 I will try to prevent times when I belittle myself.
