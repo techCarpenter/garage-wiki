@@ -111,9 +111,9 @@
   - [x] Basic demo box
   - [x] Demo with custom label
 - [ ] Typography
-  - [ ] Fonts
-    - [ ] `Arial` for headers
-    - [ ] `Georgia` for body
+  - [x] Fonts
+    - [x] `Arial` for headers
+    - [x] `Georgia` for body
   - [ ] Headers and Text
     - [x] h1, h2, h3, h4, h5, h6
     - [x] Primary Title
@@ -123,7 +123,7 @@
 - [ ] Code
   - [ ] Inline
   - [ ] Block
-  - [ ] > Use_Prism.js?
+  - [ ] _Use_Prism.js?_
 - [ ] Icons
 - [ ] Lists
   - [ ] Ordered
@@ -131,8 +131,8 @@
   - [ ] Description
   - [ ] Inline
   - [x] Posts List
-- [ ] Comments?
-  - [ ] Nested replies
+- [ ] ~~Comments?~~
+  - [ ] ~~Nested replies~~
 - [ ] Tables
 - [ ] Fluid Media
   - [ ] Image
@@ -145,7 +145,7 @@
   - [ ] Custom scrollbar
   - [ ] Fixed table of contents
   - [ ] Printed page
-  - [ ] Callout
+  - [ ] Callouts
     - [ ] Update
     - [ ] Warning
 
