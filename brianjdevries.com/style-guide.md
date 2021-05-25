@@ -91,6 +91,10 @@
     <li><a class="post-link" href="#">Blog Post Entry</a></li>
     <li><a class="post-link" href="#">Blog Post Entry</a></li>
     <li><a class="post-link" href="#">Blog Post Entry</a></li>
+    <li class="subhed">2020</li>
+    <li><a class="post-link" href="#">Blog Post Entry</a></li>
+    <li><a class="post-link" href="#">Blog Post Entry</a></li>
+    <li><a class="post-link" href="#">Blog Post Entry</a></li>
   </ol>
 </div>
 
@@ -281,6 +285,7 @@
   }
 
   .posts {
+    margin: 1.5rem auto;
     list-style: none;
     padding-left: 0;
   }
