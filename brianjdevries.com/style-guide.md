@@ -31,8 +31,6 @@
 
 ## Web Fonts
 
-
-
 ## Code Blocks
 
 ## Icons
@@ -91,9 +89,12 @@
     font-family: Georgia,serif;
     font-size: 1rem;
     line-height: 1.2rem;
+    background-color: #1e1e1e;
+    color: #fefefe;
   }
 
   h1,h2,h3,h4,h5 {
+    color: #fefefe;
     font-family: arial,Helvetica,sans-serif;
   }
 
@@ -112,7 +113,7 @@
   }
 
   .demo::after {
-    content: "Demo";
+    content: "Demonstration";
     position: absolute;
     right: 1rem;
     top: -0.45rem;
