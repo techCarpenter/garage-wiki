@@ -107,8 +107,13 @@
 ## Other components
 
 - [x] Colors
-- [ ] Demos
+- [x] Demos
+  - [x] Basic demo box
+  - [x] Demo with custom label
 - [ ] Typography
+  - [ ] Fonts
+    - [ ] `Arial` for headers
+    - [ ] `Georgia` for body
   - [ ] Headers and Text
     - [x] h1, h2, h3, h4, h5, h6
     - [x] Primary Title
@@ -137,6 +142,7 @@
   - [ ] Figure with caption
   - [ ] Standalone caption
 - [ ] Other components
+  - [ ] Custom scrollbar
   - [ ] Fixed table of contents
   - [ ] Printed page
   - [ ] Callout
@@ -205,6 +211,7 @@
   }
 
   main {
+    margin: 0 auto;
     max-width: 600px;
     color: inherit;
     font-family: Georgia,serif;
@@ -272,6 +279,8 @@
     position: absolute;
     right: 1rem;
     top: calc(-1 * var(--demo-border-width));
+    font-family: Arial;
+    font-weight: 600;
     font-size: .8rem;
     padding: 0 .25rem;
     text-transform: uppercase;
