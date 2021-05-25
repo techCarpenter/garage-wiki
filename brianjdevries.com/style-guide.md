@@ -114,7 +114,7 @@
   .demo::after {
     content: "Demo";
     position: absolute;
-    right: 0.75rem;
+    right: 1rem;
     top: -0.45rem;
     font-size: .8rem;
     padding: 0 .25rem;
