@@ -1,5 +1,7 @@
 # Site Style Guide
 
+<main>
+
 ## Colors
 
 <div style="display: flex; flex-direction: row;">
@@ -14,7 +16,7 @@
 
 ### Headers and Text
 
-<div>
+<div class="demo" data-demo-label="Functions.js">
   <h1>Top Level Header</h1>
   <h2>Second Level Header</h2>
   <h3>Third Level Header</h3>
@@ -28,6 +30,8 @@
 ### Blockquotes
 
 ## Web Fonts
+
+
 
 ## Code Blocks
 
@@ -80,11 +84,47 @@
     - [ ] Update
     - [ ] Warning
 
+</main>
 
 <style>
+  main {
+    font-family: Georgia,serif;
+    font-size: 1rem;
+    line-height: 1.2rem;
+  }
+
+  h1,h2,h3,h4,h5 {
+    font-family: arial,Helvetica,sans-serif;
+  }
+
   .swatch {
     max-width: min-content;
     padding: 0.5rem 1rem;
     border-radius: 0.25rem;
   }
+
+  .demo {
+    position: relative;
+    padding: 0.75rem;
+    /* border: 2px solid #e34234; */
+    border-radius: 0.5rem;
+    box-shadow: 0 0 0 var(--box-shadow-width,2px) #e34234;
+  }
+
+  .demo::after {
+    content: "Demo";
+    position: absolute;
+    right: 0.75rem;
+    top: -0.45rem;
+    font-size: .8rem;
+    padding: 0 .25rem;
+    line-height: 1;
+    background: #fefefe;
+    color: #e34234;
+  }
+
+  .demo[data-demo-label]::after {
+    content: attr(data-demo-label);
+}
+
 </style>
