@@ -85,15 +85,24 @@
 </main>
 
 <style>
-  main {
-    font-family: Georgia,serif;
-    font-size: 1rem;
-    line-height: 1.2rem;
+  :root {
+    font-size: 16px;
+  }
+  
+  html {
     background-color: #1e1e1e;
     color: #fefefe;
   }
+  main {
+    color: inherit;
+    font-family: Georgia,serif;
+    font-size: 1rem;
+    line-height: 1.2rem;
+  }
+  
 
-  h1,h2,h3,h4,h5 {
+  h1,h2,h3,h4,h5,h6 {
+    margin: 1em 0 0.5em;
     color: #fefefe;
     font-family: arial,Helvetica,sans-serif;
   }
@@ -120,7 +129,7 @@
     font-size: .8rem;
     padding: 0 .25rem;
     line-height: 1;
-    background: #fefefe;
+    background: #1e1e1e;
     color: #e34234;
   }
 
