@@ -5,8 +5,8 @@
 ## Colors
 
 <div style="display: flex; flex-direction: row;">
-  <div class="swatch" style="background-color: var(--vermillion); color: black;">Vermillion</div>
-  <div class="swatch" style="background-color: var(--dark-color); color: white; margin-left: 0.5rem;">Dark</div>
+  <div class="swatch" style="background-color: var(--vermillion);  color: black;">Vermillion</div>
+  <div class="swatch" style="background-color: var(--dark-color);  color: white; margin-left: 0.5rem;">Dark</div>
   <div class="swatch" style="background-color: var(--light-color); color: black; margin-left: 0.5rem; border: 1px solid black;">Light</div>
 </div>
 
@@ -65,10 +65,10 @@
 
 <div class="demo" data-demo-label="ordered list">
   <ol>
-    <li>First item</li>
-    <li>Second item</li>
-    <li>Third item</li>
-    <li>Fourth item</li>
+    <li>Ordered list item.</li>
+    <li>Ordered list item.</li>
+    <li>Ordered list item.</li>
+    <li>Ordered list item.</li>
   </ol>
 </div>
 
@@ -76,10 +76,10 @@
 
 <div class="demo" data-demo-label="unordered list">
   <ul>
-    <li>3 eggs</li>
-    <li>1/2 teaspoon vanilla</li>
-    <li>1 cup flour</li>
-    <li>1 tbs. cinnamon</li>
+    <li>Unordered list item.</li>
+    <li>Unordered list item.</li>
+    <li>Unordered list item.</li>
+    <li>Unordered list item.</li>
   </ul>
 </div>
 
@@ -105,6 +105,8 @@
 ## Fluid Media
 
 ## Other components
+
+<pre>
 
 - [x] Colors
 - [x] Demos
@@ -149,6 +151,8 @@
     - [ ] Update
     - [ ] Warning
 
+</pre>
+
 </main>
 
 <style>
@@ -180,10 +184,6 @@
 
   html {
     background-color: var(--light-color);
-  }
-
-  body {
-    
   }
 
   ::selection {
