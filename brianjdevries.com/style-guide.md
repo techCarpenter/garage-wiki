@@ -1,8 +1,8 @@
-<h1 class="primary-title">Site Style Guide</h1>
-
 <main>
 
-## Colors
+<h1 class="primary-title">Site Style Guide</h1>
+
+<h2>Colors</h2>
 
 <div style="display: flex; flex-direction: row;">
   <div class="swatch" style="background-color: var(--vermillion);  color: black;">Vermillion</div>
@@ -10,7 +10,7 @@
   <div class="swatch" style="background-color: var(--light-color); color: black; margin-left: 0.5rem; border: 1px solid black;">Light</div>
 </div>
 
-## Demos
+<h2>Demos</h2>
 
 <div class="demo">
   <p>This is a basic demo</p>
@@ -20,9 +20,9 @@
   <p>This is a demo with a new label.</p>
 </div>
 
-## Typography
+<h2>Typography</h2>
 
-### Headers and Text
+<h3>Headers and Text</h3>
 
 <div class="demo">
   <h1>Top Level Header</h1>
@@ -39,29 +39,29 @@
   <p>This is a paragraph to give sense of the flow of a document that has headers. There shouldn't be a huge gap around the headers, but enough to make text readable and let the headers stand out!</p>
 </div>
 
-### Primary Title
+<h3>Primary Title</h3>
 
 <div class="demo" data-demo-label="Primary Title">
   <h1 class="primary-title">Primary Title Demo</h1>
 </div>
 
-### Links
+<h3>Links</h3>
 
 <div class="demo" data-demo-label="standard link">
   <p>This is a <a href="#">standard link</a></p>
 </div>
 
-### Blockquotes
+<h3>Blockquotes</h3>
 
-## Web Fonts
+<h2>Web Fonts</h2>
 
-## Code Blocks
+<h2>Code Blocks</h2>
 
-## Icons
+<h2>Icons</h2>
 
-## Lists
+<h2>Lists</h2>
 
-### Ordered
+<h3>Ordered</h3>
 
 <div class="demo" data-demo-label="ordered list">
   <ol>
@@ -72,7 +72,7 @@
   </ol>
 </div>
 
-### Unordered
+<h3>Unordered</h3>
 
 <div class="demo" data-demo-label="unordered list">
   <ul>
@@ -83,7 +83,7 @@
   </ul>
 </div>
 
-### Posts list
+<h3>Posts list</h3>
 
 <div class="demo" data-demo-label="Posts list">
   <ol class="posts">
@@ -98,13 +98,13 @@
   </ol>
 </div>
 
-## Comments?
+<h2>Comments?</h2>
 
-## Tables
+<h2>Tables</h2>
 
-## Fluid Media
+<h2>Fluid Media</h2>
 
-## Other components
+<h2>Other components</h2>
 
 <pre>
 
