@@ -164,6 +164,7 @@
 - [ ] [_Company of One_ Summary](https://paulminors.com/blog/company-of-one-by-paul-jarvis-book-summary-pdf/)
 - [ ] [Make a font based on your handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
 - [ ] [Find element(s) causing accidental scrollbar](#find-elements-causing-accidental-scrollbar)
+- [ ] [Apply this article about content marketing!](https://stackingthebricks.com/5-rules-content-that-sells/)
 
 ---
 
