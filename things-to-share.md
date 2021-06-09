@@ -166,6 +166,7 @@
 - [ ] [Find element(s) causing accidental scrollbar](#find-elements-causing-accidental-scrollbar)
 - [ ] [Apply this article about content marketing!](https://stackingthebricks.com/5-rules-content-that-sells/)
 - [ ] > "If a person has had the sense of the Call—the feeling that there's an adventure for one—and if one doesn’t follow that, but remains in the society because it is safe and secure, then life dries up," wrote Joseph Campbell.
+- [ ] [Humane Tech actions](https://www.humanetech.com/take-control)
 
 ---
 
