@@ -20,7 +20,13 @@
 - Newsletter
 - Community where users talk
 - Mentor/Mentee pairings
+- Physical trackers
+  - Print-outs to hang on the refrigerator/wall
+  - Badges/Medals of achievement
+- Digital wallpapers to inspire
+- Make it easy to share progress on social media
+- Compete with others, challenge friends to paydown sprints?
 
 ## Thoughts on my mission with this project
 
-It's not a secret that the cost of education has resulted in a tremendous amount of student debt. I am a fellow debtor striving to pay back my student debt while also saving for a house and contributing to retirement. According to Nitro College, [44.7 million Americans have student loans](https://www.nitrocollege.com/research/average-student-loan-debt#hs_cos_wrapper_widget_1553721497351), with an average loan amount of ~$37,000. I personally have much more than that, while my wife has a bit less. Paying back debt is difficult, slow, and unrewarding. Through _Topple_, I want to encourage and inspire people to stay committed to paying down their student loans quickly. While it's a complicated topic, I think I can contribute to the toolset for becoming debt free.
+It's not a secret that the cost of education has resulted in a tremendous amount of student debt. I am a fellow debtor striving to pay back my student debt while also saving for a house and contributing to retirement. According to Nitro College, [44.7 million Americans have student loans](https://www.nitrocollege.com/research/average-student-loan-debt#hs_cos_wrapper_widget_1553721497351), with an average loan amount of ~$37,000 per person. I personally have much more than that, while my wife has a bit less. Paying back debt is difficult, slow, and unrewarding. Through _Topple_, I want to encourage and inspire people to stay committed to paying down their student loans quickly. While it's a complicated topic, I think I can contribute to the toolset for becoming debt free.
