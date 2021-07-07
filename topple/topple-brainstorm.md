@@ -59,3 +59,4 @@ Paying back debt is difficult, slow, and unrewarding. Through _Topple_, I want t
 - Record previous payments
 - Compare payment plans
 - Email notifications and reminders
+- Account settings/profile management
