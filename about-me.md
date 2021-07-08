@@ -15,16 +15,14 @@
 
 ## Witty comments
 
-- Waiting for someone to email me back
-- Don't forget to floss/Floss every day
-- Find me eating cheerios
 - Keep one unsaved document open at all times
-- You probably haven't heard of me
-- Am I trying too hard?
 
 ## Professional
 
 - C#
+- Javascript/Typescript
+- HTML
+- CSS
 - .NET Core
 - JAMstack
 - Vue.js/Gridsome
@@ -33,7 +31,7 @@
 
 ## Who I am
 
-- Christian (OPC) ✝️
+- Christian ✝️
 - Husband 👨
 - Father of 2 boys 👨‍👩‍👦‍👦
 - Gun owner 🔫
@@ -55,7 +53,7 @@
 - Budding content creator
 - Solo founder in the making
 - Married since I was 20 🤵👰
-- Beards and mustaches 🧔
+- Facial hair 🧔
 
 ## Personal Interests
 
