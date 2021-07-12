@@ -218,6 +218,34 @@
   - logos
   - freecodecamp badges (concept)
 
+### Skills
+
+| Skill                 | Start Month | Start Year |
+| :-------------------- | :---------- | :--------- |
+| Node.js               |             |            |
+| APIs                  |             |            |
+| Software development  | 08          | 2014       |
+| .NET Framework        | 05          | 2018       |
+| C#                    | 05          | 2018       |
+| Visual Studio         | 05          | 2018       |
+| Git                   | 05          | 2018       |
+| Web development       | 02          | 2019       |
+| CSS                   | 02          | 2019       |
+| HTML5                 | 02          | 2019       |
+| JavaScript            | 07          | 2019       |
+| JSON                  | 07          | 2019       |
+| Front-end development | 07          | 2019       |
+| React                 | 07          | 2019       |
+| GitHub                | 07          | 2019       |
+| Vue.js                |             | 2020       |
+| Gridsome              | 02          | 2020       |
+| SQL                   | 05          | 2020       |
+| Agile                 | 05          | 2020       |
+| REST                  | 05          | 2020       |
+| Eleventy              | 11          | 2020       |
+| Tailwind CSS          | 11          | 2020       |
+| TypeScript            | 06          | 2021       |
+
 ### Ideas/Thoughts
 
 - Wander on purpose
