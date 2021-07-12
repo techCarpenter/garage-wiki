@@ -25,12 +25,26 @@
 
 ## Mistakes and symptoms:
 
-1. Fishing for compliments. “I’m thinking of starting a business... so, do you think it will work?” “I had an awesome idea for an app — do you like it?”
-2. Exposing your ego (aka The Pathos Problem). “So here’s that top-secret project I quit my job for... what do you think?” “I can take it — be honest and tell me what you really think!”
-3. Being pitchy. “No no, I don’t think you get it...” “Yes, but it also does this!”
-4. Being too formal. “So, first off, thanks for agreeing to this interview. I just have a few questions for you and then I’ll let you get back to your day…” “On a scale of 1 to 5, how much would you say you…” “Let’s set up a meeting.”
-5. Being a learning bottleneck. “You just worry about the product. I’ll handle the customers.” “Because the customers told me so!” “I don’t have time to talk to people — I need to get back to coding!”
-6. Collecting compliments instead of facts and commitments. “We’re getting a lot of positive feedback.” “Everybody I’ve talked to loves the idea.”
+1. **Fishing for compliments.**
+   - "I’m thinking of starting a business... so, do you think it will work?"
+   - "I had an awesome idea for an app — do you like it?"
+2. **Exposing your ego (aka The Pathos Problem).**
+   - "So here’s that top-secret project I quit my job for... what do you think?"
+   - "I can take it — be honest and tell me what you really think!"
+3. **Being pitchy.**
+   - "No no, I don’t think you get it..."
+   - "Yes, but it also does this!"
+4. **Being too formal.**
+   - "So, first off, thanks for agreeing to this interview. I just have a few questions for you and then I’ll let you get back to your day…"
+   - "On a scale of 1 to 5, how much would you say you…"
+   - "Let’s set up a meeting."
+5. **Being a learning bottleneck.**
+   - "You just worry about the product. I’ll handle the customers."
+   - "Because the customers told me so!"
+   - "I don’t have time to talk to people — I need to get back to coding!"
+6. **Collecting compliments instead of facts and commitments.**
+   - "We’re getting a lot of positive feedback."
+   - "Everybody I’ve talked to loves the idea."
 
 ## The process around the meeting:
 
@@ -99,7 +113,7 @@
 - A pipeline of zombie leads
 - Ending product meetings with a compliment
 - Ending product meetings with no clear next steps
-- Meetings which “went well”
+- Meetings which "went well"
 - They haven’t given up anything of value
 
 ## Asking for and framing the meeting:
